@@ -4,13 +4,32 @@
   "notice": {
     "noticeId": "notice_1",
     "source": {
-      "filename": "notice_1.pdf",
-      "receivedDate": null,
-      "letterDate": null
+      "filename": "layoff1.pdf",
+      "receivedDate": "2025-12-13",
+      "letterDate": "2025-12-13"
     },
     "jurisdiction": "WA",
-    "remoteClauses": [],
-    "separationDates": [],
+    "remoteClauses": [
+      {
+        "text": "plus 6 affected remote employees residing within the state of Washington.",
+        "affectedCount": 6,
+        "state": "WA"
+      }
+    ],
+    "separationDates": [
+      "2026-02-02",
+      "2026-02-03",
+      "2026-02-04",
+      "2026-02-05",
+      "2026-02-10",
+      "2026-02-11",
+      "2026-02-12",
+      "2026-02-16",
+      "2026-02-17",
+      "2026-02-19",
+      "2026-02-21",
+      "2026-02-23"
+    ],
     "facilities": [],
     "jobTitleImpacts": []
   }
