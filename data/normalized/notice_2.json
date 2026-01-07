@@ -1,0 +1,17 @@
+{
+  "version": "0.1.0",
+  "generatedAt": "2026-01-07T00:00:00Z",
+  "notice": {
+    "noticeId": "notice_2",
+    "source": {
+      "filename": "notice_2.pdf",
+      "receivedDate": null,
+      "letterDate": null
+    },
+    "jurisdiction": "WA",
+    "remoteClauses": [],
+    "separationDates": [],
+    "facilities": [],
+    "jobTitleImpacts": []
+  }
+}
