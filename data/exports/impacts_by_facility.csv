@@ -1,0 +1,1019 @@
+noticeId,facilityId,jobTitleRaw,jobTitleCanonical,affectedCount
+notice_1,SEA104,PROGRAM MANAGER II,Program Manager II,1
+notice_1,SEA104,SOURCING RECRUITER III,Sourcing Recruiter III,1
+notice_1,SEA107,"SR MANAGER, PRODUCT MGMT","Sr Manager, Product Mgmt",1
+notice_1,SEA107,"SR MGR, RECRUITING","Sr Mgr, Recruiting",1
+notice_1,SEA112,"DIR, SYSTEM DEVELOPMENT","Dir, System Development",1
+notice_1,SEA112,TECHNICAL PROGRAM MANAGER III,Technical Program Manager III,1
+notice_1,SEA132,SOFTWARE DEV ENGINEER II,Software Dev Engineer II,1
+notice_1,SEA20,APPLIED SCIENTIST III,Applied Scientist III,1
+notice_1,SEA20,PRODUCT MGR III - TECH,Product Mgr III - Tech,1
+notice_1,SEA20,PROGRAM MANAGER II,Program Manager II,1
+notice_1,SEA20,SOFTWARE DEV ENGINEER II,Software Dev Engineer II,1
+notice_1,SEA22,SOFTWARE DEV ENGINEER I,Software Dev Engineer I,2
+notice_1,SEA23,"DIRECTOR, HUMAN RESOURCES","Director, Human Resources",1
+notice_1,SEA23,FULL LIFECYCLE RECRUITER II,Full Lifecycle Recruiter II,2
+notice_1,SEA23,FULL LIFECYCLE RECRUITER III,Full Lifecycle Recruiter III,1
+notice_1,SEA23,PROGRAM MANAGER I,Program Manager I,1
+notice_1,SEA23,RECRUITING BP II,Recruiting BP II,1
+notice_1,SEA23,RECRUITING BP III,Recruiting BP III,1
+notice_1,SEA23,UX DESIGNER II,UX Designer II,1
+notice_1,SEA24,"DIRECTOR, PROD MGMT - TECH","Director, Prod Mgmt - Tech",1
+notice_1,SEA26,SOFTWARE DEV ENGINEER II,Software Dev Engineer II,2
+notice_1,SEA28,EXECUTIVE ASSISTANT II,Executive Assistant II,1
+notice_1,SEA28,SOFTWARE DEV ENGINEER II,Software Dev Engineer II,1
+notice_1,SEA28,SUPPORT ENGINEER IV,Support Engineer IV,1
+notice_1,SEA33,PROGRAM MANAGER II,Program Manager II,1
+notice_1,SEA33,TECH WRITER-TECH III,Tech Writer-Tech III,1
+notice_1,SEA38,SOFTWARE DEV ENGINEER II,Software Dev Engineer II,1
+notice_1,SEA38,UX DESIGNER II,UX Designer II,1
+notice_1,SEA39,SOFTWARE DEV ENGINEER II,Software Dev Engineer II,1
+notice_1,SEA40,EXECUTIVE ASSISTANT I,Executive Assistant I,1
+notice_1,SEA40,LEGAL COUNSEL III,Legal Counsel III,1
+notice_1,SEA40,PRINCIPAL PROGRAM MANAGEMENT,Principal Program Management,1
+notice_1,SEA40,"PRINCIPAL, CORP DEV","Principal, Corp Dev",1
+notice_1,SEA40,"SR MANAGER, SOFTWARE DEV","Sr Manager, Software Dev",1
+notice_1,SEA40,"SR.MGR, GENERAL MKTG","Sr Mgr, General Mktg",1
+notice_1,SEA40,SYSTEM ADMIN/ENGR II,System Admin/Engr II,1
+notice_1,SEA41,"DIRECTOR, PRODUCT MANAGEMENT","Director, Product Management",1
+notice_1,SEA41,"DIRECTOR, TECH PROGRAM MGMT","Director, Tech Program Mgmt",1
+notice_1,SEA41,PRINCIPAL PRODUCT MANAGEMENT,Principal Product Management,1
+notice_1,SEA41,"PRINCIPAL, HR SPECIALIST","Principal, HR Specialist",1
+notice_1,SEA41,PROGRAM MANAGER III,Program Manager III,1
+notice_1,SEA41,RECRUITING BP III,Recruiting BP III,1
+notice_1,SEA41,RESEARCH SCIENTIST II,Research Scientist II,1
+notice_1,SEA41,SOFTWARE DEV ENGINEER I,Software Dev Engineer I,1
+notice_1,SEA41,"SR MANAGER, SOFTWARE DEV","Sr Manager, Software Dev",1
+notice_1,SEA41,UX DESIGNER III,UX Designer III,1
+notice_1,SEA42,"SR MANAGER, FINANCE","Sr Manager, Finance",1
+notice_1,SEA43,"DIRECTOR, SOFTWARE DEVELOPMENT","Director, Software Development",1
+notice_1,SEA44,"DIRECTOR, SOFTWARE DEVELOPMENT","Director, Software Development",1
+notice_1,SEA44,SOLUTIONS ARCHITECT I,Solutions Architect I,1
+notice_1,SEA54,RETAIL VENDOR MANAGER III,Retail Vendor Manager III,1
+notice_1,SEA55,TECHNICAL WRITER II,Technical Writer II,1
+notice_1,SEA58,"PRINCIPAL, HR SPECIALIST","Principal, HR Specialist",1
+notice_1,SEA68,TECHNICAL PROGRAM MANAGER III,Technical Program Manager III,1
+notice_1,SEA70,FRONT-END ENGINEER II,Front-End Engineer II,1
+notice_1,SEA70,SOFTWARE DEV ENGINEER II,Software Dev Engineer II,2
+notice_1,SEA70,"SR MANAGER, SOFTWARE DEV","Sr Manager, Software Dev",1
+notice_1,SEA71,INSTOCK MANAGER III,Instock Manager III,1
+notice_1,SEA71,"MANAGER III, CUSTOMER SUCCESS","Manager III, Customer Success",1
+notice_1,SEA71,PRODUCT MGR III - TECH,Product Mgr III - Tech,1
+notice_1,SEA71,SOFTWARE DEV ENGINEER I,Software Dev Engineer I,1
+notice_1,SEA71,SOFTWARE DEV ENGINEER III,Software Dev Engineer III,2
+notice_1,SEA76,SOFTWARE DEV ENGINEER I,Software Dev Engineer I,1
+notice_1,SEA81,"VP, SALES/ACCOUNT MANAGEMENT","VP, Sales/Account Management",1
+notice_1,SEA82,"MANAGER III, PROGRAM MGMT","Manager III, Program Mgmt",1
+notice_1,SEA83,BUSINESS INTEL ENGINEER II,Business Intel Engineer II,1
+notice_1,SEA84,FINANCIAL ANALYST III,Financial Analyst III,1
+notice_1,SEA86,BUSINESS DEVELOPER III,Business Developer III,1
+notice_1,SEA86,SOFTWARE DEV ENGINEER I,Software Dev Engineer I,1
+notice_1,SEA90,APPLIED SCIENTIST II,Applied Scientist II,1
+notice_1,SEA91,FINANCIAL ANALYST II,Financial Analyst II,2
+notice_1,SEA91,SOFTWARE DEV ENGINEER III,Software Dev Engineer III,1
+notice_1,REMOTE_WA,BUSINESS INTEL ENGINEER I,Business Intel Engineer I,1
+notice_1,REMOTE_WA,HR SPECIALIST II,HR Specialist II,1
+notice_1,REMOTE_WA,"MANAGER III, TECH BUSINESS DEV","Manager III, Tech Business Dev",1
+notice_1,REMOTE_WA,"MGR II, SUPPORT ENGINEER-EXT","Mgr II, Support Engineer-Ext",1
+notice_1,REMOTE_WA,SOFTWARE DEV ENGINEER II,Software Dev Engineer II,1
+notice_1,REMOTE_WA,"SR MANAGER, PROGRAM MANAGEMENT","Sr Manager, Program Management",1
+notice_2,SEA106,Software Dev Engineer III,Software Dev Engineer III,2
+notice_2,SEA106,"Sr Manager, Software Dev","Sr Manager, Software Dev",4
+notice_2,SEA106,Technical Program Manager III,Technical Program Manager III,1
+notice_2,SEA107,Applied Scientist II,Applied Scientist II,3
+notice_2,SEA107,Business Intel Engineer III,Business Intel Engineer III,1
+notice_2,SEA107,Data Engineer II,Data Engineer II,3
+notice_2,SEA107,"Manager III, Applied Science","Manager III, Applied Science",2
+notice_2,SEA107,"Manager III, Business Intel","Manager III, Business Intel",1
+notice_2,SEA107,"Manager III, Software Dev","Manager III, Software Dev",1
+notice_2,SEA107,Principal Product Management,Principal Product Management,1
+notice_2,SEA107,Privacy Specialist I,Privacy Specialist I,1
+notice_2,SEA107,Product Manager III,Product Manager III,1
+notice_2,SEA107,Product Mgr III - Tech,Product Mgr III - Tech,1
+notice_2,SEA107,Quality Assurance Engineer I,Quality Assurance Engineer I,1
+notice_2,SEA107,Quality Assurance Engineer III,Quality Assurance Engineer III,1
+notice_2,SEA107,Quality Assurance Tech I,Quality Assurance Tech I,1
+notice_2,SEA107,Software Dev Engineer II,Software Dev Engineer II,6
+notice_2,SEA107,Software Dev Engineer III,Software Dev Engineer III,1
+notice_2,SEA107,"Sr Manager, Product Mgmt","Sr Manager, Product Mgmt",1
+notice_2,SEA107,"Sr Manager, Software Dev","Sr Manager, Software Dev",1
+notice_2,SEA107,"Sr Manager, Tech Program Mgmt","Sr Manager, Tech Program Mgmt",1
+notice_2,SEA107,"Sr Mgr, Recruiting","Sr Mgr, Recruiting",1
+notice_2,SEA107,Technical Program Manager II,Technical Program Manager II,3
+notice_2,SEA107,UX Researcher III,UX Researcher III,1
+notice_2,SEA112,Account Manager III,Account Manager III,1
+notice_2,SEA112,Business Analyst III,Business Analyst III,1
+notice_2,SEA112,Business Intel Engineer II,Business Intel Engineer II,3
+notice_2,SEA112,Business Intel Engineer III,Business Intel Engineer III,1
+notice_2,SEA112,Data Engineer I,Data Engineer I,1
+notice_2,SEA112,Data Engineer II,Data Engineer II,3
+notice_2,SEA112,Data Engineer III,Data Engineer III,1
+notice_2,SEA112,Data Scientist II,Data Scientist II,2
+notice_2,SEA112,Data Scientist III,Data Scientist III,1
+notice_2,SEA112,Database Engineer II,Database Engineer II,3
+notice_2,SEA112,Design Technologist III,Design Technologist III,1
+notice_2,SEA112,"Director, Software Development","Director, Software Development",1
+notice_2,SEA112,Hardware Dev Engr II,Hardware Dev Engr II,1
+notice_2,SEA112,Hardware Dev Engr III,Hardware Dev Engr III,1
+notice_2,SEA112,Principal Research Scientist,Principal Research Scientist,1
+notice_2,SEA112,Principal Software Dev Eng,Principal Software Dev Eng,1
+notice_2,SEA112,Principal Tech Program Manager,Principal Tech Program Manager,1
+notice_2,SEA112,"Principal, HRBP (Corp)","Principal, HRBP (Corp)",1
+notice_2,SEA112,"Principal, Supply Chain","Principal, Supply Chain",1
+notice_2,SEA112,Product Manager III,Product Manager III,2
+notice_2,SEA112,Product Manager III - MBA,Product Manager III - MBA,1
+notice_2,SEA112,Program Manager II,Program Manager II,1
+notice_2,SEA112,Research Scientist II,Research Scientist II,1
+notice_2,SEA112,Software Dev Engineer I,Software Dev Engineer I,13
+notice_2,SEA112,Software Dev Engineer II,Software Dev Engineer II,19
+notice_2,SEA112,Software Dev Engineer III,Software Dev Engineer III,3
+notice_2,SEA112,"Sr Manager, Software Dev","Sr Manager, Software Dev",1
+notice_2,SEA112,"Sr Manager, Tech Program Mgmt","Sr Manager, Tech Program Mgmt",2
+notice_2,SEA112,"Sr Mgr, Supply Chain MGMT","Sr Mgr, Supply Chain MGMT",1
+notice_2,SEA112,System Dev Engineer III,System Dev Engineer III,1
+notice_2,SEA112,System Development Engineer I,System Development Engineer I,3
+notice_2,SEA112,System Development Engineer II,System Development Engineer II,3
+notice_2,SEA112,Tech Business Developer II,Tech Business Developer II,1
+notice_2,SEA112,Technical Program Manager II,Technical Program Manager II,1
+notice_2,SEA112,Technical Program Manager III,Technical Program Manager III,1
+notice_2,SEA112,UX Researcher I,UX Researcher I,1
+notice_2,SEA112,UX Researcher III,UX Researcher III,1
+notice_2,SEA113,Tech Writer-Tech II,Tech Writer-Tech II,1
+notice_2,SEA124,IT Support Eng I,IT Support Eng I,1
+notice_2,SEA124,"Mgr III, Data Center Materials","Mgr III, Data Center Materials",1
+notice_2,SEA132,"Director, Human Resources","Director, Human Resources",1
+notice_2,SEA132,General MKTG III,General MKTG III,1
+notice_2,SEA132,"Manager II, Software Dev","Manager II, Software Dev",1
+notice_2,SEA132,"Manager III, Program Mgmt","Manager III, Program Mgmt",1
+notice_2,SEA132,"Manager III, Software Dev","Manager III, Software Dev",1
+notice_2,SEA132,"Mgr III, Recruiting","Mgr III, Recruiting",2
+notice_2,SEA132,Program Manager II,Program Manager II,2
+notice_2,SEA132,Program Manager III,Program Manager III,1
+notice_2,SEA132,Quality Assurance Engineer I,Quality Assurance Engineer I,1
+notice_2,SEA132,Quality Assurance Engineer II,Quality Assurance Engineer II,4
+notice_2,SEA132,Quality Assurance Engineer III,Quality Assurance Engineer III,1
+notice_2,SEA132,Software Dev Engineer I,Software Dev Engineer I,7
+notice_2,SEA132,Software Dev Engineer II,Software Dev Engineer II,17
+notice_2,SEA132,Software Dev Engineer III,Software Dev Engineer III,7
+notice_2,SEA132,Sourcing Recruiter I,Sourcing Recruiter I,1
+notice_2,SEA132,Sourcing Recruiter II,Sourcing Recruiter II,1
+notice_2,SEA132,Sourcing Recruiter III,Sourcing Recruiter III,1
+notice_2,SEA132,Technical Program Manager III,Technical Program Manager III,2
+notice_2,SEA20,Applied Scientist II,Applied Scientist II,6
+notice_2,SEA20,Applied Scientist III,Applied Scientist III,3
+notice_2,SEA20,Business Intel Engineer II,Business Intel Engineer II,1
+notice_2,SEA20,Business Intel Engineer III,Business Intel Engineer III,1
+notice_2,SEA20,Data Engineer I,Data Engineer I,1
+notice_2,SEA20,Data Engineer II,Data Engineer II,4
+notice_2,SEA20,Data Engineer III,Data Engineer III,3
+notice_2,SEA20,Data Scientist II,Data Scientist II,2
+notice_2,SEA20,Editor II,Editor II,1
+notice_2,SEA20,"Manager III, Data Engineering","Manager III, Data Engineering",1
+notice_2,SEA20,"Manager III, Software Dev","Manager III, Software Dev",1
+notice_2,SEA20,"Principal, Applied Scientist","Principal, Applied Scientist",2
+notice_2,SEA20,"Principal, Product Mgmt - Tech","Principal, Product Mgmt - Tech",1
+notice_2,SEA20,Product Mgr III - Tech,Product Mgr III - Tech,2
+notice_2,SEA20,Program Manager II,Program Manager II,1
+notice_2,SEA20,Protective Services Mgr II,Protective Services Mgr II,2
+notice_2,SEA20,Quality Assurance Engineer III,Quality Assurance Engineer III,1
+notice_2,SEA20,Research Scientist III,Research Scientist III,1
+notice_2,SEA20,Software Dev Engineer I,Software Dev Engineer I,11
+notice_2,SEA20,Software Dev Engineer II,Software Dev Engineer II,13
+notice_2,SEA20,Software Dev Engineer III,Software Dev Engineer III,3
+notice_2,SEA20,"Sr Manager, Prod Mgmt - Tech","Sr Manager, Prod Mgmt - Tech",1
+notice_2,SEA20,"Sr Manager, Software Dev","Sr Manager, Software Dev",2
+notice_2,SEA20,Technical Program Manager II,Technical Program Manager II,1
+notice_2,SEA20,Technical Program Manager III,Technical Program Manager III,3
+notice_2,SEA20,UX Designer III,UX Designer III,1
+notice_2,SEA22,Contract Manager III,Contract Manager III,1
+notice_2,SEA22,Financial Analyst II,Financial Analyst II,2
+notice_2,SEA22,Front-End Engineer III,Front-End Engineer III,1
+notice_2,SEA22,"Manager III, Software Dev","Manager III, Software Dev",1
+notice_2,SEA22,Program Manager II,Program Manager II,1
+notice_2,SEA22,Software Dev Engineer I,Software Dev Engineer I,3
+notice_2,SEA22,Software Dev Engineer II,Software Dev Engineer II,4
+notice_2,SEA22,Software Dev Engineer III,Software Dev Engineer III,4
+notice_2,SEA22,"Sr Manager, Finance","Sr Manager, Finance",1
+notice_2,SEA22,"Sr Mgr, Creative Dev","Sr Mgr, Creative Dev",1
+notice_2,SEA22,"Sr. Manager, Risk","Sr. Manager, Risk",1
+notice_2,SEA22,Support Engineer IV,Support Engineer IV,1
+notice_2,SEA23,Business Analyst III,Business Analyst III,1
+notice_2,SEA23,Business Intel Engineer II,Business Intel Engineer II,1
+notice_2,SEA23,Business Intel Engineer III,Business Intel Engineer III,1
+notice_2,SEA23,Creative MKTG II,Creative MKTG II,1
+notice_2,SEA23,Data Engineer III,Data Engineer III,1
+notice_2,SEA23,"Director, Human Resources","Director, Human Resources",1
+notice_2,SEA23,Full Lifecycle Recruiter I,Full Lifecycle Recruiter I,1
+notice_2,SEA23,Full Lifecycle Recruiter II,Full Lifecycle Recruiter II,5
+notice_2,SEA23,Full Lifecycle Recruiter III,Full Lifecycle Recruiter III,4
+notice_2,SEA23,HR Specialist II,HR Specialist II,1
+notice_2,SEA23,HR Specialist III,HR Specialist III,1
+notice_2,SEA23,"Mgr II, Recruiting","Mgr II, Recruiting",1
+notice_2,SEA23,"Mgr III, Recruiting","Mgr III, Recruiting",8
+notice_2,SEA23,Principal Recruiting BP,Principal Recruiting BP,1
+notice_2,SEA23,Program Manager I,Program Manager I,4
+notice_2,SEA23,Program Manager II,Program Manager II,4
+notice_2,SEA23,Program Manager III,Program Manager III,2
+notice_2,SEA23,Recruiting BP I,Recruiting BP I,7
+notice_2,SEA23,Recruiting BP II,Recruiting BP II,5
+notice_2,SEA23,Recruiting BP III,Recruiting BP III,6
+notice_2,SEA23,Recruiting Coord I,Recruiting Coord I,1
+notice_2,SEA23,Sourcing Recruiter I,Sourcing Recruiter I,10
+notice_2,SEA23,Sourcing Recruiter II,Sourcing Recruiter II,11
+notice_2,SEA23,Sourcing Recruiter III,Sourcing Recruiter III,6
+notice_2,SEA23,"Specialist III, Learning & Dev","Specialist III, Learning & Dev",1
+notice_2,SEA23,"Sr Manager, UX/Design","Sr Manager, UX/Design",1
+notice_2,SEA23,"Sr Mgr, HR Specialist","Sr Mgr, HR Specialist",2
+notice_2,SEA23,"Sr Mgr, Recruiting","Sr Mgr, Recruiting",2
+notice_2,SEA23,UX Designer II,UX Designer II,1
+notice_2,SEA23,UX Designer III,UX Designer III,1
+notice_2,SEA24,Financial Analyst II,Financial Analyst II,1
+notice_2,SEA24,"Manager III, Data Engineering","Manager III, Data Engineering",1
+notice_2,SEA24,Principal Program Management,Principal Program Management,1
+notice_2,SEA24,Risk Manager II,Risk Manager II,5
+notice_2,SEA24,Risk Manager III,Risk Manager III,5
+notice_2,SEA24,Risk Specialist I,Risk Specialist I,3
+notice_2,SEA24,"Sr Manager, Finance","Sr Manager, Finance",1
+notice_2,SEA24,System Dev Engineer III,System Dev Engineer III,1
+notice_2,SEA25,Designer II,Designer II,1
+notice_2,SEA25,Front-End Engineer II,Front-End Engineer II,1
+notice_2,SEA25,Principal Program Management,Principal Program Management,1
+notice_2,SEA25,Principal Software Dev Eng,Principal Software Dev Eng,1
+notice_2,SEA25,Program Manager II,Program Manager II,1
+notice_2,SEA25,Program Manager III,Program Manager III,4
+notice_2,SEA25,Software Dev Engineer II,Software Dev Engineer II,3
+notice_2,SEA25,Software Dev Engineer III,Software Dev Engineer III,4
+notice_2,SEA25,"Sr Manager, Program Management","Sr Manager, Program Management",2
+notice_2,SEA25,"Sr Manager, Software Dev","Sr Manager, Software Dev",3
+notice_2,SEA25,"Sr. Mgr, System Development","Sr. Mgr, System Development",1
+notice_2,SEA25,Supply Chain Mgr III,Supply Chain Mgr III,1
+notice_2,SEA25,Support Engineer III,Support Engineer III,2
+notice_2,SEA25,System Dev Engineer III,System Dev Engineer III,2
+notice_2,SEA25,System Development Engineer II,System Development Engineer II,1
+notice_2,SEA25,Tech Infra Program Manager II,Tech Infra Program Manager II,1
+notice_2,SEA25,Technical Program Manager III,Technical Program Manager III,3
+notice_2,SEA26,Applied Scientist II,Applied Scientist II,1
+notice_2,SEA26,Applied Scientist III,Applied Scientist III,2
+notice_2,SEA26,Data Engineer II,Data Engineer II,1
+notice_2,SEA26,"Director, Applied Science","Director, Applied Science",1
+notice_2,SEA26,Front-End Engineer II,Front-End Engineer II,2
+notice_2,SEA26,"Manager III, Applied Science","Manager III, Applied Science",1
+notice_2,SEA26,"Manager III, Software Dev","Manager III, Software Dev",2
+notice_2,SEA26,"Principal, Product Mgmt - Tech","Principal, Product Mgmt - Tech",2
+notice_2,SEA26,Product Mgr III - Tech,Product Mgr III - Tech,1
+notice_2,SEA26,Product Mgr III - Tech - MBA,Product Mgr III - Tech - MBA,2
+notice_2,SEA26,Security Engineer III,Security Engineer III,1
+notice_2,SEA26,Security Industry Spclst II,Security Industry Spclst II,1
+notice_2,SEA26,Software Dev Engineer I,Software Dev Engineer I,8
+notice_2,SEA26,Software Dev Engineer II,Software Dev Engineer II,15
+notice_2,SEA26,Software Dev Engineer III,Software Dev Engineer III,3
+notice_2,SEA26,"Sr Manager, Prod Mgmt - Tech","Sr Manager, Prod Mgmt - Tech",1
+notice_2,SEA26,"Sr Manager, Software Dev","Sr Manager, Software Dev",1
+notice_2,SEA26,Technical Program Manager II,Technical Program Manager II,1
+notice_2,SEA26,Technical Program Manager III,Technical Program Manager III,3
+notice_2,SEA27,Account Rep I,Account Rep I,7
+notice_2,SEA27,Account Rep II,Account Rep II,3
+notice_2,SEA27,Account Rep III,Account Rep III,1
+notice_2,SEA27,Business Analyst I,Business Analyst I,1
+notice_2,SEA27,Business Analyst II,Business Analyst II,3
+notice_2,SEA27,Business Analyst III,Business Analyst III,1
+notice_2,SEA27,Business Intel Engineer I,Business Intel Engineer I,1
+notice_2,SEA27,Business Intel Engineer III,Business Intel Engineer III,1
+notice_2,SEA27,Data Engineer II,Data Engineer II,1
+notice_2,SEA27,General MKTG II,General MKTG II,1
+notice_2,SEA27,IT App Dev Engr III,IT App Dev Engr III,1
+notice_2,SEA27,"Manager II, Account Rep","Manager II, Account Rep",1
+notice_2,SEA27,"Manager III, Account Rep","Manager III, Account Rep",1
+notice_2,SEA27,"Manager III, Business Intel","Manager III, Business Intel",1
+notice_2,SEA27,"Manager III, Customer Success","Manager III, Customer Success",1
+notice_2,SEA27,"Manager III, Sales Operations","Manager III, Sales Operations",2
+notice_2,SEA27,"Manager III, Software Dev","Manager III, Software Dev",1
+notice_2,SEA27,Principal Tech Program Manager,Principal Tech Program Manager,2
+notice_2,SEA27,Product MKTG II,Product MKTG II,2
+notice_2,SEA27,Product MKTG III,Product MKTG III,3
+notice_2,SEA27,Program Manager II,Program Manager II,3
+notice_2,SEA27,Program Manager III,Program Manager III,1
+notice_2,SEA27,Program Manager III - MBA,Program Manager III - MBA,1
+notice_2,SEA27,Software Dev Engineer I,Software Dev Engineer I,1
+notice_2,SEA27,Software Dev Engineer II,Software Dev Engineer II,3
+notice_2,SEA27,Software Dev Engineer III,Software Dev Engineer III,2
+notice_2,SEA27,"Sr Manager, Finance","Sr Manager, Finance",1
+notice_2,SEA28,Account Rep I,Account Rep I,1
+notice_2,SEA28,Account Rep II,Account Rep II,2
+notice_2,SEA28,Account Rep III,Account Rep III,2
+notice_2,SEA28,Business Analyst II,Business Analyst II,2
+notice_2,SEA28,Business Analyst III,Business Analyst III,2
+notice_2,SEA28,Business Developer III,Business Developer III,1
+notice_2,SEA28,Business Intel Engineer I,Business Intel Engineer I,4
+notice_2,SEA28,Business Intel Engineer II,Business Intel Engineer II,3
+notice_2,SEA28,Creative MKTG II,Creative MKTG II,1
+notice_2,SEA28,Data Engineer I,Data Engineer I,1
+notice_2,SEA28,Data Engineer II,Data Engineer II,2
+notice_2,SEA28,Designer II,Designer II,1
+notice_2,SEA28,Executive Assistant II,Executive Assistant II,1
+notice_2,SEA28,Functional MKTG II,Functional MKTG II,1
+notice_2,SEA28,Functional MKTG III,Functional MKTG III,3
+notice_2,SEA28,HRBP III (Corp),HRBP III (Corp),1
+notice_2,SEA28,Instock Manager II,Instock Manager II,1
+notice_2,SEA28,Inventory Planner I,Inventory Planner I,3
+notice_2,SEA28,Inventory Planning Tech III,Inventory Planning Tech III,3
+notice_2,SEA28,"Manager III, Account Mgmt","Manager III, Account Mgmt",1
+notice_2,SEA28,"Manager III, Data Engineering","Manager III, Data Engineering",1
+notice_2,SEA28,"Manager III, Product MKTG","Manager III, Product MKTG",1
+notice_2,SEA28,"Manager III, Software Dev","Manager III, Software Dev",3
+notice_2,SEA28,Principal Tech Bus Dev,Principal Tech Bus Dev,1
+notice_2,SEA28,"Principal, Product Mgmt - Tech","Principal, Product Mgmt - Tech",2
+notice_2,SEA28,Product Manager III,Product Manager III,2
+notice_2,SEA28,Product Mgr III - Tech,Product Mgr III - Tech,1
+notice_2,SEA28,Product MKTG II,Product MKTG II,2
+notice_2,SEA28,Product MKTG III,Product MKTG III,3
+notice_2,SEA28,Professional Services II,Professional Services II,4
+notice_2,SEA28,Program Manager II,Program Manager II,1
+notice_2,SEA28,Program Manager III,Program Manager III,3
+notice_2,SEA28,Quality Assurance Engineer II,Quality Assurance Engineer II,2
+notice_2,SEA28,Sales Operations III,Sales Operations III,1
+notice_2,SEA28,Software Dev Engineer I,Software Dev Engineer I,17
+notice_2,SEA28,Software Dev Engineer II,Software Dev Engineer II,24
+notice_2,SEA28,Software Dev Engineer III,Software Dev Engineer III,3
+notice_2,SEA28,"Sr Manager, Applied Science","Sr Manager, Applied Science",1
+notice_2,SEA28,"Sr Manager, Finance","Sr Manager, Finance",1
+notice_2,SEA28,"Sr Manager, Software Dev","Sr Manager, Software Dev",3
+notice_2,SEA28,"Sr Manager, UX/Design","Sr Manager, UX/Design",1
+notice_2,SEA28,"Sr. Manager, Account Rep","Sr. Manager, Account Rep",1
+notice_2,SEA28,"Sr. Manager, Sales","Sr. Manager, Sales",1
+notice_2,SEA28,"Sr. Mgr, Sales Operations","Sr. Mgr, Sales Operations",1
+notice_2,SEA28,Support Engineer IV,Support Engineer IV,1
+notice_2,SEA28,Technical Program Manager II,Technical Program Manager II,1
+notice_2,SEA28,Technical Program Manager III,Technical Program Manager III,4
+notice_2,SEA29,Business Analyst I,Business Analyst I,2
+notice_2,SEA29,Data Engineer II,Data Engineer II,1
+notice_2,SEA29,"Director, Product Management","Director, Product Management",2
+notice_2,SEA29,Financial Analyst II,Financial Analyst II,1
+notice_2,SEA29,Financial Analyst III,Financial Analyst III,1
+notice_2,SEA29,Financial Analyst III - MBA,Financial Analyst III - MBA,1
+notice_2,SEA29,Product Mgr III - Tech,Product Mgr III - Tech,1
+notice_2,SEA29,Program Manager II,Program Manager II,1
+notice_2,SEA29,Software Dev Engineer I,Software Dev Engineer I,3
+notice_2,SEA29,Software Dev Engineer II,Software Dev Engineer II,3
+notice_2,SEA29,"Sr Manager, Finance","Sr Manager, Finance",3
+notice_2,SEA29,"Sr Manager, Software Dev","Sr Manager, Software Dev",1
+notice_2,SEA29,Technical Program Manager III,Technical Program Manager III,1
+notice_2,SEA33,Data Engineer I,Data Engineer I,2
+notice_2,SEA33,Data Engineer II,Data Engineer II,1
+notice_2,SEA33,"Mgr III, Documentation-Tech","Mgr III, Documentation-Tech",2
+notice_2,SEA33,Principal Secrty Indust Spclst,Principal Secrty Indust Spclst,3
+notice_2,SEA33,Principal Tech Writer-Tech,Principal Tech Writer-Tech,2
+notice_2,SEA33,Program Manager II,Program Manager II,1
+notice_2,SEA33,Software Dev Engineer I,Software Dev Engineer I,1
+notice_2,SEA33,Software Dev Engineer II,Software Dev Engineer II,3
+notice_2,SEA33,Solutions Architect II,Solutions Architect II,1
+notice_2,SEA33,"Sr Mgr, Documentation-Tech","Sr Mgr, Documentation-Tech",1
+notice_2,SEA33,Tech Writer-Tech I,Tech Writer-Tech I,1
+notice_2,SEA33,Tech Writer-Tech II,Tech Writer-Tech II,14
+notice_2,SEA33,Tech Writer-Tech III,Tech Writer-Tech III,25
+notice_2,SEA33,Technical Program Manager II,Technical Program Manager II,2
+notice_2,SEA33,Technical Program Manager III,Technical Program Manager III,2
+notice_2,SEA37,"Director, Corp Strat Procur","Director, Corp Strat Procur",1
+notice_2,SEA37,"Director, Software Development","Director, Software Development",1
+notice_2,SEA37,Executive Assistant I,Executive Assistant I,1
+notice_2,SEA37,IT App Dev Engr II,IT App Dev Engr II,1
+notice_2,SEA37,"Manager III, Finance","Manager III, Finance",1
+notice_2,SEA37,"Manager III, Software Dev","Manager III, Software Dev",2
+notice_2,SEA37,Principal Finance,Principal Finance,2
+notice_2,SEA37,Principal Product Management,Principal Product Management,1
+notice_2,SEA37,Principal Program Management,Principal Program Management,1
+notice_2,SEA37,Principal Tech Program Manager,Principal Tech Program Manager,1
+notice_2,SEA37,Product Mgr III - Tech,Product Mgr III - Tech,1
+notice_2,SEA37,Program Manager III,Program Manager III,1
+notice_2,SEA37,Software Dev Engineer II,Software Dev Engineer II,1
+notice_2,SEA37,"Sr Manager, Corp Strat Procur","Sr Manager, Corp Strat Procur",1
+notice_2,SEA37,"Sr Manager, Software Dev","Sr Manager, Software Dev",2
+notice_2,SEA37,"Sr. Mgr, Secrty Indust Spclst","Sr. Mgr, Secrty Indust Spclst",1
+notice_2,SEA38,Design Program Manager III,Design Program Manager III,1
+notice_2,SEA38,Designer II,Designer II,1
+notice_2,SEA38,"Director, Prod Mgmt - Tech","Director, Prod Mgmt - Tech",1
+notice_2,SEA38,"Manager III, Applied Science","Manager III, Applied Science",1
+notice_2,SEA38,"Manager III, Software Dev","Manager III, Software Dev",1
+notice_2,SEA38,Principal Software Dev Eng,Principal Software Dev Eng,1
+notice_2,SEA38,Principal Tech Program Manager,Principal Tech Program Manager,2
+notice_2,SEA38,Program Manager III,Program Manager III,1
+notice_2,SEA38,Quality Assurance Engineer II,Quality Assurance Engineer II,2
+notice_2,SEA38,Software Dev Engineer I,Software Dev Engineer I,10
+notice_2,SEA38,Software Dev Engineer II,Software Dev Engineer II,12
+notice_2,SEA38,Software Dev Engineer III,Software Dev Engineer III,3
+notice_2,SEA38,Software Dev Engineer II-TEST,Software Dev Engineer II-TEST,1
+notice_2,SEA38,"Sr Manager, Software Dev","Sr Manager, Software Dev",1
+notice_2,SEA38,"Sr Manager, UX/Design","Sr Manager, UX/Design",1
+notice_2,SEA38,System Dev Engineer III,System Dev Engineer III,1
+notice_2,SEA38,Technical Program Manager II,Technical Program Manager II,1
+notice_2,SEA38,Technical Program Manager III,Technical Program Manager III,2
+notice_2,SEA38,UX Designer I,UX Designer I,1
+notice_2,SEA38,UX Designer II,UX Designer II,1
+notice_2,SEA38,UX Designer III,UX Designer III,1
+notice_2,SEA39,Business Developer II,Business Developer II,1
+notice_2,SEA39,"Director, Software Development","Director, Software Development",1
+notice_2,SEA39,Front-End Engineer II,Front-End Engineer II,1
+notice_2,SEA39,Front-End Engineer III,Front-End Engineer III,2
+notice_2,SEA39,IT App Analyst II,IT App Analyst II,1
+notice_2,SEA39,"Manager III, Software Dev","Manager III, Software Dev",7
+notice_2,SEA39,Principal Data Engineering,Principal Data Engineering,1
+notice_2,SEA39,Principal Software Dev Eng,Principal Software Dev Eng,2
+notice_2,SEA39,Principal Tech Program Manager,Principal Tech Program Manager,1
+notice_2,SEA39,"Principal, Product Mgmt - Tech","Principal, Product Mgmt - Tech",2
+notice_2,SEA39,Product Manager III,Product Manager III,2
+notice_2,SEA39,Product Mgr III - Tech,Product Mgr III - Tech,1
+notice_2,SEA39,Software Dev Engineer I,Software Dev Engineer I,19
+notice_2,SEA39,Software Dev Engineer II,Software Dev Engineer II,29
+notice_2,SEA39,Software Dev Engineer III,Software Dev Engineer III,14
+notice_2,SEA39,"Sr Manager, Product Mgmt","Sr Manager, Product Mgmt",1
+notice_2,SEA39,"Sr Manager, Software Dev","Sr Manager, Software Dev",2
+notice_2,SEA39,"Sr Manager, Tech Program Mgmt","Sr Manager, Tech Program Mgmt",1
+notice_2,SEA39,System Development Engineer II,System Development Engineer II,1
+notice_2,SEA39,Technical Program Manager II,Technical Program Manager II,1
+notice_2,SEA39,Technical Program Manager III,Technical Program Manager III,3
+notice_2,SEA40,"Acct Exec I 50, Ad Growth","Acct Exec I 50, Ad Growth",3
+notice_2,SEA40,"Acct Exec II 100, AdLrgSales","Acct Exec II 100, AdLrgSales",4
+notice_2,SEA40,"Acct Exec II 50, Ad Growth","Acct Exec II 50, Ad Growth",1
+notice_2,SEA40,"Acct Exec III 100, AdLrgSales","Acct Exec III 100, AdLrgSales",13
+notice_2,SEA40,Ad Sales Acct Mgr II 40,Ad Sales Acct Mgr II 40,1
+notice_2,SEA40,Ad Sales Acct Mgr III 40,Ad Sales Acct Mgr III 40,2
+notice_2,SEA40,Applied Scientist II,Applied Scientist II,12
+notice_2,SEA40,Applied Scientist III,Applied Scientist III,3
+notice_2,SEA40,Business Intel Engineer II,Business Intel Engineer II,5
+notice_2,SEA40,Business Intel Engineer III,Business Intel Engineer III,6
+notice_2,SEA40,Contract Manager I,Contract Manager I,1
+notice_2,SEA40,Contract Manager II,Contract Manager II,1
+notice_2,SEA40,Corporate Developer III,Corporate Developer III,1
+notice_2,SEA40,Creative MKTG III,Creative MKTG III,4
+notice_2,SEA40,Creative Services Spec II,Creative Services Spec II,1
+notice_2,SEA40,Data Engineer I,Data Engineer I,2
+notice_2,SEA40,Data Engineer III,Data Engineer III,2
+notice_2,SEA40,Data Scientist II,Data Scientist II,2
+notice_2,SEA40,Data Scientist III,Data Scientist III,1
+notice_2,SEA40,Designer I,Designer I,1
+notice_2,SEA40,Digital Supply Chain Mgr II,Digital Supply Chain Mgr II,2
+notice_2,SEA40,Digital Supply Chain Mgr III,Digital Supply Chain Mgr III,1
+notice_2,SEA40,"Director, Creative Dev","Director, Creative Dev",1
+notice_2,SEA40,"Director, BizTech Leader","Director, BizTech Leader",1
+notice_2,SEA40,"Director, Legal","Director, Legal",3
+notice_2,SEA40,"Director, Prod Mgmt - Tech","Director, Prod Mgmt - Tech",2
+notice_2,SEA40,"Director, Sales Operations","Director, Sales Operations",1
+notice_2,SEA40,Economist II,Economist II,1
+notice_2,SEA40,Executive Assistant I,Executive Assistant I,1
+notice_2,SEA40,Executive Assistant II,Executive Assistant II,2
+notice_2,SEA40,Financial Analyst II,Financial Analyst II,1
+notice_2,SEA40,Financial Analyst III,Financial Analyst III,2
+notice_2,SEA40,Financial Analyst III - MBA,Financial Analyst III - MBA,1
+notice_2,SEA40,Front-End Engineer I,Front-End Engineer I,2
+notice_2,SEA40,Front-End Engineer II,Front-End Engineer II,1
+notice_2,SEA40,Front-End Engineer III,Front-End Engineer III,1
+notice_2,SEA40,Full Lifecycle Recruiter III,Full Lifecycle Recruiter III,1
+notice_2,SEA40,Functional MKTG II,Functional MKTG II,1
+notice_2,SEA40,Functional MKTG III,Functional MKTG III,5
+notice_2,SEA40,General MKTG III,General MKTG III,1
+notice_2,SEA40,IT Support Assoc II,IT Support Assoc II,1
+notice_2,SEA40,Legal Counsel II,Legal Counsel II,4
+notice_2,SEA40,Legal Counsel III,Legal Counsel III,2
+notice_2,SEA40,Legal Support II,Legal Support II,2
+notice_2,SEA40,"Manager III, Applied Science","Manager III, Applied Science",3
+notice_2,SEA40,"Manager III, Database Engineer","Manager III, Database Engineer",2
+notice_2,SEA40,"Manager III, Functional MKTG","Manager III, Functional MKTG",1
+notice_2,SEA40,"Manager III, Software Dev","Manager III, Software Dev",11
+notice_2,SEA40,"Manager III, System Dev","Manager III, System Dev",1
+notice_2,SEA40,"Mgr III, Ad Sales Acct Mgt 40","Mgr III, Ad Sales Acct Mgt 40",2
+notice_2,SEA40,Paralegal I,Paralegal I,1
+notice_2,SEA40,Paralegal II,Paralegal II,1
+notice_2,SEA40,Paralegal III,Paralegal III,1
+notice_2,SEA40,Partner Growth Manager III,Partner Growth Manager III,1
+notice_2,SEA40,"Prin Acct Exec 100, AdLrgSales","Prin Acct Exec 100, AdLrgSales",2
+notice_2,SEA40,Principal - Customer Solutions,Principal - Customer Solutions,1
+notice_2,SEA40,Principal Finance,Principal Finance,1
+notice_2,SEA40,Principal Functional MKTG,Principal Functional MKTG,1
+notice_2,SEA40,Principal Legal Counsel,Principal Legal Counsel,7
+notice_2,SEA40,Principal Program Management,Principal Program Management,2
+notice_2,SEA40,Principal Tech Bus Dev,Principal Tech Bus Dev,5
+notice_2,SEA40,Principal Tech Program Manager,Principal Tech Program Manager,3
+notice_2,SEA40,"Principal, Creative MKTG","Principal, Creative MKTG",1
+notice_2,SEA40,"Principal, Economist","Principal, Economist",1
+notice_2,SEA40,"Principal, HR Specialist","Principal, HR Specialist",1
+notice_2,SEA40,"Principal, HRBP (Corp)","Principal, HRBP (Corp)",2
+notice_2,SEA40,"Principal, Product Mgmt - Tech","Principal, Product Mgmt - Tech",3
+notice_2,SEA40,"Principal, Sales Operations","Principal, Sales Operations",1
+notice_2,SEA40,Product Manager III,Product Manager III,3
+notice_2,SEA40,Product Mgr III - Tech,Product Mgr III - Tech,10
+notice_2,SEA40,Product MKTG III,Product MKTG III,2
+notice_2,SEA40,Professional Services II,Professional Services II,1
+notice_2,SEA40,Program Manager I,Program Manager I,4
+notice_2,SEA40,Program Manager III,Program Manager III,6
+notice_2,SEA40,Quality Assurance Engineer I,Quality Assurance Engineer I,1
+notice_2,SEA40,Quality Assurance Engineer II,Quality Assurance Engineer II,7
+notice_2,SEA40,Quality Assurance Engineer III,Quality Assurance Engineer III,1
+notice_2,SEA40,Research Scientist III,Research Scientist III,1
+notice_2,SEA40,Risk Manager II,Risk Manager II,2
+notice_2,SEA40,Risk Manager III,Risk Manager III,1
+notice_2,SEA40,Risk Specialist I,Risk Specialist I,1
+notice_2,SEA40,"Sales Mgr III 50, Ad Growth","Sales Mgr III 50, Ad Growth",1
+notice_2,SEA40,Sales Operations III,Sales Operations III,2
+notice_2,SEA40,Software Dev Engineer I,Software Dev Engineer I,37
+notice_2,SEA40,Software Dev Engineer II,Software Dev Engineer II,51
+notice_2,SEA40,Software Dev Engineer III,Software Dev Engineer III,15
+notice_2,SEA40,Software Dev Engineer II-TEST,Software Dev Engineer II-TEST,2
+notice_2,SEA40,"Sr Manager, Applied Science","Sr Manager, Applied Science",1
+notice_2,SEA40,"Sr Manager, Business Intel","Sr Manager, Business Intel",1
+notice_2,SEA40,"Sr Manager, Data Engineering","Sr Manager, Data Engineering",1
+notice_2,SEA40,"Sr Manager, Data Science","Sr Manager, Data Science",1
+notice_2,SEA40,"Sr Manager, Prod Mgmt - Tech","Sr Manager, Prod Mgmt - Tech",3
+notice_2,SEA40,"Sr Manager, Product Mgmt","Sr Manager, Product Mgmt",1
+notice_2,SEA40,"Sr Manager, Software Dev","Sr Manager, Software Dev",7
+notice_2,SEA40,"Sr Manager, Tech Business Dev","Sr Manager, Tech Business Dev",1
+notice_2,SEA40,"Sr Manager, UX/Design","Sr Manager, UX/Design",1
+notice_2,SEA40,"Sr Mgr, Recruiting","Sr Mgr, Recruiting",1
+notice_2,SEA40,"Sr. Manager, Ad Sales","Sr. Manager, Ad Sales",1
+notice_2,SEA40,"Sr. Manager, Ads Acct Mgmt","Sr. Manager, Ads Acct Mgmt",1
+notice_2,SEA40,"Sr. Manager, Public Policy","Sr. Manager, Public Policy",1
+notice_2,SEA40,"Sr. Mgr, Creative MKTG","Sr. Mgr, Creative MKTG",1
+notice_2,SEA40,"Sr. Mgr, Studio Ops and Strate","Sr. Mgr, Studio Ops and Strate",1
+notice_2,SEA40,Sr. Principal Technologist,Sr. Principal Technologist,1
+notice_2,SEA40,"Sr. Sales Manager, Ad Growth","Sr. Sales Manager, Ad Growth",2
+notice_2,SEA40,"Sr. Sales Manager, AdLrgSales","Sr. Sales Manager, AdLrgSales",3
+notice_2,SEA40,"Sr.Mgr, General MKTG","Sr.Mgr, General MKTG",2
+notice_2,SEA40,"Sr.Mgr, Product MKTG","Sr.Mgr, Product MKTG",2
+notice_2,SEA40,Studio Ops and Strategy Sp II,Studio Ops and Strategy Sp II,1
+notice_2,SEA40,Support Engineer V,Support Engineer V,1
+notice_2,SEA40,System Admin/Engr II,System Admin/Engr II,1
+notice_2,SEA40,System Development Engineer I,System Development Engineer I,1
+notice_2,SEA40,System Development Engineer II,System Development Engineer II,1
+notice_2,SEA40,Tech Business Developer III,Tech Business Developer III,7
+notice_2,SEA40,Technical Program Manager II,Technical Program Manager II,1
+notice_2,SEA40,Technical Program Manager III,Technical Program Manager III,4
+notice_2,SEA40,UX Designer I,UX Designer I,1
+notice_2,SEA40,UX Researcher II,UX Researcher II,1
+notice_2,SEA41,Benefits Specialist III,Benefits Specialist III,1
+notice_2,SEA41,Business Analyst III,Business Analyst III,1
+notice_2,SEA41,Business Intel Engineer II,Business Intel Engineer II,1
+notice_2,SEA41,Business Intel Engineer III,Business Intel Engineer III,1
+notice_2,SEA41,Creative MKTG III,Creative MKTG III,1
+notice_2,SEA41,Data Engineer II,Data Engineer II,2
+notice_2,SEA41,Data Engineer III,Data Engineer III,1
+notice_2,SEA41,Data Scientist III,Data Scientist III,2
+notice_2,SEA41,Design Technologist III,Design Technologist III,2
+notice_2,SEA41,Designer II,Designer II,1
+notice_2,SEA41,Device Associate II,Device Associate II,1
+notice_2,SEA41,"Director, Public Relations","Director, Public Relations",2
+notice_2,SEA41,"Director, UX/Design","Director, UX/Design",1
+notice_2,SEA41,Editor I,Editor I,1
+notice_2,SEA41,Executive Assistant I,Executive Assistant I,1
+notice_2,SEA41,Executive Assistant III,Executive Assistant III,1
+notice_2,SEA41,Financial Analyst II,Financial Analyst II,2
+notice_2,SEA41,Financial Analyst III,Financial Analyst III,1
+notice_2,SEA41,Front-End Engineer I,Front-End Engineer I,1
+notice_2,SEA41,Front-End Engineer II,Front-End Engineer II,1
+notice_2,SEA41,Functional MKTG II,Functional MKTG II,1
+notice_2,SEA41,General MKTG III,General MKTG III,2
+notice_2,SEA41,Industrial Designer III,Industrial Designer III,1
+notice_2,SEA41,IT App Dev Engr II,IT App Dev Engr II,1
+notice_2,SEA41,IT App Dev Engr III,IT App Dev Engr III,1
+notice_2,SEA41,"Manager III, Quality","Manager III, Quality",1
+notice_2,SEA41,"Manager III, Software Dev","Manager III, Software Dev",4
+notice_2,SEA41,PR Specialist II,PR Specialist II,1
+notice_2,SEA41,PR Specialist III,PR Specialist III,2
+notice_2,SEA41,Principal Finance,Principal Finance,2
+notice_2,SEA41,Principal Product MKTG,Principal Product MKTG,1
+notice_2,SEA41,Principal Program Management,Principal Program Management,1
+notice_2,SEA41,Principal Public Policy,Principal Public Policy,1
+notice_2,SEA41,Principal Software Dev Eng,Principal Software Dev Eng,1
+notice_2,SEA41,Principal Tech Bus Dev,Principal Tech Bus Dev,1
+notice_2,SEA41,Principal UX Design,Principal UX Design,2
+notice_2,SEA41,"Principal, HR Specialist","Principal, HR Specialist",2
+notice_2,SEA41,"Principal, Public Relations","Principal, Public Relations",1
+notice_2,SEA41,"Principal, Sustainability","Principal, Sustainability",2
+notice_2,SEA41,Product Manager II,Product Manager II,3
+notice_2,SEA41,Product Manager III,Product Manager III,1
+notice_2,SEA41,Product Mgr II - Tech,Product Mgr II - Tech,1
+notice_2,SEA41,Product Mgr III - Tech,Product Mgr III - Tech,3
+notice_2,SEA41,Product MKTG III,Product MKTG III,1
+notice_2,SEA41,Program Manager I,Program Manager I,1
+notice_2,SEA41,Program Manager II,Program Manager II,4
+notice_2,SEA41,Program Manager III,Program Manager III,4
+notice_2,SEA41,Protective Services Mgr II,Protective Services Mgr II,1
+notice_2,SEA41,Protective Services Mgr III,Protective Services Mgr III,1
+notice_2,SEA41,Quality Assurance Engineer I,Quality Assurance Engineer I,2
+notice_2,SEA41,Quality Assurance Engineer II,Quality Assurance Engineer II,9
+notice_2,SEA41,Recruiting BP III,Recruiting BP III,1
+notice_2,SEA41,Research Scientist II,Research Scientist II,2
+notice_2,SEA41,Research Scientist III,Research Scientist III,1
+notice_2,SEA41,Risk Manager II,Risk Manager II,1
+notice_2,SEA41,Risk Manager III,Risk Manager III,1
+notice_2,SEA41,Risk Specialist I,Risk Specialist I,1
+notice_2,SEA41,Security Industry Spclst III,Security Industry Spclst III,1
+notice_2,SEA41,Software Dev Engineer I,Software Dev Engineer I,12
+notice_2,SEA41,Software Dev Engineer II,Software Dev Engineer II,33
+notice_2,SEA41,Software Dev Engineer III,Software Dev Engineer III,5
+notice_2,SEA41,Software Dev Engineer III-TEST,Software Dev Engineer III-TEST,1
+notice_2,SEA41,Software Dev Engineer II-TEST,Software Dev Engineer II-TEST,1
+notice_2,SEA41,"Sr Manager, Finance","Sr Manager, Finance",1
+notice_2,SEA41,"Sr Manager, Prod Mgmt - Tech","Sr Manager, Prod Mgmt - Tech",1
+notice_2,SEA41,"Sr Manager, Product Mgmt","Sr Manager, Product Mgmt",1
+notice_2,SEA41,"Sr Manager, Research Science","Sr Manager, Research Science",1
+notice_2,SEA41,"Sr Manager, Software Dev","Sr Manager, Software Dev",2
+notice_2,SEA41,"Sr Manager, Tech Business Dev","Sr Manager, Tech Business Dev",2
+notice_2,SEA41,"Sr Manager, UX/Design","Sr Manager, UX/Design",1
+notice_2,SEA41,"Sr Mgr, Benefits Specialist","Sr Mgr, Benefits Specialist",1
+notice_2,SEA41,"Sr Mgr, HR Specialist","Sr Mgr, HR Specialist",1
+notice_2,SEA41,"Sr Mgr, HRP (Corp)","Sr Mgr, HRP (Corp)",1
+notice_2,SEA41,"Sr. Manager, Account Rep","Sr. Manager, Account Rep",1
+notice_2,SEA41,"Sr. Manager, Risk","Sr. Manager, Risk",2
+notice_2,SEA41,Sr. Principal Technologist,Sr. Principal Technologist,1
+notice_2,SEA41,"Sr.Mgr, General MKTG","Sr.Mgr, General MKTG",2
+notice_2,SEA41,Technical Program Manager II,Technical Program Manager II,1
+notice_2,SEA41,Technical Program Manager III,Technical Program Manager III,2
+notice_2,SEA41,UX Designer III,UX Designer III,3
+notice_2,SEA41,UX Researcher II,UX Researcher II,3
+notice_2,SEA41,UX Researcher III,UX Researcher III,2
+notice_2,SEA42,"Director, Legal","Director, Legal",1
+notice_2,SEA42,Financial Analyst I,Financial Analyst I,1
+notice_2,SEA42,Financial Analyst III,Financial Analyst III,2
+notice_2,SEA42,IT Support Assoc II,IT Support Assoc II,1
+notice_2,SEA42,Legal Counsel III,Legal Counsel III,4
+notice_2,SEA42,Legal Support II,Legal Support II,1
+notice_2,SEA42,Principal Finance,Principal Finance,2
+notice_2,SEA42,Program Manager III,Program Manager III,2
+notice_2,SEA42,"Sr Manager, Finance","Sr Manager, Finance",1
+notice_2,SEA43,Business Developer III,Business Developer III,1
+notice_2,SEA43,Business Intel Engineer I,Business Intel Engineer I,1
+notice_2,SEA43,Executive Assistant II,Executive Assistant II,1
+notice_2,SEA43,Principal Software Dev Eng,Principal Software Dev Eng,2
+notice_2,SEA43,Principal Tech Program Manager,Principal Tech Program Manager,1
+notice_2,SEA43,Principal UX Design,Principal UX Design,1
+notice_2,SEA43,"Principal, Product Mgmt - Tech","Principal, Product Mgmt - Tech",3
+notice_2,SEA43,Software Dev Engineer I,Software Dev Engineer I,1
+notice_2,SEA43,"Sr Manager, Finance","Sr Manager, Finance",1
+notice_2,SEA43,"Sr Manager, UX/Design","Sr Manager, UX/Design",1
+notice_2,SEA43,Technical Program Manager III,Technical Program Manager III,1
+notice_2,SEA44,Financial Analyst II,Financial Analyst II,1
+notice_2,SEA44,Financial Analyst III,Financial Analyst III,1
+notice_2,SEA47,IT Support Eng II,IT Support Eng II,1
+notice_2,SEA47,Protective Services Specialist,Protective Services Specialist,1
+notice_2,SEA48,Corporate Security II,Corporate Security II,1
+notice_2,SEA48,Principal Secrty Indust Spclst,Principal Secrty Indust Spclst,1
+notice_2,SEA48,"Sr. Mgr, Secrty Indust Spclst","Sr. Mgr, Secrty Indust Spclst",2
+notice_2,SEA53,Applied Scientist II,Applied Scientist II,1
+notice_2,SEA53,Business Intel Engineer I,Business Intel Engineer I,1
+notice_2,SEA53,Business Intel Engineer II,Business Intel Engineer II,1
+notice_2,SEA53,Business Intel Engineer III,Business Intel Engineer III,2
+notice_2,SEA53,Data Scientist I,Data Scientist I,1
+notice_2,SEA53,Design Program Manager III,Design Program Manager III,2
+notice_2,SEA53,"Director, Category Leadership","Director, Category Leadership",4
+notice_2,SEA53,"Director, General MKTG","Director, General MKTG",1
+notice_2,SEA53,"Director, Regional Operations","Director, Regional Operations",1
+notice_2,SEA53,"Director, Retail Stores","Director, Retail Stores",1
+notice_2,SEA53,"Director, Supply Chain MGMT","Director, Supply Chain MGMT",1
+notice_2,SEA53,General MKTG II,General MKTG II,2
+notice_2,SEA53,Hardware Designer III,Hardware Designer III,1
+notice_2,SEA53,Instock Manager III,Instock Manager III,1
+notice_2,SEA53,"Manager III, Data Engineering","Manager III, Data Engineering",2
+notice_2,SEA53,"Manager III, General MKTG","Manager III, General MKTG",1
+notice_2,SEA53,Principal Design Program Mgr,Principal Design Program Mgr,1
+notice_2,SEA53,Principal Product Management,Principal Product Management,1
+notice_2,SEA53,Product Manager II,Product Manager II,5
+notice_2,SEA53,Product Manager III,Product Manager III,2
+notice_2,SEA53,Product MKTG II,Product MKTG II,1
+notice_2,SEA53,Product MKTG III,Product MKTG III,1
+notice_2,SEA53,Program Manager II,Program Manager II,1
+notice_2,SEA53,Program Manager III,Program Manager III,3
+notice_2,SEA53,Retail Vendor Manager II,Retail Vendor Manager II,1
+notice_2,SEA53,Retail Vendor Manager III,Retail Vendor Manager III,1
+notice_2,SEA53,Software Dev Engineer I,Software Dev Engineer I,1
+notice_2,SEA53,Software Dev Engineer II,Software Dev Engineer II,1
+notice_2,SEA53,Software Dev Engineer III-TEST,Software Dev Engineer III-TEST,2
+notice_2,SEA53,Software Dev Engineer II-TEST,Software Dev Engineer II-TEST,2
+notice_2,SEA53,"Sr Manager, Product Mgmt","Sr Manager, Product Mgmt",2
+notice_2,SEA53,"Sr Manager, Program Management","Sr Manager, Program Management",1
+notice_2,SEA53,"Sr Manager, Quality","Sr Manager, Quality",1
+notice_2,SEA53,"Sr Mgr, Retail Store","Sr Mgr, Retail Store",1
+notice_2,SEA53,"Sr Mgr, Retail Vendor Mgmt","Sr Mgr, Retail Vendor Mgmt",1
+notice_2,SEA53,"Sr.Mgr, Product MKTG","Sr.Mgr, Product MKTG",1
+notice_2,SEA53,Supply Chain Mgr II,Supply Chain Mgr II,1
+notice_2,SEA53,Sustainability Specialist III,Sustainability Specialist III,1
+notice_2,SEA53,Technical Program Manager III,Technical Program Manager III,2
+notice_2,SEA54,Account Rep I,Account Rep I,1
+notice_2,SEA54,Product Manager III,Product Manager III,1
+notice_2,SEA54,Product Mgr II - Tech,Product Mgr II - Tech,1
+notice_2,SEA54,Product Mgr III - Tech,Product Mgr III - Tech,3
+notice_2,SEA54,Software Dev Engineer I,Software Dev Engineer I,4
+notice_2,SEA54,Software Dev Engineer III,Software Dev Engineer III,2
+notice_2,SEA54,"Sr Manager, Prod Mgmt - Tech","Sr Manager, Prod Mgmt - Tech",2
+notice_2,SEA54,"Sr Manager, Product Mgmt","Sr Manager, Product Mgmt",1
+notice_2,SEA54,"Sr Manager, Program Management","Sr Manager, Program Management",1
+notice_2,SEA54,Technical Program Manager III,Technical Program Manager III,1
+notice_2,SEA54,UX Designer III,UX Designer III,1
+notice_2,SEA54,UX Researcher I,UX Researcher I,1
+notice_2,SEA58,Full Lifecycle Recruiter II,Full Lifecycle Recruiter II,1
+notice_2,SEA58,Full Lifecycle Recruiter III,Full Lifecycle Recruiter III,1
+notice_2,SEA58,Program Manager II,Program Manager II,1
+notice_2,SEA58,Recruiting BP II,Recruiting BP II,1
+notice_2,SEA58,Recruiting BP III,Recruiting BP III,1
+notice_2,SEA58,Sourcing Recruiter III,Sourcing Recruiter III,2
+notice_2,SEA68,Financial Analyst III,Financial Analyst III,1
+notice_2,SEA69,Creative MKTG III,Creative MKTG III,2
+notice_2,SEA69,"Mgr III, Studio Ops","Mgr III, Studio Ops",1
+notice_2,SEA69,Photographer III,Photographer III,1
+notice_2,SEA69,Program Manager III,Program Manager III,1
+notice_2,SEA70,Applied Scientist II,Applied Scientist II,2
+notice_2,SEA70,Applied Scientist III,Applied Scientist III,1
+notice_2,SEA70,Business Intel Engineer I,Business Intel Engineer I,1
+notice_2,SEA70,Business Intel Engineer II,Business Intel Engineer II,4
+notice_2,SEA70,Business Intel Engineer III,Business Intel Engineer III,2
+notice_2,SEA70,Data Engineer II,Data Engineer II,2
+notice_2,SEA70,Data Engineer III,Data Engineer III,2
+notice_2,SEA70,Data Scientist II,Data Scientist II,2
+notice_2,SEA70,Data Scientist III,Data Scientist III,1
+notice_2,SEA70,"Director, Prod Mgmt - Tech","Director, Prod Mgmt - Tech",1
+notice_2,SEA70,Economist III,Economist III,1
+notice_2,SEA70,Front-End Engineer II,Front-End Engineer II,2
+notice_2,SEA70,HRBP III (Corp),HRBP III (Corp),1
+notice_2,SEA70,Instock Manager II,Instock Manager II,1
+notice_2,SEA70,"Manager III, Product MKTG","Manager III, Product MKTG",2
+notice_2,SEA70,"Manager III, Software Dev","Manager III, Software Dev",2
+notice_2,SEA70,"Manager III, UX/Design","Manager III, UX/Design",1
+notice_2,SEA70,"Mgr III, Retail Vendor Mgmt","Mgr III, Retail Vendor Mgmt",1
+notice_2,SEA70,Principal Product Management,Principal Product Management,1
+notice_2,SEA70,Principal Software Dev Eng,Principal Software Dev Eng,1
+notice_2,SEA70,Principal Tech Program Manager,Principal Tech Program Manager,1
+notice_2,SEA70,"Principal, Applied Scientist","Principal, Applied Scientist",1
+notice_2,SEA70,Product Manager II,Product Manager II,1
+notice_2,SEA70,Product Manager III,Product Manager III,8
+notice_2,SEA70,Product Manager III - MBA,Product Manager III - MBA,2
+notice_2,SEA70,Product Mgr III - Tech,Product Mgr III - Tech,4
+notice_2,SEA70,Product Mgr III - Tech - MBA,Product Mgr III - Tech - MBA,1
+notice_2,SEA70,Product MKTG II,Product MKTG II,1
+notice_2,SEA70,Program Manager II,Program Manager II,3
+notice_2,SEA70,Program Manager III,Program Manager III,2
+notice_2,SEA70,Quality Assurance Engineer III,Quality Assurance Engineer III,1
+notice_2,SEA70,Research Scientist III,Research Scientist III,2
+notice_2,SEA70,Retail Rotation Program - MBA,Retail Rotation Program - MBA,1
+notice_2,SEA70,Retail Vendor Manager II,Retail Vendor Manager II,2
+notice_2,SEA70,Retail Vendor Manager III,Retail Vendor Manager III,2
+notice_2,SEA70,Software Dev Engineer I,Software Dev Engineer I,16
+notice_2,SEA70,Software Dev Engineer II,Software Dev Engineer II,28
+notice_2,SEA70,Software Dev Engineer III,Software Dev Engineer III,10
+notice_2,SEA70,Software Dev Engineer II-TEST,Software Dev Engineer II-TEST,1
+notice_2,SEA70,"Sr Manager, Instock Mgmt","Sr Manager, Instock Mgmt",1
+notice_2,SEA70,"Sr Manager, Prod Mgmt - Tech","Sr Manager, Prod Mgmt - Tech",1
+notice_2,SEA70,"Sr Manager, Product Mgmt","Sr Manager, Product Mgmt",1
+notice_2,SEA70,"Sr Manager, Software Dev","Sr Manager, Software Dev",2
+notice_2,SEA70,Sr. Principal Technologist,Sr. Principal Technologist,1
+notice_2,SEA70,Supply Chain Mgr II,Supply Chain Mgr II,1
+notice_2,SEA70,Support Engineer III,Support Engineer III,1
+notice_2,SEA70,Tech Business Developer III,Tech Business Developer III,1
+notice_2,SEA70,Tech Writer-Tech III,Tech Writer-Tech III,1
+notice_2,SEA70,Technical Program Manager II,Technical Program Manager II,1
+notice_2,SEA70,UX Designer II,UX Designer II,1
+notice_2,SEA70,UX Designer III,UX Designer III,2
+notice_2,SEA71,Account Rep II,Account Rep II,1
+notice_2,SEA71,Business Developer II,Business Developer II,5
+notice_2,SEA71,Business Developer III,Business Developer III,1
+notice_2,SEA71,Business Intel Engineer II,Business Intel Engineer II,1
+notice_2,SEA71,Customer Success Manager I,Customer Success Manager I,2
+notice_2,SEA71,Customer Success Manager II,Customer Success Manager II,4
+notice_2,SEA71,Data Engineer III,Data Engineer III,1
+notice_2,SEA71,Instock Manager III,Instock Manager III,2
+notice_2,SEA71,"Manager III, Software Dev","Manager III, Software Dev",1
+notice_2,SEA71,Product Manager III,Product Manager III,1
+notice_2,SEA71,Product Manager III - MBA,Product Manager III - MBA,1
+notice_2,SEA71,Product Mgr III - Tech,Product Mgr III - Tech,1
+notice_2,SEA71,Product MKTG II,Product MKTG II,1
+notice_2,SEA71,Program Manager III,Program Manager III,3
+notice_2,SEA71,Retail Vendor Manager III,Retail Vendor Manager III,2
+notice_2,SEA71,Software Dev Engineer I,Software Dev Engineer I,10
+notice_2,SEA71,Software Dev Engineer II,Software Dev Engineer II,23
+notice_2,SEA71,Software Dev Engineer III,Software Dev Engineer III,6
+notice_2,SEA71,"Sr Manager, Applied Science","Sr Manager, Applied Science",2
+notice_2,SEA71,"Sr Manager, Software Dev","Sr Manager, Software Dev",1
+notice_2,SEA71,Support Engineer III,Support Engineer III,1
+notice_2,SEA71,Technical Program Manager III,Technical Program Manager III,1
+notice_2,SEA74,Hardware Dev Engr III,Hardware Dev Engr III,1
+notice_2,SEA74,"Sr Manager, UX/Design","Sr Manager, UX/Design",1
+notice_2,SEA76,Business Analyst II,Business Analyst II,1
+notice_2,SEA76,Business Intel Engineer I,Business Intel Engineer I,1
+notice_2,SEA76,Business Intel Engineer III,Business Intel Engineer III,1
+notice_2,SEA76,Economist III,Economist III,1
+notice_2,SEA76,Front-End Engineer II,Front-End Engineer II,1
+notice_2,SEA76,Product Mgr III - Tech,Product Mgr III - Tech,1
+notice_2,SEA76,Program Manager II,Program Manager II,3
+notice_2,SEA76,Software Dev Engineer I,Software Dev Engineer I,5
+notice_2,SEA76,Software Dev Engineer II,Software Dev Engineer II,2
+notice_2,SEA76,Software Dev Engineer III,Software Dev Engineer III,1
+notice_2,SEA76,Support Engineer II,Support Engineer II,2
+notice_2,SEA76,Support Engineer III,Support Engineer III,5
+notice_2,SEA76,System Development Engineer I,System Development Engineer I,1
+notice_2,SEA76,System Development Engineer II,System Development Engineer II,1
+notice_2,SEA76,Tech Writer-Tech I,Tech Writer-Tech I,1
+notice_2,SEA81,Business Analyst I,Business Analyst I,1
+notice_2,SEA81,Business Intel Engineer I,Business Intel Engineer I,1
+notice_2,SEA81,Business Intel Engineer II,Business Intel Engineer II,4
+notice_2,SEA81,Business Intel Engineer III,Business Intel Engineer III,1
+notice_2,SEA81,Creative MKTG II,Creative MKTG II,1
+notice_2,SEA81,Data Engineer II,Data Engineer II,1
+notice_2,SEA81,Data Scientist II,Data Scientist II,1
+notice_2,SEA81,Design Program Manager II,Design Program Manager II,1
+notice_2,SEA81,Design Technologist I,Design Technologist I,1
+notice_2,SEA81,Design Technologist II,Design Technologist II,1
+notice_2,SEA81,Designer II,Designer II,1
+notice_2,SEA81,Front-End Engineer II,Front-End Engineer II,2
+notice_2,SEA81,Full Lifecycle Recruiter III,Full Lifecycle Recruiter III,3
+notice_2,SEA81,Functional MKTG II,Functional MKTG II,1
+notice_2,SEA81,Functional MKTG III,Functional MKTG III,1
+notice_2,SEA81,Game Artist II,Game Artist II,6
+notice_2,SEA81,Game Artist III,Game Artist III,6
+notice_2,SEA81,Game Designer I,Game Designer I,1
+notice_2,SEA81,Game Designer II,Game Designer II,3
+notice_2,SEA81,Game Designer III,Game Designer III,2
+notice_2,SEA81,Game Producer II,Game Producer II,3
+notice_2,SEA81,Game Producer III,Game Producer III,1
+notice_2,SEA81,General MKTG II,General MKTG II,1
+notice_2,SEA81,Localization Engineer II,Localization Engineer II,1
+notice_2,SEA81,"Manager III, Game Art","Manager III, Game Art",1
+notice_2,SEA81,"Manager III, Game Design","Manager III, Game Design",1
+notice_2,SEA81,"Manager III, Game Production","Manager III, Game Production",1
+notice_2,SEA81,"Manager III, Product MKTG","Manager III, Product MKTG",1
+notice_2,SEA81,"Manager III, Quality","Manager III, Quality",2
+notice_2,SEA81,"Manager III, Software Dev","Manager III, Software Dev",4
+notice_2,SEA81,"Manager III, UX/Design","Manager III, UX/Design",1
+notice_2,SEA81,"Mgr II, Recruiting","Mgr II, Recruiting",1
+notice_2,SEA81,"Mgr III, Recruiting","Mgr III, Recruiting",1
+notice_2,SEA81,Principal Quality Assurance,Principal Quality Assurance,1
+notice_2,SEA81,Principal Software Dev Eng,Principal Software Dev Eng,1
+notice_2,SEA81,Product Mgr III - Tech,Product Mgr III - Tech,1
+notice_2,SEA81,Product MKTG III,Product MKTG III,1
+notice_2,SEA81,Program Manager I,Program Manager I,1
+notice_2,SEA81,Program Manager II,Program Manager II,4
+notice_2,SEA81,Program Manager III,Program Manager III,1
+notice_2,SEA81,Quality Assurance Engineer I,Quality Assurance Engineer I,1
+notice_2,SEA81,Quality Assurance Engineer II,Quality Assurance Engineer II,7
+notice_2,SEA81,Sales Operations III,Sales Operations III,1
+notice_2,SEA81,Software Dev Engineer I,Software Dev Engineer I,5
+notice_2,SEA81,Software Dev Engineer II,Software Dev Engineer II,21
+notice_2,SEA81,Software Dev Engineer III,Software Dev Engineer III,11
+notice_2,SEA81,Sourcing Recruiter II,Sourcing Recruiter II,1
+notice_2,SEA81,"Sr Manager, Product Mgmt","Sr Manager, Product Mgmt",1
+notice_2,SEA81,"Sr Manager, Quality","Sr Manager, Quality",2
+notice_2,SEA81,"Sr Manager, Software Dev","Sr Manager, Software Dev",2
+notice_2,SEA81,"Sr Manager, UX/Design","Sr Manager, UX/Design",1
+notice_2,SEA81,"Sr Mgr, Recruiting","Sr Mgr, Recruiting",1
+notice_2,SEA81,"Sr. Manager, Game Production","Sr. Manager, Game Production",1
+notice_2,SEA81,System Dev Engineer III,System Dev Engineer III,1
+notice_2,SEA81,Tech Game Artist I,Tech Game Artist I,2
+notice_2,SEA81,Tech Game Artist II,Tech Game Artist II,3
+notice_2,SEA81,Tech Game Artist III,Tech Game Artist III,1
+notice_2,SEA81,Technical Program Manager II,Technical Program Manager II,3
+notice_2,SEA81,Technical Program Manager III,Technical Program Manager III,3
+notice_2,SEA81,UX Designer I,UX Designer I,1
+notice_2,SEA81,UX Designer II,UX Designer II,3
+notice_2,SEA81,UX Designer III,UX Designer III,1
+notice_2,SEA82,Business Analyst II,Business Analyst II,1
+notice_2,SEA82,IT Support Eng I,IT Support Eng I,1
+notice_2,SEA82,"Manager III, Plan/Dev","Manager III, Plan/Dev",1
+notice_2,SEA82,"Manager III, Program Mgmt","Manager III, Program Mgmt",1
+notice_2,SEA82,"Principal, Product Mgmt - Tech","Principal, Product Mgmt - Tech",1
+notice_2,SEA82,Program Manager III,Program Manager III,1
+notice_2,SEA82,Solutions Architect III,Solutions Architect III,1
+notice_2,SEA82,"Sr Manager, Plan/Dev","Sr Manager, Plan/Dev",1
+notice_2,SEA82,"Sr Mgr, Supply Chain MGMT","Sr Mgr, Supply Chain MGMT",1
+notice_2,SEA82,Supply Chain Mgr III,Supply Chain Mgr III,1
+notice_2,SEA83,Account Rep I,Account Rep I,3
+notice_2,SEA83,Account Rep II,Account Rep II,2
+notice_2,SEA83,Business Intel Engineer II,Business Intel Engineer II,4
+notice_2,SEA83,Business Intel Engineer III,Business Intel Engineer III,1
+notice_2,SEA83,Data Engineer I,Data Engineer I,1
+notice_2,SEA83,Data Engineer III,Data Engineer III,1
+notice_2,SEA83,Data Scientist I,Data Scientist I,1
+notice_2,SEA83,Financial Analyst III - MBA,Financial Analyst III - MBA,1
+notice_2,SEA83,Functional MKTG I,Functional MKTG I,1
+notice_2,SEA83,Functional MKTG II,Functional MKTG II,1
+notice_2,SEA83,Functional MKTG III,Functional MKTG III,1
+notice_2,SEA83,"Manager III, Account Rep","Manager III, Account Rep",2
+notice_2,SEA83,"Manager III, Software Dev","Manager III, Software Dev",3
+notice_2,SEA83,Principal Product Management,Principal Product Management,1
+notice_2,SEA83,Product Mgr III - Tech,Product Mgr III - Tech,2
+notice_2,SEA83,Program Manager II,Program Manager II,1
+notice_2,SEA83,Quality Assurance Engineer I,Quality Assurance Engineer I,2
+notice_2,SEA83,Quality Assurance Engineer II,Quality Assurance Engineer II,4
+notice_2,SEA83,Sales Account Manager II,Sales Account Manager II,2
+notice_2,SEA83,Software Dev Engineer I,Software Dev Engineer I,11
+notice_2,SEA83,Software Dev Engineer II,Software Dev Engineer II,11
+notice_2,SEA83,Software Dev Engineer III,Software Dev Engineer III,3
+notice_2,SEA83,"Sr Manager, Applied Science","Sr Manager, Applied Science",1
+notice_2,SEA83,UX Designer II,UX Designer II,1
+notice_2,SEA84,Financial Analyst III,Financial Analyst III,3
+notice_2,SEA84,IT Support Eng I,IT Support Eng I,1
+notice_2,SEA86,Business Developer II,Business Developer II,1
+notice_2,SEA86,Business Developer III,Business Developer III,5
+notice_2,SEA86,Business Intel Engineer I,Business Intel Engineer I,2
+notice_2,SEA86,Business Intel Engineer II,Business Intel Engineer II,1
+notice_2,SEA86,Creative MKTG II,Creative MKTG II,2
+notice_2,SEA86,Financial Analyst III,Financial Analyst III,1
+notice_2,SEA86,"Manager III, Software Dev","Manager III, Software Dev",1
+notice_2,SEA86,Product Manager II,Product Manager II,2
+notice_2,SEA86,Product Mgr III - Tech - MBA,Product Mgr III - Tech - MBA,1
+notice_2,SEA86,Program Manager I,Program Manager I,1
+notice_2,SEA86,Program Manager II,Program Manager II,1
+notice_2,SEA86,Program Manager III,Program Manager III,6
+notice_2,SEA86,Software Dev Engineer I,Software Dev Engineer I,5
+notice_2,SEA86,Software Dev Engineer II,Software Dev Engineer II,2
+notice_2,SEA86,Software Dev Engineer III,Software Dev Engineer III,1
+notice_2,SEA86,"Sr Manager, Prod Mgmt - Tech","Sr Manager, Prod Mgmt - Tech",1
+notice_2,SEA86,"Sr Manager, Product Mgmt","Sr Manager, Product Mgmt",1
+notice_2,SEA86,"Sr Manager, Software Dev","Sr Manager, Software Dev",2
+notice_2,SEA86,UX Designer II,UX Designer II,1
+notice_2,SEA89,Program Manager I,Program Manager I,1
+notice_2,SEA91,Business Analyst III,Business Analyst III,1
+notice_2,SEA91,"Director, Finance","Director, Finance",1
+notice_2,SEA91,Executive Assistant I,Executive Assistant I,3
+notice_2,SEA91,Financial Analyst II,Financial Analyst II,12
+notice_2,SEA91,Financial Analyst III,Financial Analyst III,9
+notice_2,SEA91,"Manager III, IT App Dev Engrng","Manager III, IT App Dev Engrng",1
+notice_2,SEA91,"Manager III, Tax","Manager III, Tax",2
+notice_2,SEA91,Principal Finance,Principal Finance,1
+notice_2,SEA91,Principal Risk Manager,Principal Risk Manager,1
+notice_2,SEA91,Principal Tax,Principal Tax,4
+notice_2,SEA91,Product Manager III,Product Manager III,2
+notice_2,SEA91,Program Manager II,Program Manager II,1
+notice_2,SEA91,Program Manager III,Program Manager III,4
+notice_2,SEA91,Software Dev Engineer I,Software Dev Engineer I,1
+notice_2,SEA91,Software Dev Engineer II,Software Dev Engineer II,1
+notice_2,SEA91,Software Dev Engineer III,Software Dev Engineer III,1
+notice_2,SEA91,Solutions Architect II,Solutions Architect II,1
+notice_2,SEA91,Tax Analyst I,Tax Analyst I,2
+notice_2,SEA91,Tax Analyst II,Tax Analyst II,1
+notice_2,SEA91,Tax Analyst III,Tax Analyst III,12
+notice_2,SEA93,"Manager III, Software Dev","Manager III, Software Dev",1
+notice_2,SEA93,Product Manager III,Product Manager III,1
+notice_2,SEA93,Software Dev Engineer I,Software Dev Engineer I,4
+notice_2,SEA93,Software Dev Engineer II,Software Dev Engineer II,3
+notice_2,SEA93,"Sr Manager, Finance","Sr Manager, Finance",1
+notice_2,SEA93,UX Researcher II,UX Researcher II,1
+notice_2,REMOTE_WA,"Manager Team, Customer Service","Manager Team, Customer Service",1
+notice_2,REMOTE_WA,Program Manager I,Program Manager I,1
+notice_2,REMOTE_WA,"Sr Manager, Program Management","Sr Manager, Program Management",1
+notice_2,REMOTE_WA,Account Rep I,Account Rep I,1
+notice_2,REMOTE_WA,Account Rep II,Account Rep II,1
+notice_2,REMOTE_WA,Account Rep III,Account Rep III,4
+notice_2,REMOTE_WA,Applied Scientist II,Applied Scientist II,1
+notice_2,REMOTE_WA,Business Analyst II,Business Analyst II,1
+notice_2,REMOTE_WA,Business Intel Engineer I,Business Intel Engineer I,1
+notice_2,REMOTE_WA,Business Intel Engineer III,Business Intel Engineer III,1
+notice_2,REMOTE_WA,Construction Manager III,Construction Manager III,1
+notice_2,REMOTE_WA,Creative MKTG III,Creative MKTG III,1
+notice_2,REMOTE_WA,Customer Success Manager I,Customer Success Manager I,1
+notice_2,REMOTE_WA,Editor III,Editor III,2
+notice_2,REMOTE_WA,Executive Assistant II,Executive Assistant II,1
+notice_2,REMOTE_WA,Full Lifecycle Recruiter III,Full Lifecycle Recruiter III,1
+notice_2,REMOTE_WA,Game Designer III,Game Designer III,1
+notice_2,REMOTE_WA,HR Specialist II,HR Specialist II,1
+notice_2,REMOTE_WA,Investigation Specialist I,Investigation Specialist I,5
+notice_2,REMOTE_WA,Investigation Specialist II,Investigation Specialist II,14
+notice_2,REMOTE_WA,IT Support Assoc I,IT Support Assoc I,2
+notice_2,REMOTE_WA,IT Support Assoc II,IT Support Assoc II,1
+notice_2,REMOTE_WA,IT Support Eng I,IT Support Eng I,1
+notice_2,REMOTE_WA,IT Support Eng II,IT Support Eng II,1
+notice_2,REMOTE_WA,Lab Engineer I,Lab Engineer I,1
+notice_2,REMOTE_WA,"Manager II, Facilities","Manager II, Facilities",1
+notice_2,REMOTE_WA,"Manager III, Finance","Manager III, Finance",1
+notice_2,REMOTE_WA,"Manager III, Investigation","Manager III, Investigation",1
+notice_2,REMOTE_WA,"Manager III, Software Dev","Manager III, Software Dev",1
+notice_2,REMOTE_WA,"Manager III, Tech Business Dev","Manager III, Tech Business Dev",1
+notice_2,REMOTE_WA,Paralegal I,Paralegal I,1
+notice_2,REMOTE_WA,Principal Public Policy,Principal Public Policy,1
+notice_2,REMOTE_WA,Principal Risk Manager,Principal Risk Manager,2
+notice_2,REMOTE_WA,Principal Software Dev Eng,Principal Software Dev Eng,2
+notice_2,REMOTE_WA,Principal Tech Program Manager,Principal Tech Program Manager,1
+notice_2,REMOTE_WA,"Principal, Creative MKTG","Principal, Creative MKTG",1
+notice_2,REMOTE_WA,"Principal, Product Mgmt - Tech","Principal, Product Mgmt - Tech",1
+notice_2,REMOTE_WA,Product Mgr III - Tech - MBA,Product Mgr III - Tech - MBA,1
+notice_2,REMOTE_WA,Product MKTG III,Product MKTG III,1
+notice_2,REMOTE_WA,Program Manager I,Program Manager I,1
+notice_2,REMOTE_WA,Program Manager II,Program Manager II,10
+notice_2,REMOTE_WA,Program Manager III,Program Manager III,2
+notice_2,REMOTE_WA,Quality Assurance Engineer II,Quality Assurance Engineer II,2
+notice_2,REMOTE_WA,Recruiting BP II,Recruiting BP II,1
+notice_2,REMOTE_WA,Recruiting BP III,Recruiting BP III,1
+notice_2,REMOTE_WA,Risk Manager III,Risk Manager III,1
+notice_2,REMOTE_WA,Risk Specialist I,Risk Specialist I,5
+notice_2,REMOTE_WA,Security Industry Spclst II,Security Industry Spclst II,2
+notice_2,REMOTE_WA,Security Industry Spclst III,Security Industry Spclst III,1
+notice_2,REMOTE_WA,Software Dev Engineer II,Software Dev Engineer II,6
+notice_2,REMOTE_WA,Sourcing Recruiter I,Sourcing Recruiter I,1
+notice_2,REMOTE_WA,Sourcing Recruiter II,Sourcing Recruiter II,3
+notice_2,REMOTE_WA,Sourcing Recruiter III,Sourcing Recruiter III,1
+notice_2,REMOTE_WA,"Sr Manager, Product Mgmt","Sr Manager, Product Mgmt",1
+notice_2,REMOTE_WA,"Sr Manager, Program Management","Sr Manager, Program Management",1
+notice_2,REMOTE_WA,"Sr Manager, UX/Design","Sr Manager, UX/Design",1
+notice_2,REMOTE_WA,"Sr. Manager, Account Rep","Sr. Manager, Account Rep",1
+notice_2,REMOTE_WA,System Dev Engineer III,System Dev Engineer III,1
+notice_2,REMOTE_WA,Tech Writer-Tech I,Tech Writer-Tech I,1
+notice_2,REMOTE_WA,Tech Writer-Tech II,Tech Writer-Tech II,3
+notice_2,REMOTE_WA,Tech Writer-Tech III,Tech Writer-Tech III,4
+notice_2,REMOTE_WA,Technical Account Manager I,Technical Account Manager I,1
+notice_2,REMOTE_WA,Technical Program Manager II,Technical Program Manager II,1
+notice_2,REMOTE_WA,UX Designer III,UX Designer III,1

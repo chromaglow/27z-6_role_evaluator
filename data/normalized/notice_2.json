@@ -4,14 +4,5132 @@
   "notice": {
     "noticeId": "notice_2",
     "source": {
-      "filename": "notice_2.pdf",
-      "receivedDate": null,
-      "letterDate": null
+      "filename": "layoff2.pdf",
+      "receivedDate": "2025-10-28",
+      "letterDate": "2025-10-28"
     },
     "jurisdiction": "WA",
-    "remoteClauses": [],
-    "separationDates": [],
-    "facilities": [],
-    "jobTitleImpacts": []
+    "remoteClauses": [
+      {
+        "text": "plus 116 affected remote employees residing within the state of Washington.",
+        "affectedCount": 116,
+        "state": "WA"
+      }
+    ],
+    "separationDates": [
+      "2025-10-28",
+      "2026-01-26",
+      "2026-01-30",
+      "2026-02-05",
+      "2026-02-25",
+      "2026-02-27",
+      "2026-03-19",
+      "2026-04-01",
+      "2026-04-26",
+      "2026-05-26"
+    ],
+    "facilities": [
+      {
+        "noticeId": "notice_2",
+        "facilityId": "BFI4",
+        "affectedApprox": 1,
+        "includesRemoteWA": true,
+        "notes": "21005 64th Ave S, Kent, WA 98032"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "BFI5",
+        "affectedApprox": 1,
+        "includesRemoteWA": true,
+        "notes": "20526 59th Pl S, Kent, WA 98032"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "BFI9",
+        "affectedApprox": 1,
+        "includesRemoteWA": true,
+        "notes": "3230 International Pl, DuPont, WA 98327"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "DSE8",
+        "affectedApprox": 1,
+        "includesRemoteWA": true,
+        "notes": "7555 Airport Way SW #6162, Bremerton, WA 98312"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "DSW3",
+        "affectedApprox": 1,
+        "includesRemoteWA": true,
+        "notes": "12163 Bay Ridge Dr, Burlington, WA 98233"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "DWA5",
+        "affectedApprox": 1,
+        "includesRemoteWA": true,
+        "notes": "23226 Witte Rd SE, Maple Valley, WA 98038"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "DWA7",
+        "affectedApprox": 1,
+        "includesRemoteWA": true,
+        "notes": "5509 Military Road E, Puyallup, WA 98375"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "DWS4",
+        "affectedApprox": 1,
+        "includesRemoteWA": true,
+        "notes": "315 Shuksan Way, Everett, WA 98203"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "GEG2",
+        "affectedApprox": 2,
+        "includesRemoteWA": true,
+        "notes": "18007 Garland Ave, Spokane Valley, WA 99216"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "GEG5",
+        "affectedApprox": 1,
+        "includesRemoteWA": true,
+        "notes": "6125 S Hayford Rd, Spokane, WA 99224"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "OLM1",
+        "affectedApprox": 2,
+        "includesRemoteWA": true,
+        "notes": "3300 Hogum Bay Rd NE, Lacey, WA 98516"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "PSC2",
+        "affectedApprox": 1,
+        "includesRemoteWA": true,
+        "notes": "1351 S Rd 40 E, Pasco, WA 99301"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA104",
+        "affectedApprox": 61,
+        "includesRemoteWA": true,
+        "notes": "320 108th Ave NE, Bellevue, WA 98004"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA106",
+        "affectedApprox": 34,
+        "includesRemoteWA": true,
+        "notes": "1001 106th Ave NE, Bellevue, WA 98004"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA107",
+        "affectedApprox": 33,
+        "includesRemoteWA": true,
+        "notes": "10450 NE 10th St, Bellevue, WA 98004"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA112",
+        "affectedApprox": 82,
+        "includesRemoteWA": true,
+        "notes": "555 108th Ave NE, Bellevue, WA 98004"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA113",
+        "affectedApprox": 1,
+        "includesRemoteWA": true,
+        "notes": "85 106th Ave NE, Bellevue, WA 98004"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA124",
+        "affectedApprox": 2,
+        "includesRemoteWA": true,
+        "notes": "601 Monster Road, Renton, WA 98057"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA132",
+        "affectedApprox": 52,
+        "includesRemoteWA": true,
+        "notes": "10400 NE 4th St, Bellevue, WA 98004"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA20",
+        "affectedApprox": 69,
+        "includesRemoteWA": true,
+        "notes": "440 Terry Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA22",
+        "affectedApprox": 21,
+        "includesRemoteWA": true,
+        "notes": "410 Terry Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA23",
+        "affectedApprox": 92,
+        "includesRemoteWA": true,
+        "notes": "535 Terry Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA24",
+        "affectedApprox": 18,
+        "includesRemoteWA": true,
+        "notes": "500 Boren Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA25",
+        "affectedApprox": 32,
+        "includesRemoteWA": true,
+        "notes": "551 Boren Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA26",
+        "affectedApprox": 49,
+        "includesRemoteWA": true,
+        "notes": "550 Terry Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA27",
+        "affectedApprox": 47,
+        "includesRemoteWA": true,
+        "notes": "345 Boren Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA28",
+        "affectedApprox": 122,
+        "includesRemoteWA": true,
+        "notes": "333 Boren Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA29",
+        "affectedApprox": 21,
+        "includesRemoteWA": true,
+        "notes": "207 Boren Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA33",
+        "affectedApprox": 61,
+        "includesRemoteWA": true,
+        "notes": "1918 8th Ave, Seattle, WA 98101"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA37",
+        "affectedApprox": 19,
+        "includesRemoteWA": true,
+        "notes": "202 Westlake Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA38",
+        "affectedApprox": 46,
+        "includesRemoteWA": true,
+        "notes": "515 Westlake Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA39",
+        "affectedApprox": 93,
+        "includesRemoteWA": true,
+        "notes": "500 9th Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA40",
+        "affectedApprox": 361,
+        "includesRemoteWA": true,
+        "notes": "2021 7th Ave, Seattle, WA 98121"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA41",
+        "affectedApprox": 173,
+        "includesRemoteWA": true,
+        "notes": "2121 7th Ave, Seattle, WA 98121"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA42",
+        "affectedApprox": 15,
+        "includesRemoteWA": true,
+        "notes": "2121 8th Ave, Seattle, WA 98121"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA43",
+        "affectedApprox": 14,
+        "includesRemoteWA": true,
+        "notes": "2250 7th Ave, Seattle, WA 98121"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA44",
+        "affectedApprox": 2,
+        "includesRemoteWA": true,
+        "notes": "2205 7th Ave, Seattle, WA 98121"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA47",
+        "affectedApprox": 2,
+        "includesRemoteWA": true,
+        "notes": "2122 7th Ave, Seattle, WA 98121"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA48",
+        "affectedApprox": 4,
+        "includesRemoteWA": true,
+        "notes": "2205 8th Ave, Seattle, WA 98121"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA53",
+        "affectedApprox": 57,
+        "includesRemoteWA": true,
+        "notes": "400 9th Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA54",
+        "affectedApprox": 19,
+        "includesRemoteWA": true,
+        "notes": "325 9th Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA58",
+        "affectedApprox": 7,
+        "includesRemoteWA": true,
+        "notes": "1915 Terry Ave, Seattle, WA 98101"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA68",
+        "affectedApprox": 1,
+        "includesRemoteWA": true,
+        "notes": "2201 6th Ave, Seattle, WA 98121"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA69",
+        "affectedApprox": 5,
+        "includesRemoteWA": true,
+        "notes": "635 Elliott Ave W, Seattle, WA 98119"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA70",
+        "affectedApprox": 132,
+        "includesRemoteWA": true,
+        "notes": "300 Boren Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA71",
+        "affectedApprox": 71,
+        "includesRemoteWA": true,
+        "notes": "399 Fairview Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA74",
+        "affectedApprox": 2,
+        "includesRemoteWA": true,
+        "notes": "2400 6th Ave S., Seattle WA 98134"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA76",
+        "affectedApprox": 27,
+        "includesRemoteWA": true,
+        "notes": "501 Fairview Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA81",
+        "affectedApprox": 141,
+        "includesRemoteWA": true,
+        "notes": "1007 Stewart St, Seattle, WA 98101"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA82",
+        "affectedApprox": 10,
+        "includesRemoteWA": true,
+        "notes": "425 106th Ave NE, Bellevue, WA 98004"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA83",
+        "affectedApprox": 61,
+        "includesRemoteWA": true,
+        "notes": "320 Westlake Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA84",
+        "affectedApprox": 4,
+        "includesRemoteWA": true,
+        "notes": "1812 Boren Ave, Seattle, WA 98101"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA86",
+        "affectedApprox": 37,
+        "includesRemoteWA": true,
+        "notes": "321 Terry Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA89",
+        "affectedApprox": 1,
+        "includesRemoteWA": true,
+        "notes": "300 Pine St, Seattle, Washington 98101"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA91",
+        "affectedApprox": 61,
+        "includesRemoteWA": true,
+        "notes": "234 9th Ave N, Seattle, WA 98109"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "SEA93",
+        "affectedApprox": 11,
+        "includesRemoteWA": true,
+        "notes": "10885 NE 4th St 8th floor, Bellevue, WA 98004"
+      },
+      {
+        "noticeId": "notice_2",
+        "facilityId": "REMOTE_WA",
+        "affectedApprox": 116,
+        "includesRemoteWA": true,
+        "notes": "Remote employees residing within WA (no facility address)."
+      }
+    ],
+    "jobTitleImpacts": [
+      {
+        "facilityId": "SEA106",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA106",
+        "jobTitle": "Sr Manager, Software Dev",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA106",
+        "jobTitle": "Technical Program Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Applied Scientist II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Business Intel Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Data Engineer II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Manager III, Applied Science",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Manager III, Business Intel",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Principal Product Management",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Privacy Specialist I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Product Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Product Mgr III - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Quality Assurance Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Quality Assurance Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Quality Assurance Tech I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 6
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Sr Manager, Product Mgmt",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Sr Manager, Software Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Sr Manager, Tech Program Mgmt",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Sr Mgr, Recruiting",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "Technical Program Manager II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA107",
+        "jobTitle": "UX Researcher III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Account Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Business Analyst III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Business Intel Engineer II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Business Intel Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Data Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Data Engineer II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Data Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Data Scientist II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Data Scientist III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Database Engineer II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Design Technologist III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Director, Software Development",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Hardware Dev Engr II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Hardware Dev Engr III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Principal Research Scientist",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Principal Software Dev Eng",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Principal Tech Program Manager",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Principal, HRBP (Corp)",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Principal, Supply Chain",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Product Manager III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Product Manager III - MBA",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Research Scientist II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 13
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 19
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Sr Manager, Software Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Sr Manager, Tech Program Mgmt",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Sr Mgr, Supply Chain MGMT",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "System Dev Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "System Development Engineer I",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "System Development Engineer II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Tech Business Developer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Technical Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "Technical Program Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "UX Researcher I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA112",
+        "jobTitle": "UX Researcher III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA113",
+        "jobTitle": "Tech Writer-Tech II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA124",
+        "jobTitle": "IT Support Eng I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA124",
+        "jobTitle": "Mgr III, Data Center Materials",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA132",
+        "jobTitle": "Director, Human Resources",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA132",
+        "jobTitle": "General MKTG III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA132",
+        "jobTitle": "Manager II, Software Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA132",
+        "jobTitle": "Manager III, Program Mgmt",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA132",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA132",
+        "jobTitle": "Mgr III, Recruiting",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA132",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA132",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA132",
+        "jobTitle": "Quality Assurance Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA132",
+        "jobTitle": "Quality Assurance Engineer II",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA132",
+        "jobTitle": "Quality Assurance Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA132",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 7
+      },
+      {
+        "facilityId": "SEA132",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 17
+      },
+      {
+        "facilityId": "SEA132",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 7
+      },
+      {
+        "facilityId": "SEA132",
+        "jobTitle": "Sourcing Recruiter I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA132",
+        "jobTitle": "Sourcing Recruiter II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA132",
+        "jobTitle": "Sourcing Recruiter III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA132",
+        "jobTitle": "Technical Program Manager III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Applied Scientist II",
+        "affectedCount": 6
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Applied Scientist III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Business Intel Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Business Intel Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Data Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Data Engineer II",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Data Engineer III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Data Scientist II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Editor II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Manager III, Data Engineering",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Principal, Applied Scientist",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Principal, Product Mgmt - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Product Mgr III - Tech",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Protective Services Mgr II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Quality Assurance Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Research Scientist III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 11
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 13
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Sr Manager, Prod Mgmt - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Sr Manager, Software Dev",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Technical Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "Technical Program Manager III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA20",
+        "jobTitle": "UX Designer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA22",
+        "jobTitle": "Contract Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA22",
+        "jobTitle": "Financial Analyst II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA22",
+        "jobTitle": "Front-End Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA22",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA22",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA22",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA22",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA22",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA22",
+        "jobTitle": "Sr Manager, Finance",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA22",
+        "jobTitle": "Sr Mgr, Creative Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA22",
+        "jobTitle": "Sr. Manager, Risk",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA22",
+        "jobTitle": "Support Engineer IV",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Business Analyst III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Business Intel Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Business Intel Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Creative MKTG II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Data Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Director, Human Resources",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Full Lifecycle Recruiter I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Full Lifecycle Recruiter II",
+        "affectedCount": 5
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Full Lifecycle Recruiter III",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "HR Specialist II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "HR Specialist III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Mgr II, Recruiting",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Mgr III, Recruiting",
+        "affectedCount": 8
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Principal Recruiting BP",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Program Manager I",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Recruiting BP I",
+        "affectedCount": 7
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Recruiting BP II",
+        "affectedCount": 5
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Recruiting BP III",
+        "affectedCount": 6
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Recruiting Coord I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Sourcing Recruiter I",
+        "affectedCount": 10
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Sourcing Recruiter II",
+        "affectedCount": 11
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Sourcing Recruiter III",
+        "affectedCount": 6
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Specialist III, Learning & Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Sr Manager, UX/Design",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Sr Mgr, HR Specialist",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "Sr Mgr, Recruiting",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "UX Designer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA23",
+        "jobTitle": "UX Designer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA24",
+        "jobTitle": "Financial Analyst II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA24",
+        "jobTitle": "Manager III, Data Engineering",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA24",
+        "jobTitle": "Principal Program Management",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA24",
+        "jobTitle": "Risk Manager II",
+        "affectedCount": 5
+      },
+      {
+        "facilityId": "SEA24",
+        "jobTitle": "Risk Manager III",
+        "affectedCount": 5
+      },
+      {
+        "facilityId": "SEA24",
+        "jobTitle": "Risk Specialist I",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA24",
+        "jobTitle": "Sr Manager, Finance",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA24",
+        "jobTitle": "System Dev Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA25",
+        "jobTitle": "Designer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA25",
+        "jobTitle": "Front-End Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA25",
+        "jobTitle": "Principal Program Management",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA25",
+        "jobTitle": "Principal Software Dev Eng",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA25",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA25",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA25",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA25",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA25",
+        "jobTitle": "Sr Manager, Program Management",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA25",
+        "jobTitle": "Sr Manager, Software Dev",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA25",
+        "jobTitle": "Sr. Mgr, System Development",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA25",
+        "jobTitle": "Supply Chain Mgr III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA25",
+        "jobTitle": "Support Engineer III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA25",
+        "jobTitle": "System Dev Engineer III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA25",
+        "jobTitle": "System Development Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA25",
+        "jobTitle": "Tech Infra Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA25",
+        "jobTitle": "Technical Program Manager III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Applied Scientist II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Applied Scientist III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Data Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Director, Applied Science",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Front-End Engineer II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Manager III, Applied Science",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Principal, Product Mgmt - Tech",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Product Mgr III - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Product Mgr III - Tech - MBA",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Security Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Security Industry Spclst II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 8
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 15
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Sr Manager, Prod Mgmt - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Sr Manager, Software Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Technical Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA26",
+        "jobTitle": "Technical Program Manager III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Account Rep I",
+        "affectedCount": 7
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Account Rep II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Account Rep III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Business Analyst I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Business Analyst II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Business Analyst III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Business Intel Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Business Intel Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Data Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "General MKTG II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "IT App Dev Engr III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Manager II, Account Rep",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Manager III, Account Rep",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Manager III, Business Intel",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Manager III, Customer Success",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Manager III, Sales Operations",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Principal Tech Program Manager",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Product MKTG II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Product MKTG III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Program Manager III - MBA",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA27",
+        "jobTitle": "Sr Manager, Finance",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Account Rep I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Account Rep II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Account Rep III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Business Analyst II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Business Analyst III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Business Developer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Business Intel Engineer I",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Business Intel Engineer II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Creative MKTG II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Data Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Data Engineer II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Designer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Executive Assistant II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Functional MKTG II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Functional MKTG III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "HRBP III (Corp)",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Instock Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Inventory Planner I",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Inventory Planning Tech III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Manager III, Account Mgmt",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Manager III, Data Engineering",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Manager III, Product MKTG",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Principal Tech Bus Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Principal, Product Mgmt - Tech",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Product Manager III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Product Mgr III - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Product MKTG II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Product MKTG III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Professional Services II",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Quality Assurance Engineer II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Sales Operations III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 17
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 24
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Sr Manager, Applied Science",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Sr Manager, Finance",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Sr Manager, Software Dev",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Sr Manager, UX/Design",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Sr. Manager, Account Rep",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Sr. Manager, Sales",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Sr. Mgr, Sales Operations",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Support Engineer IV",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Technical Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA28",
+        "jobTitle": "Technical Program Manager III",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA29",
+        "jobTitle": "Business Analyst I",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA29",
+        "jobTitle": "Data Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA29",
+        "jobTitle": "Director, Product Management",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA29",
+        "jobTitle": "Financial Analyst II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA29",
+        "jobTitle": "Financial Analyst III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA29",
+        "jobTitle": "Financial Analyst III - MBA",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA29",
+        "jobTitle": "Product Mgr III - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA29",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA29",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA29",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA29",
+        "jobTitle": "Sr Manager, Finance",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA29",
+        "jobTitle": "Sr Manager, Software Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA29",
+        "jobTitle": "Technical Program Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA33",
+        "jobTitle": "Data Engineer I",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA33",
+        "jobTitle": "Data Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA33",
+        "jobTitle": "Mgr III, Documentation-Tech",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA33",
+        "jobTitle": "Principal Secrty Indust Spclst",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA33",
+        "jobTitle": "Principal Tech Writer-Tech",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA33",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA33",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA33",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA33",
+        "jobTitle": "Solutions Architect II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA33",
+        "jobTitle": "Sr Mgr, Documentation-Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA33",
+        "jobTitle": "Tech Writer-Tech I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA33",
+        "jobTitle": "Tech Writer-Tech II",
+        "affectedCount": 14
+      },
+      {
+        "facilityId": "SEA33",
+        "jobTitle": "Tech Writer-Tech III",
+        "affectedCount": 25
+      },
+      {
+        "facilityId": "SEA33",
+        "jobTitle": "Technical Program Manager II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA33",
+        "jobTitle": "Technical Program Manager III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA37",
+        "jobTitle": "Director, Corp Strat Procur",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA37",
+        "jobTitle": "Director, Software Development",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA37",
+        "jobTitle": "Executive Assistant I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA37",
+        "jobTitle": "IT App Dev Engr II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA37",
+        "jobTitle": "Manager III, Finance",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA37",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA37",
+        "jobTitle": "Principal Finance",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA37",
+        "jobTitle": "Principal Product Management",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA37",
+        "jobTitle": "Principal Program Management",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA37",
+        "jobTitle": "Principal Tech Program Manager",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA37",
+        "jobTitle": "Product Mgr III - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA37",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA37",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA37",
+        "jobTitle": "Sr Manager, Corp Strat Procur",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA37",
+        "jobTitle": "Sr Manager, Software Dev",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA37",
+        "jobTitle": "Sr. Mgr, Secrty Indust Spclst",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "Design Program Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "Designer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "Director, Prod Mgmt - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "Manager III, Applied Science",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "Principal Software Dev Eng",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "Principal Tech Program Manager",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "Quality Assurance Engineer II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 10
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 12
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "Software Dev Engineer II-TEST",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "Sr Manager, Software Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "Sr Manager, UX/Design",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "System Dev Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "Technical Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "Technical Program Manager III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "UX Designer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "UX Designer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA38",
+        "jobTitle": "UX Designer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Business Developer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Director, Software Development",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Front-End Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Front-End Engineer III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "IT App Analyst II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 7
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Principal Data Engineering",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Principal Software Dev Eng",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Principal Tech Program Manager",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Principal, Product Mgmt - Tech",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Product Manager III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Product Mgr III - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 19
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 29
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 14
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Sr Manager, Product Mgmt",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Sr Manager, Software Dev",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Sr Manager, Tech Program Mgmt",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "System Development Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Technical Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA39",
+        "jobTitle": "Technical Program Manager III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Acct Exec I 50, Ad Growth",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Acct Exec II 100, AdLrgSales",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Acct Exec II 50, Ad Growth",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Acct Exec III 100, AdLrgSales",
+        "affectedCount": 13
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Ad Sales Acct Mgr II 40",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Ad Sales Acct Mgr III 40",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Applied Scientist II",
+        "affectedCount": 12
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Applied Scientist III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Business Intel Engineer II",
+        "affectedCount": 5
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Business Intel Engineer III",
+        "affectedCount": 6
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Contract Manager I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Contract Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Corporate Developer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Creative MKTG III",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Creative Services Spec II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Data Engineer I",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Data Engineer III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Data Scientist II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Data Scientist III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Designer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Digital Supply Chain Mgr II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Digital Supply Chain Mgr III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Director, Creative Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Director, BizTech Leader",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Director, Legal",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Director, Prod Mgmt - Tech",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Director, Sales Operations",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Economist II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Executive Assistant I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Executive Assistant II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Financial Analyst II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Financial Analyst III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Financial Analyst III - MBA",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Front-End Engineer I",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Front-End Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Front-End Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Full Lifecycle Recruiter III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Functional MKTG II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Functional MKTG III",
+        "affectedCount": 5
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "General MKTG III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "IT Support Assoc II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Legal Counsel II",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Legal Counsel III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Legal Support II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Manager III, Applied Science",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Manager III, Database Engineer",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Manager III, Functional MKTG",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 11
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Manager III, System Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Mgr III, Ad Sales Acct Mgt 40",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Paralegal I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Paralegal II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Paralegal III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Partner Growth Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Prin Acct Exec 100, AdLrgSales",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Principal - Customer Solutions",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Principal Finance",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Principal Functional MKTG",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Principal Legal Counsel",
+        "affectedCount": 7
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Principal Program Management",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Principal Tech Bus Dev",
+        "affectedCount": 5
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Principal Tech Program Manager",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Principal, Creative MKTG",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Principal, Economist",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Principal, HR Specialist",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Principal, HRBP (Corp)",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Principal, Product Mgmt - Tech",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Principal, Sales Operations",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Product Manager III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Product Mgr III - Tech",
+        "affectedCount": 10
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Product MKTG III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Professional Services II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Program Manager I",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 6
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Quality Assurance Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Quality Assurance Engineer II",
+        "affectedCount": 7
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Quality Assurance Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Research Scientist III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Risk Manager II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Risk Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Risk Specialist I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sales Mgr III 50, Ad Growth",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sales Operations III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 37
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 51
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 15
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Software Dev Engineer II-TEST",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr Manager, Applied Science",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr Manager, Business Intel",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr Manager, Data Engineering",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr Manager, Data Science",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr Manager, Prod Mgmt - Tech",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr Manager, Product Mgmt",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr Manager, Software Dev",
+        "affectedCount": 7
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr Manager, Tech Business Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr Manager, UX/Design",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr Mgr, Recruiting",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr. Manager, Ad Sales",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr. Manager, Ads Acct Mgmt",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr. Manager, Public Policy",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr. Mgr, Creative MKTG",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr. Mgr, Studio Ops and Strate",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr. Principal Technologist",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr. Sales Manager, Ad Growth",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr. Sales Manager, AdLrgSales",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr.Mgr, General MKTG",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Sr.Mgr, Product MKTG",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Studio Ops and Strategy Sp II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Support Engineer V",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "System Admin/Engr II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "System Development Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "System Development Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Tech Business Developer III",
+        "affectedCount": 7
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Technical Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "Technical Program Manager III",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "UX Designer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA40",
+        "jobTitle": "UX Researcher II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Benefits Specialist III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Business Analyst III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Business Intel Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Business Intel Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Creative MKTG III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Data Engineer II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Data Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Data Scientist III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Design Technologist III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Designer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Device Associate II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Director, Public Relations",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Director, UX/Design",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Editor I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Executive Assistant I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Executive Assistant III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Financial Analyst II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Financial Analyst III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Front-End Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Front-End Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Functional MKTG II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "General MKTG III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Industrial Designer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "IT App Dev Engr II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "IT App Dev Engr III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Manager III, Quality",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "PR Specialist II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "PR Specialist III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Principal Finance",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Principal Product MKTG",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Principal Program Management",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Principal Public Policy",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Principal Software Dev Eng",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Principal Tech Bus Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Principal UX Design",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Principal, HR Specialist",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Principal, Public Relations",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Principal, Sustainability",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Product Manager II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Product Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Product Mgr II - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Product Mgr III - Tech",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Product MKTG III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Program Manager I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Protective Services Mgr II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Protective Services Mgr III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Quality Assurance Engineer I",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Quality Assurance Engineer II",
+        "affectedCount": 9
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Recruiting BP III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Research Scientist II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Research Scientist III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Risk Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Risk Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Risk Specialist I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Security Industry Spclst III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 12
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 33
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 5
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Software Dev Engineer III-TEST",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Software Dev Engineer II-TEST",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Sr Manager, Finance",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Sr Manager, Prod Mgmt - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Sr Manager, Product Mgmt",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Sr Manager, Research Science",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Sr Manager, Software Dev",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Sr Manager, Tech Business Dev",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Sr Manager, UX/Design",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Sr Mgr, Benefits Specialist",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Sr Mgr, HR Specialist",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Sr Mgr, HRP (Corp)",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Sr. Manager, Account Rep",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Sr. Manager, Risk",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Sr. Principal Technologist",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Sr.Mgr, General MKTG",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Technical Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "Technical Program Manager III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "UX Designer III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "UX Researcher II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA41",
+        "jobTitle": "UX Researcher III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA42",
+        "jobTitle": "Director, Legal",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA42",
+        "jobTitle": "Financial Analyst I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA42",
+        "jobTitle": "Financial Analyst III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA42",
+        "jobTitle": "IT Support Assoc II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA42",
+        "jobTitle": "Legal Counsel III",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA42",
+        "jobTitle": "Legal Support II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA42",
+        "jobTitle": "Principal Finance",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA42",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA42",
+        "jobTitle": "Sr Manager, Finance",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA43",
+        "jobTitle": "Business Developer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA43",
+        "jobTitle": "Business Intel Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA43",
+        "jobTitle": "Executive Assistant II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA43",
+        "jobTitle": "Principal Software Dev Eng",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA43",
+        "jobTitle": "Principal Tech Program Manager",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA43",
+        "jobTitle": "Principal UX Design",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA43",
+        "jobTitle": "Principal, Product Mgmt - Tech",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA43",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA43",
+        "jobTitle": "Sr Manager, Finance",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA43",
+        "jobTitle": "Sr Manager, UX/Design",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA43",
+        "jobTitle": "Technical Program Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA44",
+        "jobTitle": "Financial Analyst II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA44",
+        "jobTitle": "Financial Analyst III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA47",
+        "jobTitle": "IT Support Eng II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA47",
+        "jobTitle": "Protective Services Specialist",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA48",
+        "jobTitle": "Corporate Security II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA48",
+        "jobTitle": "Principal Secrty Indust Spclst",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA48",
+        "jobTitle": "Sr. Mgr, Secrty Indust Spclst",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Applied Scientist II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Business Intel Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Business Intel Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Business Intel Engineer III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Data Scientist I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Design Program Manager III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Director, Category Leadership",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Director, General MKTG",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Director, Regional Operations",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Director, Retail Stores",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Director, Supply Chain MGMT",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "General MKTG II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Hardware Designer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Instock Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Manager III, Data Engineering",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Manager III, General MKTG",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Principal Design Program Mgr",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Principal Product Management",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Product Manager II",
+        "affectedCount": 5
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Product Manager III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Product MKTG II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Product MKTG III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Retail Vendor Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Retail Vendor Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Software Dev Engineer III-TEST",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Software Dev Engineer II-TEST",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Sr Manager, Product Mgmt",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Sr Manager, Program Management",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Sr Manager, Quality",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Sr Mgr, Retail Store",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Sr Mgr, Retail Vendor Mgmt",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Sr.Mgr, Product MKTG",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Supply Chain Mgr II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Sustainability Specialist III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA53",
+        "jobTitle": "Technical Program Manager III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA54",
+        "jobTitle": "Account Rep I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA54",
+        "jobTitle": "Product Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA54",
+        "jobTitle": "Product Mgr II - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA54",
+        "jobTitle": "Product Mgr III - Tech",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA54",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA54",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA54",
+        "jobTitle": "Sr Manager, Prod Mgmt - Tech",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA54",
+        "jobTitle": "Sr Manager, Product Mgmt",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA54",
+        "jobTitle": "Sr Manager, Program Management",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA54",
+        "jobTitle": "Technical Program Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA54",
+        "jobTitle": "UX Designer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA54",
+        "jobTitle": "UX Researcher I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA58",
+        "jobTitle": "Full Lifecycle Recruiter II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA58",
+        "jobTitle": "Full Lifecycle Recruiter III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA58",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA58",
+        "jobTitle": "Recruiting BP II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA58",
+        "jobTitle": "Recruiting BP III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA58",
+        "jobTitle": "Sourcing Recruiter III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA68",
+        "jobTitle": "Financial Analyst III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA69",
+        "jobTitle": "Creative MKTG III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA69",
+        "jobTitle": "Mgr III, Studio Ops",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA69",
+        "jobTitle": "Photographer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA69",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Applied Scientist II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Applied Scientist III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Business Intel Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Business Intel Engineer II",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Business Intel Engineer III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Data Engineer II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Data Engineer III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Data Scientist II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Data Scientist III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Director, Prod Mgmt - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Economist III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Front-End Engineer II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "HRBP III (Corp)",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Instock Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Manager III, Product MKTG",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Manager III, UX/Design",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Mgr III, Retail Vendor Mgmt",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Principal Product Management",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Principal Software Dev Eng",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Principal Tech Program Manager",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Principal, Applied Scientist",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Product Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Product Manager III",
+        "affectedCount": 8
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Product Manager III - MBA",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Product Mgr III - Tech",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Product Mgr III - Tech - MBA",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Product MKTG II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Quality Assurance Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Research Scientist III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Retail Rotation Program - MBA",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Retail Vendor Manager II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Retail Vendor Manager III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 16
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 28
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 10
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Software Dev Engineer II-TEST",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Sr Manager, Instock Mgmt",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Sr Manager, Prod Mgmt - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Sr Manager, Product Mgmt",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Sr Manager, Software Dev",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Sr. Principal Technologist",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Supply Chain Mgr II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Support Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Tech Business Developer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Tech Writer-Tech III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "Technical Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "UX Designer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA70",
+        "jobTitle": "UX Designer III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Account Rep II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Business Developer II",
+        "affectedCount": 5
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Business Developer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Business Intel Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Customer Success Manager I",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Customer Success Manager II",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Data Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Instock Manager III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Product Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Product Manager III - MBA",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Product Mgr III - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Product MKTG II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Retail Vendor Manager III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 10
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 23
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 6
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Sr Manager, Applied Science",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Sr Manager, Software Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Support Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA71",
+        "jobTitle": "Technical Program Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA74",
+        "jobTitle": "Hardware Dev Engr III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA74",
+        "jobTitle": "Sr Manager, UX/Design",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA76",
+        "jobTitle": "Business Analyst II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA76",
+        "jobTitle": "Business Intel Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA76",
+        "jobTitle": "Business Intel Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA76",
+        "jobTitle": "Economist III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA76",
+        "jobTitle": "Front-End Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA76",
+        "jobTitle": "Product Mgr III - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA76",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA76",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 5
+      },
+      {
+        "facilityId": "SEA76",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA76",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA76",
+        "jobTitle": "Support Engineer II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA76",
+        "jobTitle": "Support Engineer III",
+        "affectedCount": 5
+      },
+      {
+        "facilityId": "SEA76",
+        "jobTitle": "System Development Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA76",
+        "jobTitle": "System Development Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA76",
+        "jobTitle": "Tech Writer-Tech I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Business Analyst I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Business Intel Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Business Intel Engineer II",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Business Intel Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Creative MKTG II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Data Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Data Scientist II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Design Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Design Technologist I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Design Technologist II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Designer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Front-End Engineer II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Full Lifecycle Recruiter III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Functional MKTG II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Functional MKTG III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Game Artist II",
+        "affectedCount": 6
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Game Artist III",
+        "affectedCount": 6
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Game Designer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Game Designer II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Game Designer III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Game Producer II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Game Producer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "General MKTG II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Localization Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Manager III, Game Art",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Manager III, Game Design",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Manager III, Game Production",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Manager III, Product MKTG",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Manager III, Quality",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Manager III, UX/Design",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Mgr II, Recruiting",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Mgr III, Recruiting",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Principal Quality Assurance",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Principal Software Dev Eng",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Product Mgr III - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Product MKTG III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Program Manager I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Quality Assurance Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Quality Assurance Engineer II",
+        "affectedCount": 7
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Sales Operations III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 5
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 21
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 11
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Sourcing Recruiter II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Sr Manager, Product Mgmt",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Sr Manager, Quality",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Sr Manager, Software Dev",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Sr Manager, UX/Design",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Sr Mgr, Recruiting",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Sr. Manager, Game Production",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "System Dev Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Tech Game Artist I",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Tech Game Artist II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Tech Game Artist III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Technical Program Manager II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "Technical Program Manager III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "UX Designer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "UX Designer II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA81",
+        "jobTitle": "UX Designer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA82",
+        "jobTitle": "Business Analyst II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA82",
+        "jobTitle": "IT Support Eng I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA82",
+        "jobTitle": "Manager III, Plan/Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA82",
+        "jobTitle": "Manager III, Program Mgmt",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA82",
+        "jobTitle": "Principal, Product Mgmt - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA82",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA82",
+        "jobTitle": "Solutions Architect III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA82",
+        "jobTitle": "Sr Manager, Plan/Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA82",
+        "jobTitle": "Sr Mgr, Supply Chain MGMT",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA82",
+        "jobTitle": "Supply Chain Mgr III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Account Rep I",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Account Rep II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Business Intel Engineer II",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Business Intel Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Data Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Data Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Data Scientist I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Financial Analyst III - MBA",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Functional MKTG I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Functional MKTG II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Functional MKTG III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Manager III, Account Rep",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Principal Product Management",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Product Mgr III - Tech",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Quality Assurance Engineer I",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Quality Assurance Engineer II",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Sales Account Manager II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 11
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 11
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "Sr Manager, Applied Science",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA83",
+        "jobTitle": "UX Designer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA84",
+        "jobTitle": "Financial Analyst III",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA84",
+        "jobTitle": "IT Support Eng I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "Business Developer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "Business Developer III",
+        "affectedCount": 5
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "Business Intel Engineer I",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "Business Intel Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "Creative MKTG II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "Financial Analyst III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "Product Manager II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "Product Mgr III - Tech - MBA",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "Program Manager I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 6
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 5
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "Sr Manager, Prod Mgmt - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "Sr Manager, Product Mgmt",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "Sr Manager, Software Dev",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA86",
+        "jobTitle": "UX Designer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA89",
+        "jobTitle": "Program Manager I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Business Analyst III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Director, Finance",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Executive Assistant I",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Financial Analyst II",
+        "affectedCount": 12
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Financial Analyst III",
+        "affectedCount": 9
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Manager III, IT App Dev Engrng",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Manager III, Tax",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Principal Finance",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Principal Risk Manager",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Principal Tax",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Product Manager III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Software Dev Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Solutions Architect II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Tax Analyst I",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Tax Analyst II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA91",
+        "jobTitle": "Tax Analyst III",
+        "affectedCount": 12
+      },
+      {
+        "facilityId": "SEA93",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA93",
+        "jobTitle": "Product Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA93",
+        "jobTitle": "Software Dev Engineer I",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "SEA93",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "SEA93",
+        "jobTitle": "Sr Manager, Finance",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "SEA93",
+        "jobTitle": "UX Researcher II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Manager Team, Customer Service",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Program Manager I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Sr Manager, Program Management",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Account Rep I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Account Rep II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Account Rep III",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Applied Scientist II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Business Analyst II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Business Intel Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Business Intel Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Construction Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Creative MKTG III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Customer Success Manager I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Editor III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Executive Assistant II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Full Lifecycle Recruiter III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Game Designer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "HR Specialist II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Investigation Specialist I",
+        "affectedCount": 5
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Investigation Specialist II",
+        "affectedCount": 14
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "IT Support Assoc I",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "IT Support Assoc II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "IT Support Eng I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "IT Support Eng II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Lab Engineer I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Manager II, Facilities",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Manager III, Finance",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Manager III, Investigation",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Manager III, Software Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Manager III, Tech Business Dev",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Paralegal I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Principal Public Policy",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Principal Risk Manager",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Principal Software Dev Eng",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Principal Tech Program Manager",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Principal, Creative MKTG",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Principal, Product Mgmt - Tech",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Product Mgr III - Tech - MBA",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Product MKTG III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Program Manager I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Program Manager II",
+        "affectedCount": 10
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Program Manager III",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Quality Assurance Engineer II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Recruiting BP II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Recruiting BP III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Risk Manager III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Risk Specialist I",
+        "affectedCount": 5
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Security Industry Spclst II",
+        "affectedCount": 2
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Security Industry Spclst III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Software Dev Engineer II",
+        "affectedCount": 6
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Sourcing Recruiter I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Sourcing Recruiter II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Sourcing Recruiter III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Sr Manager, Product Mgmt",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Sr Manager, Program Management",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Sr Manager, UX/Design",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Sr. Manager, Account Rep",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "System Dev Engineer III",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Tech Writer-Tech I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Tech Writer-Tech II",
+        "affectedCount": 3
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Tech Writer-Tech III",
+        "affectedCount": 4
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Technical Account Manager I",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "Technical Program Manager II",
+        "affectedCount": 1
+      },
+      {
+        "facilityId": "REMOTE_WA",
+        "jobTitle": "UX Designer III",
+        "affectedCount": 1
+      }
+    ]
   }
 }

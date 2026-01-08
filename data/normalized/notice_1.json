@@ -11,9 +11,9 @@
     "jurisdiction": "WA",
     "remoteClauses": [
       {
-        "text": "plus 6 affected remote employees residing within the state of Washington.",
-        "affectedCount": 6,
-        "state": "WA"
+        "type": "REMOTE_RESIDENCE_STATE",
+        "state": "WA",
+        "notes": "plus 6 affected remote employees residing within the state of Washington."
       }
     ],
     "separationDates": [
@@ -30,7 +30,153 @@
       "2026-02-21",
       "2026-02-23"
     ],
-    "facilities": [],
-    "jobTitleImpacts": []
+    "facilities": [
+      { "noticeId": "notice_1", "facilityId": "SEA104", "affectedApprox": 2, "notes": "320 108th Ave NE, Bellevue, WA 98004" },
+      { "noticeId": "notice_1", "facilityId": "SEA107", "affectedApprox": 2, "notes": "10450 NE 10th St, Bellevue, WA 98004" },
+      { "noticeId": "notice_1", "facilityId": "SEA112", "affectedApprox": 2, "notes": "555 108th Ave NE, Bellevue, WA 98004" },
+      { "noticeId": "notice_1", "facilityId": "SEA132", "affectedApprox": 1, "notes": "1915 Terry Ave, Seattle, WA 98101" },
+      { "noticeId": "notice_1", "facilityId": "SEA20", "affectedApprox": 4, "notes": "1915 Terry Ave, Seattle, WA 98101" },
+      { "noticeId": "notice_1", "facilityId": "SEA22", "affectedApprox": 2, "notes": "1915 Terry Ave, Seattle, WA 98101" },
+      { "noticeId": "notice_1", "facilityId": "SEA23", "affectedApprox": 7, "notes": "920 5th Ave, Seattle, WA 98104" },
+      { "noticeId": "notice_1", "facilityId": "SEA24", "affectedApprox": 1, "notes": "1915 Terry Ave, Seattle, WA 98101" },
+      { "noticeId": "notice_1", "facilityId": "SEA26", "affectedApprox": 2, "notes": "1915 Terry Ave, Seattle, WA 98101" },
+      { "noticeId": "notice_1", "facilityId": "SEA28", "affectedApprox": 3, "notes": "1915 Terry Ave, Seattle, WA 98101" },
+      { "noticeId": "notice_1", "facilityId": "SEA33", "affectedApprox": 2, "notes": "1915 Terry Ave, Seattle, WA 98101" },
+      { "noticeId": "notice_1", "facilityId": "SEA38", "affectedApprox": 2, "notes": "1915 Terry Ave, Seattle, WA 98101" },
+      { "noticeId": "notice_1", "facilityId": "SEA39", "affectedApprox": 1, "notes": "1915 Terry Ave, Seattle, WA 98101" },
+      { "noticeId": "notice_1", "facilityId": "SEA40", "affectedApprox": 7, "notes": "2021 7th Ave, Seattle, WA 98121" },
+      { "noticeId": "notice_1", "facilityId": "SEA41", "affectedApprox": 9, "notes": "2021 7th Ave, Seattle, WA 98121" },
+      { "noticeId": "notice_1", "facilityId": "SEA42", "affectedApprox": 1, "notes": "2021 7th Ave, Seattle, WA 98121" },
+      { "noticeId": "notice_1", "facilityId": "SEA43", "affectedApprox": 1, "notes": "2021 7th Ave, Seattle, WA 98121" },
+      { "noticeId": "notice_1", "facilityId": "SEA44", "affectedApprox": 2, "notes": "2021 7th Ave, Seattle, WA 98121" },
+      { "noticeId": "notice_1", "facilityId": "SEA54", "affectedApprox": 1, "notes": "2021 7th Ave, Seattle, WA 98121" },
+      { "noticeId": "notice_1", "facilityId": "SEA55", "affectedApprox": 1, "notes": "1915 Terry Ave, Seattle, WA 98101" },
+      { "noticeId": "notice_1", "facilityId": "SEA58", "affectedApprox": 1, "notes": "2021 7th Ave, Seattle, WA 98121" },
+      { "noticeId": "notice_1", "facilityId": "SEA68", "affectedApprox": 1, "notes": "1915 Terry Ave, Seattle, WA 98101" },
+      { "noticeId": "notice_1", "facilityId": "SEA70", "affectedApprox": 4, "notes": "300 Boren Ave N, Seattle, WA 98109" },
+      { "noticeId": "notice_1", "facilityId": "SEA71", "affectedApprox": 6, "notes": "399 Fairview Ave N, Seattle, WA 98109" },
+      { "noticeId": "notice_1", "facilityId": "SEA76", "affectedApprox": 1, "notes": "501 Fairview Ave N, Seattle, WA 98109" },
+      { "noticeId": "notice_1", "facilityId": "SEA81", "affectedApprox": 1, "notes": "1007 Stewart St, Seattle, WA 98101" },
+      { "noticeId": "notice_1", "facilityId": "SEA82", "affectedApprox": 1, "notes": "425 106th Ave NE, Bellevue, WA 98004" },
+      { "noticeId": "notice_1", "facilityId": "SEA83", "affectedApprox": 1, "notes": "320 Westlake Ave N, Seattle, WA 98109" },
+      { "noticeId": "notice_1", "facilityId": "SEA84", "affectedApprox": 1, "notes": "1812 Boren Ave, Seattle, WA 98101" },
+      { "noticeId": "notice_1", "facilityId": "SEA86", "affectedApprox": 2, "notes": "321 Terry Ave N, Seattle, WA 98109" },
+      { "noticeId": "notice_1", "facilityId": "SEA90", "affectedApprox": 1, "notes": "325 Eastlake Ave E, Seattle, WA 98101" },
+      { "noticeId": "notice_1", "facilityId": "SEA91", "affectedApprox": 3, "notes": "234 9th Ave N, Seattle, WA 98109" },
+
+      { "noticeId": "notice_1", "facilityId": "REMOTE_WA", "affectedApprox": 6, "notes": "Remote employees residing in WA (explicitly stated in notice)" }
+    ],
+    "jobTitleImpacts": [
+      { "noticeId": "notice_1", "facilityId": "SEA104", "jobTitleRaw": "PROGRAM MANAGER II", "jobTitleCanonical": "Program Manager II", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA104", "jobTitleRaw": "SOURCING RECRUITER III", "jobTitleCanonical": "Sourcing Recruiter III", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA107", "jobTitleRaw": "SR MANAGER, PRODUCT MGMT", "jobTitleCanonical": "Sr Manager, Product Mgmt", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA107", "jobTitleRaw": "SR MGR, RECRUITING", "jobTitleCanonical": "Sr Mgr, Recruiting", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA112", "jobTitleRaw": "DIR, SYSTEM DEVELOPMENT", "jobTitleCanonical": "Dir, System Development", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA112", "jobTitleRaw": "TECHNICAL PROGRAM MANAGER III", "jobTitleCanonical": "Technical Program Manager III", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA132", "jobTitleRaw": "SOFTWARE DEV ENGINEER II", "jobTitleCanonical": "Software Dev Engineer II", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA20", "jobTitleRaw": "APPLIED SCIENTIST III", "jobTitleCanonical": "Applied Scientist III", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA20", "jobTitleRaw": "PRODUCT MGR III - TECH", "jobTitleCanonical": "Product Mgr III - Tech", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA20", "jobTitleRaw": "PROGRAM MANAGER II", "jobTitleCanonical": "Program Manager II", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA20", "jobTitleRaw": "SOFTWARE DEV ENGINEER II", "jobTitleCanonical": "Software Dev Engineer II", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA22", "jobTitleRaw": "SOFTWARE DEV ENGINEER I", "jobTitleCanonical": "Software Dev Engineer I", "affectedCount": 2 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA23", "jobTitleRaw": "DIRECTOR, HUMAN RESOURCES", "jobTitleCanonical": "Director, Human Resources", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA23", "jobTitleRaw": "FULL LIFECYCLE RECRUITER II", "jobTitleCanonical": "Full Lifecycle Recruiter II", "affectedCount": 2 },
+      { "noticeId": "notice_1", "facilityId": "SEA23", "jobTitleRaw": "FULL LIFECYCLE RECRUITER III", "jobTitleCanonical": "Full Lifecycle Recruiter III", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA23", "jobTitleRaw": "PROGRAM MANAGER I", "jobTitleCanonical": "Program Manager I", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA23", "jobTitleRaw": "RECRUITING BP II", "jobTitleCanonical": "Recruiting BP II", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA23", "jobTitleRaw": "RECRUITING BP III", "jobTitleCanonical": "Recruiting BP III", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA23", "jobTitleRaw": "UX DESIGNER II", "jobTitleCanonical": "UX Designer II", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA24", "jobTitleRaw": "DIRECTOR, PROD MGMT - TECH", "jobTitleCanonical": "Director, Prod Mgmt - Tech", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA26", "jobTitleRaw": "SOFTWARE DEV ENGINEER II", "jobTitleCanonical": "Software Dev Engineer II", "affectedCount": 2 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA28", "jobTitleRaw": "EXECUTIVE ASSISTANT II", "jobTitleCanonical": "Executive Assistant II", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA28", "jobTitleRaw": "SOFTWARE DEV ENGINEER II", "jobTitleCanonical": "Software Dev Engineer II", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA28", "jobTitleRaw": "SUPPORT ENGINEER IV", "jobTitleCanonical": "Support Engineer IV", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA33", "jobTitleRaw": "PROGRAM MANAGER II", "jobTitleCanonical": "Program Manager II", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA33", "jobTitleRaw": "TECH WRITER-TECH III", "jobTitleCanonical": "Tech Writer-Tech III", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA38", "jobTitleRaw": "SOFTWARE DEV ENGINEER II", "jobTitleCanonical": "Software Dev Engineer II", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA38", "jobTitleRaw": "UX DESIGNER II", "jobTitleCanonical": "UX Designer II", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA39", "jobTitleRaw": "SOFTWARE DEV ENGINEER II", "jobTitleCanonical": "Software Dev Engineer II", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA40", "jobTitleRaw": "EXECUTIVE ASSISTANT I", "jobTitleCanonical": "Executive Assistant I", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA40", "jobTitleRaw": "LEGAL COUNSEL III", "jobTitleCanonical": "Legal Counsel III", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA40", "jobTitleRaw": "PRINCIPAL PROGRAM MANAGEMENT", "jobTitleCanonical": "Principal Program Management", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA40", "jobTitleRaw": "PRINCIPAL, CORP DEV", "jobTitleCanonical": "Principal, Corp Dev", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA40", "jobTitleRaw": "SR MANAGER, SOFTWARE DEV", "jobTitleCanonical": "Sr Manager, Software Dev", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA40", "jobTitleRaw": "SR.MGR, GENERAL MKTG", "jobTitleCanonical": "Sr Mgr, General Mktg", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA40", "jobTitleRaw": "SYSTEM ADMIN/ENGR II", "jobTitleCanonical": "System Admin/Engr II", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA41", "jobTitleRaw": "DIRECTOR, PRODUCT MANAGEMENT", "jobTitleCanonical": "Director, Product Management", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA41", "jobTitleRaw": "DIRECTOR, TECH PROGRAM MGMT", "jobTitleCanonical": "Director, Tech Program Mgmt", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA41", "jobTitleRaw": "PRINCIPAL PRODUCT MANAGEMENT", "jobTitleCanonical": "Principal Product Management", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA41", "jobTitleRaw": "PRINCIPAL, HR SPECIALIST", "jobTitleCanonical": "Principal, HR Specialist", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA41", "jobTitleRaw": "PROGRAM MANAGER III", "jobTitleCanonical": "Program Manager III", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA41", "jobTitleRaw": "RECRUITING BP III", "jobTitleCanonical": "Recruiting BP III", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA41", "jobTitleRaw": "RESEARCH SCIENTIST II", "jobTitleCanonical": "Research Scientist II", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA41", "jobTitleRaw": "SOFTWARE DEV ENGINEER I", "jobTitleCanonical": "Software Dev Engineer I", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA41", "jobTitleRaw": "SR MANAGER, SOFTWARE DEV", "jobTitleCanonical": "Sr Manager, Software Dev", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA41", "jobTitleRaw": "UX DESIGNER III", "jobTitleCanonical": "UX Designer III", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA42", "jobTitleRaw": "SR MANAGER, FINANCE", "jobTitleCanonical": "Sr Manager, Finance", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA43", "jobTitleRaw": "DIRECTOR, SOFTWARE DEVELOPMENT", "jobTitleCanonical": "Director, Software Development", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA44", "jobTitleRaw": "DIRECTOR, SOFTWARE DEVELOPMENT", "jobTitleCanonical": "Director, Software Development", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA44", "jobTitleRaw": "SOLUTIONS ARCHITECT I", "jobTitleCanonical": "Solutions Architect I", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA54", "jobTitleRaw": "RETAIL VENDOR MANAGER III", "jobTitleCanonical": "Retail Vendor Manager III", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA55", "jobTitleRaw": "TECHNICAL WRITER II", "jobTitleCanonical": "Technical Writer II", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA58", "jobTitleRaw": "PRINCIPAL, HR SPECIALIST", "jobTitleCanonical": "Principal, HR Specialist", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA68", "jobTitleRaw": "TECHNICAL PROGRAM MANAGER III", "jobTitleCanonical": "Technical Program Manager III", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA70", "jobTitleRaw": "FRONT-END ENGINEER II", "jobTitleCanonical": "Front-End Engineer II", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA70", "jobTitleRaw": "SOFTWARE DEV ENGINEER II", "jobTitleCanonical": "Software Dev Engineer II", "affectedCount": 2 },
+      { "noticeId": "notice_1", "facilityId": "SEA70", "jobTitleRaw": "SR MANAGER, SOFTWARE DEV", "jobTitleCanonical": "Sr Manager, Software Dev", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA71", "jobTitleRaw": "INSTOCK MANAGER III", "jobTitleCanonical": "Instock Manager III", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA71", "jobTitleRaw": "MANAGER III, CUSTOMER SUCCESS", "jobTitleCanonical": "Manager III, Customer Success", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA71", "jobTitleRaw": "PRODUCT MGR III - TECH", "jobTitleCanonical": "Product Mgr III - Tech", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA71", "jobTitleRaw": "SOFTWARE DEV ENGINEER I", "jobTitleCanonical": "Software Dev Engineer I", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA71", "jobTitleRaw": "SOFTWARE DEV ENGINEER III", "jobTitleCanonical": "Software Dev Engineer III", "affectedCount": 2 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA76", "jobTitleRaw": "SOFTWARE DEV ENGINEER I", "jobTitleCanonical": "Software Dev Engineer I", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA81", "jobTitleRaw": "VP, SALES/ACCOUNT MANAGEMENT", "jobTitleCanonical": "VP, Sales/Account Management", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA82", "jobTitleRaw": "MANAGER III, PROGRAM MGMT", "jobTitleCanonical": "Manager III, Program Mgmt", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA83", "jobTitleRaw": "BUSINESS INTEL ENGINEER II", "jobTitleCanonical": "Business Intel Engineer II", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA84", "jobTitleRaw": "FINANCIAL ANALYST III", "jobTitleCanonical": "Financial Analyst III", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA86", "jobTitleRaw": "BUSINESS DEVELOPER III", "jobTitleCanonical": "Business Developer III", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "SEA86", "jobTitleRaw": "SOFTWARE DEV ENGINEER I", "jobTitleCanonical": "Software Dev Engineer I", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA90", "jobTitleRaw": "APPLIED SCIENTIST II", "jobTitleCanonical": "Applied Scientist II", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "SEA91", "jobTitleRaw": "FINANCIAL ANALYST II", "jobTitleCanonical": "Financial Analyst II", "affectedCount": 2 },
+      { "noticeId": "notice_1", "facilityId": "SEA91", "jobTitleRaw": "SOFTWARE DEV ENGINEER III", "jobTitleCanonical": "Software Dev Engineer III", "affectedCount": 1 },
+
+      { "noticeId": "notice_1", "facilityId": "REMOTE_WA", "jobTitleRaw": "BUSINESS INTEL ENGINEER I", "jobTitleCanonical": "Business Intel Engineer I", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "REMOTE_WA", "jobTitleRaw": "HR SPECIALIST II", "jobTitleCanonical": "HR Specialist II", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "REMOTE_WA", "jobTitleRaw": "MANAGER III, TECH BUSINESS DEV", "jobTitleCanonical": "Manager III, Tech Business Dev", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "REMOTE_WA", "jobTitleRaw": "MGR II, SUPPORT ENGINEER-EXT", "jobTitleCanonical": "Mgr II, Support Engineer-Ext", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "REMOTE_WA", "jobTitleRaw": "SOFTWARE DEV ENGINEER II", "jobTitleCanonical": "Software Dev Engineer II", "affectedCount": 1 },
+      { "noticeId": "notice_1", "facilityId": "REMOTE_WA", "jobTitleRaw": "SR MANAGER, PROGRAM MANAGEMENT", "jobTitleCanonical": "Sr Manager, Program Management", "affectedCount": 1 }
+    ]
   }
 }

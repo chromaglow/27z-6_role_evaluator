@@ -1,0 +1,332 @@
+jobTitleCanonical,totalAffected,facilityCount
+Account Manager III,1,1
+Account Rep I,13,5
+Account Rep II,9,5
+Account Rep III,7,3
+"Acct Exec I 50, Ad Growth",3,1
+"Acct Exec II 100, AdLrgSales",4,1
+"Acct Exec II 50, Ad Growth",1,1
+"Acct Exec III 100, AdLrgSales",13,1
+Ad Sales Acct Mgr II 40,1,1
+Ad Sales Acct Mgr III 40,2,1
+Applied Scientist II,27,8
+Applied Scientist III,10,4
+Benefits Specialist III,1,1
+Business Analyst I,4,3
+Business Analyst II,8,5
+Business Analyst III,7,6
+Business Developer II,7,3
+Business Developer III,9,4
+Business Intel Engineer I,14,9
+Business Intel Engineer II,30,12
+Business Intel Engineer III,20,13
+Construction Manager III,1,1
+Contract Manager I,1,1
+Contract Manager II,1,1
+Contract Manager III,1,1
+Corporate Developer III,1,1
+Corporate Security II,1,1
+Creative MKTG II,5,4
+Creative MKTG III,8,4
+Creative Services Spec II,1,1
+Customer Success Manager I,3,2
+Customer Success Manager II,4,1
+Data Engineer I,8,6
+Data Engineer II,21,11
+Data Engineer III,12,8
+Data Scientist I,2,2
+Data Scientist II,9,5
+Data Scientist III,5,4
+Database Engineer II,3,1
+Design Program Manager II,1,1
+Design Program Manager III,3,2
+Design Technologist I,1,1
+Design Technologist II,1,1
+Design Technologist III,3,2
+Designer I,1,1
+Designer II,5,5
+Device Associate II,1,1
+Digital Supply Chain Mgr II,2,1
+Digital Supply Chain Mgr III,1,1
+"Dir, System Development",1,1
+"Director, Applied Science",1,1
+"Director, BizTech Leader",1,1
+"Director, Category Leadership",4,1
+"Director, Corp Strat Procur",1,1
+"Director, Creative Dev",1,1
+"Director, Finance",1,1
+"Director, General MKTG",1,1
+"Director, Human Resources",3,2
+"Director, Legal",4,2
+"Director, Prod Mgmt - Tech",5,4
+"Director, Product Management",3,2
+"Director, Public Relations",2,1
+"Director, Regional Operations",1,1
+"Director, Retail Stores",1,1
+"Director, Sales Operations",1,1
+"Director, Software Development",5,5
+"Director, Supply Chain MGMT",1,1
+"Director, Tech Program Mgmt",1,1
+"Director, UX/Design",1,1
+Economist II,1,1
+Economist III,2,2
+Editor I,1,1
+Editor II,1,1
+Editor III,2,1
+Executive Assistant I,7,4
+Executive Assistant II,6,4
+Executive Assistant III,1,1
+Financial Analyst I,1,1
+Financial Analyst II,22,7
+Financial Analyst III,22,9
+Financial Analyst III - MBA,3,3
+Front-End Engineer I,3,2
+Front-End Engineer II,12,8
+Front-End Engineer III,4,3
+Full Lifecycle Recruiter I,1,1
+Full Lifecycle Recruiter II,8,2
+Full Lifecycle Recruiter III,11,5
+Functional MKTG I,1,1
+Functional MKTG II,5,5
+Functional MKTG III,10,4
+Game Artist II,6,1
+Game Artist III,6,1
+Game Designer I,1,1
+Game Designer II,3,1
+Game Designer III,3,2
+Game Producer II,3,1
+Game Producer III,1,1
+General MKTG II,4,3
+General MKTG III,4,3
+HR Specialist II,3,2
+HR Specialist III,1,1
+HRBP III (Corp),2,2
+Hardware Designer III,1,1
+Hardware Dev Engr II,1,1
+Hardware Dev Engr III,2,2
+IT App Analyst II,1,1
+IT App Dev Engr II,2,2
+IT App Dev Engr III,2,2
+IT Support Assoc I,2,1
+IT Support Assoc II,3,3
+IT Support Eng I,4,4
+IT Support Eng II,2,2
+Industrial Designer III,1,1
+Instock Manager II,2,2
+Instock Manager III,4,2
+Inventory Planner I,3,1
+Inventory Planning Tech III,3,1
+Investigation Specialist I,5,1
+Investigation Specialist II,14,1
+Lab Engineer I,1,1
+Legal Counsel II,4,1
+Legal Counsel III,7,2
+Legal Support II,3,2
+Localization Engineer II,1,1
+"Manager II, Account Rep",1,1
+"Manager II, Facilities",1,1
+"Manager II, Software Dev",1,1
+"Manager III, Account Mgmt",1,1
+"Manager III, Account Rep",3,2
+"Manager III, Applied Science",7,4
+"Manager III, Business Intel",2,2
+"Manager III, Customer Success",2,2
+"Manager III, Data Engineering",5,4
+"Manager III, Database Engineer",2,1
+"Manager III, Finance",2,2
+"Manager III, Functional MKTG",1,1
+"Manager III, Game Art",1,1
+"Manager III, Game Design",1,1
+"Manager III, Game Production",1,1
+"Manager III, General MKTG",1,1
+"Manager III, IT App Dev Engrng",1,1
+"Manager III, Investigation",1,1
+"Manager III, Plan/Dev",1,1
+"Manager III, Product MKTG",4,3
+"Manager III, Program Mgmt",3,2
+"Manager III, Quality",3,2
+"Manager III, Sales Operations",2,1
+"Manager III, Software Dev",48,19
+"Manager III, System Dev",1,1
+"Manager III, Tax",2,1
+"Manager III, Tech Business Dev",2,1
+"Manager III, UX/Design",2,2
+"Manager Team, Customer Service",1,1
+"Mgr II, Recruiting",2,2
+"Mgr II, Support Engineer-Ext",1,1
+"Mgr III, Ad Sales Acct Mgt 40",2,1
+"Mgr III, Data Center Materials",1,1
+"Mgr III, Documentation-Tech",2,1
+"Mgr III, Recruiting",11,3
+"Mgr III, Retail Vendor Mgmt",1,1
+"Mgr III, Studio Ops",1,1
+PR Specialist II,1,1
+PR Specialist III,2,1
+Paralegal I,2,2
+Paralegal II,1,1
+Paralegal III,1,1
+Partner Growth Manager III,1,1
+Photographer III,1,1
+"Prin Acct Exec 100, AdLrgSales",2,1
+Principal - Customer Solutions,1,1
+Principal Data Engineering,1,1
+Principal Design Program Mgr,1,1
+Principal Finance,8,5
+Principal Functional MKTG,1,1
+Principal Legal Counsel,7,1
+Principal Product MKTG,1,1
+Principal Product Management,6,6
+Principal Program Management,7,5
+Principal Public Policy,2,2
+Principal Quality Assurance,1,1
+Principal Recruiting BP,1,1
+Principal Research Scientist,1,1
+Principal Risk Manager,3,2
+Principal Secrty Indust Spclst,4,2
+Principal Software Dev Eng,12,9
+Principal Tax,4,1
+Principal Tech Bus Dev,7,3
+Principal Tech Program Manager,13,9
+Principal Tech Writer-Tech,2,1
+Principal UX Design,3,2
+"Principal, Applied Scientist",3,2
+"Principal, Corp Dev",1,1
+"Principal, Creative MKTG",2,2
+"Principal, Economist",1,1
+"Principal, HR Specialist",5,3
+"Principal, HRBP (Corp)",3,2
+"Principal, Product Mgmt - Tech",15,8
+"Principal, Public Relations",1,1
+"Principal, Sales Operations",1,1
+"Principal, Supply Chain",1,1
+"Principal, Sustainability",2,1
+Privacy Specialist I,1,1
+Product MKTG II,7,5
+Product MKTG III,12,7
+Product Manager II,11,4
+Product Manager III,26,12
+Product Manager III - MBA,4,3
+Product Mgr II - Tech,2,2
+Product Mgr III - Tech,35,15
+Product Mgr III - Tech - MBA,5,4
+Professional Services II,5,2
+Program Manager I,15,7
+Program Manager II,48,21
+Program Manager III,49,19
+Program Manager III - MBA,1,1
+Protective Services Mgr II,3,2
+Protective Services Mgr III,1,1
+Protective Services Specialist,1,1
+Quality Assurance Engineer I,8,6
+Quality Assurance Engineer II,37,8
+Quality Assurance Engineer III,5,5
+Quality Assurance Tech I,1,1
+Recruiting BP I,7,1
+Recruiting BP II,8,3
+Recruiting BP III,11,4
+Recruiting Coord I,1,1
+Research Scientist II,4,2
+Research Scientist III,5,4
+Retail Rotation Program - MBA,1,1
+Retail Vendor Manager II,3,2
+Retail Vendor Manager III,6,4
+Risk Manager II,8,3
+Risk Manager III,8,4
+Risk Specialist I,10,4
+Sales Account Manager II,2,1
+"Sales Mgr III 50, Ad Growth",1,1
+Sales Operations III,4,3
+Security Engineer III,1,1
+Security Industry Spclst II,3,2
+Security Industry Spclst III,2,2
+Software Dev Engineer I,211,24
+Software Dev Engineer II,344,26
+Software Dev Engineer II-TEST,7,5
+Software Dev Engineer III,107,22
+Software Dev Engineer III-TEST,3,2
+Solutions Architect I,1,1
+Solutions Architect II,2,2
+Solutions Architect III,1,1
+Sourcing Recruiter I,12,3
+Sourcing Recruiter II,16,4
+Sourcing Recruiter III,11,5
+"Specialist III, Learning & Dev",1,1
+"Sr Manager, Applied Science",5,4
+"Sr Manager, Business Intel",1,1
+"Sr Manager, Corp Strat Procur",1,1
+"Sr Manager, Data Engineering",1,1
+"Sr Manager, Data Science",1,1
+"Sr Manager, Finance",12,9
+"Sr Manager, Instock Mgmt",1,1
+"Sr Manager, Plan/Dev",1,1
+"Sr Manager, Prod Mgmt - Tech",10,7
+"Sr Manager, Product Mgmt",12,10
+"Sr Manager, Program Management",7,4
+"Sr Manager, Quality",3,2
+"Sr Manager, Research Science",1,1
+"Sr Manager, Software Dev",40,17
+"Sr Manager, Tech Business Dev",3,2
+"Sr Manager, Tech Program Mgmt",4,3
+"Sr Manager, UX/Design",9,9
+"Sr Mgr, Benefits Specialist",1,1
+"Sr Mgr, Creative Dev",1,1
+"Sr Mgr, Documentation-Tech",1,1
+"Sr Mgr, General Mktg",1,1
+"Sr Mgr, HR Specialist",3,2
+"Sr Mgr, HRP (Corp)",1,1
+"Sr Mgr, Recruiting",6,4
+"Sr Mgr, Retail Store",1,1
+"Sr Mgr, Retail Vendor Mgmt",1,1
+"Sr Mgr, Supply Chain MGMT",2,2
+"Sr. Manager, Account Rep",3,3
+"Sr. Manager, Ad Sales",1,1
+"Sr. Manager, Ads Acct Mgmt",1,1
+"Sr. Manager, Game Production",1,1
+"Sr. Manager, Public Policy",1,1
+"Sr. Manager, Risk",3,2
+"Sr. Manager, Sales",1,1
+"Sr. Mgr, Creative MKTG",1,1
+"Sr. Mgr, Sales Operations",1,1
+"Sr. Mgr, Secrty Indust Spclst",3,2
+"Sr. Mgr, Studio Ops and Strate",1,1
+"Sr. Mgr, System Development",1,1
+Sr. Principal Technologist,3,3
+"Sr. Sales Manager, Ad Growth",2,1
+"Sr. Sales Manager, AdLrgSales",3,1
+"Sr.Mgr, General MKTG",4,2
+"Sr.Mgr, Product MKTG",3,2
+Studio Ops and Strategy Sp II,1,1
+Supply Chain Mgr II,2,2
+Supply Chain Mgr III,2,2
+Support Engineer II,2,1
+Support Engineer III,9,4
+Support Engineer IV,3,2
+Support Engineer V,1,1
+Sustainability Specialist III,1,1
+System Admin/Engr II,2,1
+System Dev Engineer III,7,6
+System Development Engineer I,5,3
+System Development Engineer II,7,5
+Tax Analyst I,2,1
+Tax Analyst II,1,1
+Tax Analyst III,12,1
+Tech Business Developer II,1,1
+Tech Business Developer III,8,2
+Tech Game Artist I,2,1
+Tech Game Artist II,3,1
+Tech Game Artist III,1,1
+Tech Infra Program Manager II,1,1
+Tech Writer-Tech I,3,3
+Tech Writer-Tech II,18,3
+Tech Writer-Tech III,31,3
+Technical Account Manager I,1,1
+Technical Program Manager II,18,13
+Technical Program Manager III,41,19
+Technical Writer II,1,1
+UX Designer I,3,3
+UX Designer II,10,6
+UX Designer III,12,8
+UX Researcher I,2,2
+UX Researcher II,5,3
+UX Researcher III,4,3
+"VP, Sales/Account Management",1,1
