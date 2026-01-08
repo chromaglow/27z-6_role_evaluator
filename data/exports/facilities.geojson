@@ -1,0 +1,2029 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3355,
+          47.6255
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA40",
+        "totalAffected": 368,
+        "jobTitleCount": 119,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA40 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 51
+          },
+          {
+            "title": "Software Dev Engineer I",
+            "affected": 37
+          },
+          {
+            "title": "Software Dev Engineer III",
+            "affected": 15
+          },
+          {
+            "title": "Acct Exec III 100, AdLrgSales",
+            "affected": 13
+          },
+          {
+            "title": "Applied Scientist II",
+            "affected": 12
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335,
+          47.626
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA41",
+        "totalAffected": 183,
+        "jobTitleCount": 85,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA41 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 33
+          },
+          {
+            "title": "Software Dev Engineer I",
+            "affected": 13
+          },
+          {
+            "title": "Quality Assurance Engineer II",
+            "affected": 9
+          },
+          {
+            "title": "Program Manager III",
+            "affected": 5
+          },
+          {
+            "title": "Software Dev Engineer III",
+            "affected": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3372,
+          47.6238
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA81",
+        "totalAffected": 142,
+        "jobTitleCount": 63,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA81 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 21
+          },
+          {
+            "title": "Software Dev Engineer III",
+            "affected": 11
+          },
+          {
+            "title": "Quality Assurance Engineer II",
+            "affected": 7
+          },
+          {
+            "title": "Game Artist II",
+            "affected": 6
+          },
+          {
+            "title": "Game Artist III",
+            "affected": 6
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334,
+          47.627
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA70",
+        "totalAffected": 136,
+        "jobTitleCount": 51,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA70 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 30
+          },
+          {
+            "title": "Software Dev Engineer I",
+            "affected": 16
+          },
+          {
+            "title": "Software Dev Engineer III",
+            "affected": 10
+          },
+          {
+            "title": "Product Manager III",
+            "affected": 8
+          },
+          {
+            "title": "Business Intel Engineer II",
+            "affected": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34,
+          47.621
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA28",
+        "totalAffected": 125,
+        "jobTitleCount": 47,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA28 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 25
+          },
+          {
+            "title": "Software Dev Engineer I",
+            "affected": 17
+          },
+          {
+            "title": "Business Intel Engineer I",
+            "affected": 4
+          },
+          {
+            "title": "Professional Services II",
+            "affected": 4
+          },
+          {
+            "title": "Technical Program Manager III",
+            "affected": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337,
+          47.624
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA23",
+        "totalAffected": 100,
+        "jobTitleCount": 30,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA23 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Sourcing Recruiter II",
+            "affected": 11
+          },
+          {
+            "title": "Sourcing Recruiter I",
+            "affected": 10
+          },
+          {
+            "title": "Mgr III, Recruiting",
+            "affected": 8
+          },
+          {
+            "title": "Full Lifecycle Recruiter II",
+            "affected": 7
+          },
+          {
+            "title": "Recruiting BP III",
+            "affected": 7
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3365,
+          47.6245
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA39",
+        "totalAffected": 94,
+        "jobTitleCount": 21,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA39 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 30
+          },
+          {
+            "title": "Software Dev Engineer I",
+            "affected": 19
+          },
+          {
+            "title": "Software Dev Engineer III",
+            "affected": 14
+          },
+          {
+            "title": "Manager III, Software Dev",
+            "affected": 7
+          },
+          {
+            "title": "Technical Program Manager III",
+            "affected": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3332,
+          47.6278
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA112",
+        "totalAffected": 84,
+        "jobTitleCount": 38,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA112 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 19
+          },
+          {
+            "title": "Software Dev Engineer I",
+            "affected": 13
+          },
+          {
+            "title": "Business Intel Engineer II",
+            "affected": 3
+          },
+          {
+            "title": "Data Engineer II",
+            "affected": 3
+          },
+          {
+            "title": "Database Engineer II",
+            "affected": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3335,
+          47.6275
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA71",
+        "totalAffected": 77,
+        "jobTitleCount": 23,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA71 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 23
+          },
+          {
+            "title": "Software Dev Engineer I",
+            "affected": 11
+          },
+          {
+            "title": "Software Dev Engineer III",
+            "affected": 8
+          },
+          {
+            "title": "Business Developer II",
+            "affected": 5
+          },
+          {
+            "title": "Customer Success Manager II",
+            "affected": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339,
+          47.622
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA20",
+        "totalAffected": 73,
+        "jobTitleCount": 26,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA20 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 14
+          },
+          {
+            "title": "Software Dev Engineer I",
+            "affected": 11
+          },
+          {
+            "title": "Applied Scientist II",
+            "affected": 6
+          },
+          {
+            "title": "Applied Scientist III",
+            "affected": 4
+          },
+          {
+            "title": "Data Engineer II",
+            "affected": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3348,
+          47.6262
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA91",
+        "totalAffected": 64,
+        "jobTitleCount": 20,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA91 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Financial Analyst II",
+            "affected": 14
+          },
+          {
+            "title": "Tax Analyst III",
+            "affected": 12
+          },
+          {
+            "title": "Financial Analyst III",
+            "affected": 9
+          },
+          {
+            "title": "Principal Tax",
+            "affected": 4
+          },
+          {
+            "title": "Program Manager III",
+            "affected": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3375,
+          47.6235
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA33",
+        "totalAffected": 63,
+        "jobTitleCount": 15,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA33 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Tech Writer-Tech III",
+            "affected": 26
+          },
+          {
+            "title": "Tech Writer-Tech II",
+            "affected": 14
+          },
+          {
+            "title": "Principal Secrty Indust Spclst",
+            "affected": 3
+          },
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 3
+          },
+          {
+            "title": "Program Manager II",
+            "affected": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3368,
+          47.6242
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA83",
+        "totalAffected": 62,
+        "jobTitleCount": 24,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA83 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer I",
+            "affected": 11
+          },
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 11
+          },
+          {
+            "title": "Business Intel Engineer II",
+            "affected": 5
+          },
+          {
+            "title": "Quality Assurance Engineer II",
+            "affected": 4
+          },
+          {
+            "title": "Account Rep I",
+            "affected": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3385,
+          47.6225
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA53",
+        "totalAffected": 57,
+        "jobTitleCount": 39,
+        "noticeCount": 1,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA53 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Product Manager II",
+            "affected": 5
+          },
+          {
+            "title": "Director, Category Leadership",
+            "affected": 4
+          },
+          {
+            "title": "Program Manager III",
+            "affected": 3
+          },
+          {
+            "title": "Business Intel Engineer III",
+            "affected": 2
+          },
+          {
+            "title": "Design Program Manager III",
+            "affected": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3322,
+          47.6288
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA132",
+        "totalAffected": 53,
+        "jobTitleCount": 18,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA132 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 18
+          },
+          {
+            "title": "Software Dev Engineer I",
+            "affected": 7
+          },
+          {
+            "title": "Software Dev Engineer III",
+            "affected": 7
+          },
+          {
+            "title": "Quality Assurance Engineer II",
+            "affected": 4
+          },
+          {
+            "title": "Mgr III, Recruiting",
+            "affected": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3356,
+          47.6254
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA26",
+        "totalAffected": 51,
+        "jobTitleCount": 19,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA26 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 17
+          },
+          {
+            "title": "Software Dev Engineer I",
+            "affected": 8
+          },
+          {
+            "title": "Software Dev Engineer III",
+            "affected": 3
+          },
+          {
+            "title": "Technical Program Manager III",
+            "affected": 3
+          },
+          {
+            "title": "Applied Scientist III",
+            "affected": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3364,
+          47.6246
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA38",
+        "totalAffected": 48,
+        "jobTitleCount": 21,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA38 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 13
+          },
+          {
+            "title": "Software Dev Engineer I",
+            "affected": 10
+          },
+          {
+            "title": "Software Dev Engineer III",
+            "affected": 3
+          },
+          {
+            "title": "UX Designer II",
+            "affected": 2
+          },
+          {
+            "title": "Principal Tech Program Manager",
+            "affected": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3402,
+          47.6208
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA27",
+        "totalAffected": 47,
+        "jobTitleCount": 27,
+        "noticeCount": 1,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA27 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Account Rep I",
+            "affected": 7
+          },
+          {
+            "title": "Account Rep II",
+            "affected": 3
+          },
+          {
+            "title": "Business Analyst II",
+            "affected": 3
+          },
+          {
+            "title": "Product MKTG III",
+            "affected": 3
+          },
+          {
+            "title": "Program Manager II",
+            "affected": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3362,
+          47.6248
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA86",
+        "totalAffected": 39,
+        "jobTitleCount": 19,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA86 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Business Developer III",
+            "affected": 6
+          },
+          {
+            "title": "Software Dev Engineer I",
+            "affected": 6
+          },
+          {
+            "title": "Program Manager III",
+            "affected": 6
+          },
+          {
+            "title": "Business Intel Engineer I",
+            "affected": 2
+          },
+          {
+            "title": "Creative MKTG II",
+            "affected": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3395,
+          47.6215
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA107",
+        "totalAffected": 35,
+        "jobTitleCount": 21,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA107 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 6
+          },
+          {
+            "title": "Applied Scientist II",
+            "affected": 3
+          },
+          {
+            "title": "Data Engineer II",
+            "affected": 3
+          },
+          {
+            "title": "Technical Program Manager II",
+            "affected": 3
+          },
+          {
+            "title": "Sr Manager, Product Mgmt",
+            "affected": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336,
+          47.625
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA25",
+        "totalAffected": 32,
+        "jobTitleCount": 17,
+        "noticeCount": 1,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA25 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Program Manager III",
+            "affected": 4
+          },
+          {
+            "title": "Software Dev Engineer III",
+            "affected": 4
+          },
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 3
+          },
+          {
+            "title": "Sr Manager, Software Dev",
+            "affected": 3
+          },
+          {
+            "title": "Technical Program Manager III",
+            "affected": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3374,
+          47.6236
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA76",
+        "totalAffected": 28,
+        "jobTitleCount": 15,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA76 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer I",
+            "affected": 6
+          },
+          {
+            "title": "Support Engineer III",
+            "affected": 5
+          },
+          {
+            "title": "Program Manager II",
+            "affected": 3
+          },
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 2
+          },
+          {
+            "title": "Support Engineer II",
+            "affected": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338,
+          47.623
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA22",
+        "totalAffected": 23,
+        "jobTitleCount": 12,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA22 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer I",
+            "affected": 5
+          },
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 4
+          },
+          {
+            "title": "Software Dev Engineer III",
+            "affected": 4
+          },
+          {
+            "title": "Financial Analyst II",
+            "affected": 2
+          },
+          {
+            "title": "Contract Manager III",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3398,
+          47.6212
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA29",
+        "totalAffected": 21,
+        "jobTitleCount": 13,
+        "noticeCount": 1,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA29 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer I",
+            "affected": 3
+          },
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 3
+          },
+          {
+            "title": "Sr Manager, Finance",
+            "affected": 3
+          },
+          {
+            "title": "Business Analyst I",
+            "affected": 2
+          },
+          {
+            "title": "Director, Product Management",
+            "affected": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3381,
+          47.6229
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA54",
+        "totalAffected": 20,
+        "jobTitleCount": 13,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA54 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer I",
+            "affected": 4
+          },
+          {
+            "title": "Product Mgr III - Tech",
+            "affected": 3
+          },
+          {
+            "title": "Software Dev Engineer III",
+            "affected": 2
+          },
+          {
+            "title": "Sr Manager, Prod Mgmt - Tech",
+            "affected": 2
+          },
+          {
+            "title": "Retail Vendor Manager III",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3366,
+          47.6244
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA24",
+        "totalAffected": 19,
+        "jobTitleCount": 9,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA24 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Risk Manager II",
+            "affected": 5
+          },
+          {
+            "title": "Risk Manager III",
+            "affected": 5
+          },
+          {
+            "title": "Risk Specialist I",
+            "affected": 3
+          },
+          {
+            "title": "Director, Prod Mgmt - Tech",
+            "affected": 1
+          },
+          {
+            "title": "Financial Analyst II",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3367,
+          47.6243
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA37",
+        "totalAffected": 19,
+        "jobTitleCount": 16,
+        "noticeCount": 1,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA37 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Manager III, Software Dev",
+            "affected": 2
+          },
+          {
+            "title": "Principal Finance",
+            "affected": 2
+          },
+          {
+            "title": "Sr Manager, Software Dev",
+            "affected": 2
+          },
+          {
+            "title": "Director, Corp Strat Procur",
+            "affected": 1
+          },
+          {
+            "title": "Director, Software Development",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3345,
+          47.6265
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA42",
+        "totalAffected": 16,
+        "jobTitleCount": 9,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA42 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Legal Counsel III",
+            "affected": 4
+          },
+          {
+            "title": "Sr Manager, Finance",
+            "affected": 2
+          },
+          {
+            "title": "Financial Analyst III",
+            "affected": 2
+          },
+          {
+            "title": "Principal Finance",
+            "affected": 2
+          },
+          {
+            "title": "Program Manager III",
+            "affected": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3344,
+          47.6266
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA43",
+        "totalAffected": 15,
+        "jobTitleCount": 12,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA43 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Principal, Product Mgmt - Tech",
+            "affected": 3
+          },
+          {
+            "title": "Principal Software Dev Eng",
+            "affected": 2
+          },
+          {
+            "title": "Director, Software Development",
+            "affected": 1
+          },
+          {
+            "title": "Business Developer III",
+            "affected": 1
+          },
+          {
+            "title": "Business Intel Engineer I",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33619800274404,
+          47.62454054054054
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA82",
+        "totalAffected": 11,
+        "jobTitleCount": 10,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA82 - Denny Triangle campus building",
+        "geoQuality": "duplicate",
+        "topTitles": [
+          {
+            "title": "Manager III, Program Mgmt",
+            "affected": 2
+          },
+          {
+            "title": "Business Analyst II",
+            "affected": 1
+          },
+          {
+            "title": "IT Support Eng I",
+            "affected": 1
+          },
+          {
+            "title": "Manager III, Plan/Dev",
+            "affected": 1
+          },
+          {
+            "title": "Principal, Product Mgmt - Tech",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3346,
+          47.6264
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA93",
+        "totalAffected": 11,
+        "jobTitleCount": 6,
+        "noticeCount": 1,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA93 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Software Dev Engineer I",
+            "affected": 4
+          },
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 3
+          },
+          {
+            "title": "Manager III, Software Dev",
+            "affected": 1
+          },
+          {
+            "title": "Product Manager III",
+            "affected": 1
+          },
+          {
+            "title": "Sr Manager, Finance",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3377,
+          47.6233
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA58",
+        "totalAffected": 8,
+        "jobTitleCount": 7,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA58 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Sourcing Recruiter III",
+            "affected": 2
+          },
+          {
+            "title": "Principal, HR Specialist",
+            "affected": 1
+          },
+          {
+            "title": "Full Lifecycle Recruiter II",
+            "affected": 1
+          },
+          {
+            "title": "Full Lifecycle Recruiter III",
+            "affected": 1
+          },
+          {
+            "title": "Program Manager II",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3338,
+          47.6272
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA106",
+        "totalAffected": 7,
+        "jobTitleCount": 3,
+        "noticeCount": 1,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA106 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Sr Manager, Software Dev",
+            "affected": 4
+          },
+          {
+            "title": "Software Dev Engineer III",
+            "affected": 2
+          },
+          {
+            "title": "Technical Program Manager III",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3336,
+          47.6274
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA69",
+        "totalAffected": 5,
+        "jobTitleCount": 4,
+        "noticeCount": 1,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA69 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Creative MKTG III",
+            "affected": 2
+          },
+          {
+            "title": "Mgr III, Studio Ops",
+            "affected": 1
+          },
+          {
+            "title": "Photographer III",
+            "affected": 1
+          },
+          {
+            "title": "Program Manager III",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33579799660713,
+          47.62494054054054
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA84",
+        "totalAffected": 5,
+        "jobTitleCount": 2,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA84 - Denny Triangle campus building",
+        "geoQuality": "duplicate",
+        "topTitles": [
+          {
+            "title": "Financial Analyst III",
+            "affected": 4
+          },
+          {
+            "title": "IT Support Eng I",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3341,
+          47.6269
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA44",
+        "totalAffected": 4,
+        "jobTitleCount": 4,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA44 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Director, Software Development",
+            "affected": 1
+          },
+          {
+            "title": "Solutions Architect I",
+            "affected": 1
+          },
+          {
+            "title": "Financial Analyst II",
+            "affected": 1
+          },
+          {
+            "title": "Financial Analyst III",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3384,
+          47.6226
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA48",
+        "totalAffected": 4,
+        "jobTitleCount": 3,
+        "noticeCount": 1,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA48 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Sr. Mgr, Secrty Indust Spclst",
+            "affected": 2
+          },
+          {
+            "title": "Corporate Security II",
+            "affected": 1
+          },
+          {
+            "title": "Principal Secrty Indust Spclst",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3342,
+          47.6268
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA104",
+        "totalAffected": 2,
+        "jobTitleCount": 2,
+        "noticeCount": 1,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA104 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Program Manager II",
+            "affected": 1
+          },
+          {
+            "title": "Sourcing Recruiter III",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3325,
+          47.6285
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA124",
+        "totalAffected": 2,
+        "jobTitleCount": 2,
+        "noticeCount": 1,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA124 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "IT Support Eng I",
+            "affected": 1
+          },
+          {
+            "title": "Mgr III, Data Center Materials",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3387,
+          47.6223
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA47",
+        "totalAffected": 2,
+        "jobTitleCount": 2,
+        "noticeCount": 1,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA47 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "IT Support Eng II",
+            "affected": 1
+          },
+          {
+            "title": "Protective Services Specialist",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3339,
+          47.6271
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA68",
+        "totalAffected": 2,
+        "jobTitleCount": 2,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA68 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Technical Program Manager III",
+            "affected": 1
+          },
+          {
+            "title": "Financial Analyst III",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3378,
+          47.6232
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA74",
+        "totalAffected": 2,
+        "jobTitleCount": 2,
+        "noticeCount": 1,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA74 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Hardware Dev Engr III",
+            "affected": 1
+          },
+          {
+            "title": "Sr Manager, UX/Design",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3328,
+          47.6282
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA113",
+        "totalAffected": 1,
+        "jobTitleCount": 1,
+        "noticeCount": 1,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA113 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Tech Writer-Tech II",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3382,
+          47.6228
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA55",
+        "totalAffected": 1,
+        "jobTitleCount": 1,
+        "noticeCount": 1,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA55 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Technical Writer II",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3358,
+          47.6252
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA89",
+        "totalAffected": 1,
+        "jobTitleCount": 1,
+        "noticeCount": 1,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA89 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Program Manager I",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3352,
+          47.6258
+        ]
+      },
+      "properties": {
+        "facilityId": "SEA90",
+        "totalAffected": 1,
+        "jobTitleCount": 1,
+        "noticeCount": 1,
+        "hasImpacts": true,
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA90 - Denny Triangle campus building",
+        "geoQuality": "ok",
+        "topTitles": [
+          {
+            "title": "Applied Scientist II",
+            "affected": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.291,
+          47.4698
+        ]
+      },
+      "properties": {
+        "facilityId": "BFI4",
+        "totalAffected": 0,
+        "jobTitleCount": 0,
+        "noticeCount": 0,
+        "hasImpacts": false,
+        "geoSource": "precise",
+        "geoNotes": "Amazon BFI4 fulfillment center near Boeing Field",
+        "geoQuality": "ok",
+        "topTitles": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2845,
+          47.4755
+        ]
+      },
+      "properties": {
+        "facilityId": "BFI5",
+        "totalAffected": 0,
+        "jobTitleCount": 0,
+        "noticeCount": 0,
+        "hasImpacts": false,
+        "geoSource": "precise",
+        "geoNotes": "Amazon BFI5 fulfillment center near Boeing Field",
+        "geoQuality": "ok",
+        "topTitles": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.292,
+          47.482
+        ]
+      },
+      "properties": {
+        "facilityId": "BFI9",
+        "totalAffected": 0,
+        "jobTitleCount": 0,
+        "noticeCount": 0,
+        "hasImpacts": false,
+        "geoSource": "approx_cluster",
+        "geoNotes": "BFI cluster approximation near Boeing Field",
+        "geoQuality": "ok",
+        "topTitles": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.589,
+          47.098
+        ]
+      },
+      "properties": {
+        "facilityId": "DSE8",
+        "totalAffected": 0,
+        "jobTitleCount": 0,
+        "noticeCount": 0,
+        "hasImpacts": false,
+        "geoSource": "approx_city",
+        "geoNotes": "DuPont/Steilacoom area approximation",
+        "geoQuality": "ok",
+        "topTitles": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.591,
+          47.095
+        ]
+      },
+      "properties": {
+        "facilityId": "DSW3",
+        "totalAffected": 0,
+        "jobTitleCount": 0,
+        "noticeCount": 0,
+        "hasImpacts": false,
+        "geoSource": "approx_cluster",
+        "geoNotes": "DuPont sortation center approximation",
+        "geoQuality": "ok",
+        "topTitles": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444,
+          47.253
+        ]
+      },
+      "properties": {
+        "facilityId": "DWA5",
+        "totalAffected": 0,
+        "jobTitleCount": 0,
+        "noticeCount": 0,
+        "hasImpacts": false,
+        "geoSource": "precise",
+        "geoNotes": "Amazon DuPont fulfillment center",
+        "geoQuality": "ok",
+        "topTitles": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446,
+          47.256
+        ]
+      },
+      "properties": {
+        "facilityId": "DWA7",
+        "totalAffected": 0,
+        "jobTitleCount": 0,
+        "noticeCount": 0,
+        "hasImpacts": false,
+        "geoSource": "approx_cluster",
+        "geoNotes": "DuPont fulfillment center cluster",
+        "geoQuality": "ok",
+        "topTitles": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.445,
+          47.254
+        ]
+      },
+      "properties": {
+        "facilityId": "DWS4",
+        "totalAffected": 0,
+        "jobTitleCount": 0,
+        "noticeCount": 0,
+        "hasImpacts": false,
+        "geoSource": "approx_cluster",
+        "geoNotes": "DuPont sortation center approximation",
+        "geoQuality": "ok",
+        "topTitles": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5339,
+          47.6199
+        ]
+      },
+      "properties": {
+        "facilityId": "GEG2",
+        "totalAffected": 0,
+        "jobTitleCount": 0,
+        "noticeCount": 0,
+        "hasImpacts": false,
+        "geoSource": "approx_city",
+        "geoNotes": "Spokane fulfillment center approximation",
+        "geoQuality": "ok",
+        "topTitles": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.536,
+          47.622
+        ]
+      },
+      "properties": {
+        "facilityId": "GEG5",
+        "totalAffected": 0,
+        "jobTitleCount": 0,
+        "noticeCount": 0,
+        "hasImpacts": false,
+        "geoSource": "approx_cluster",
+        "geoNotes": "Spokane area facility cluster",
+        "geoQuality": "ok",
+        "topTitles": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9007,
+          46.9762
+        ]
+      },
+      "properties": {
+        "facilityId": "OLM1",
+        "totalAffected": 0,
+        "jobTitleCount": 0,
+        "noticeCount": 0,
+        "hasImpacts": false,
+        "geoSource": "approx_city",
+        "geoNotes": "Olympia area fulfillment center approximation",
+        "geoQuality": "ok",
+        "topTitles": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.119,
+          46.2645
+        ]
+      },
+      "properties": {
+        "facilityId": "PSC2",
+        "totalAffected": 0,
+        "jobTitleCount": 0,
+        "noticeCount": 0,
+        "hasImpacts": false,
+        "geoSource": "approx_city",
+        "geoNotes": "Pasco area fulfillment center approximation",
+        "geoQuality": "ok",
+        "topTitles": []
+      }
+    }
+  ]
+}

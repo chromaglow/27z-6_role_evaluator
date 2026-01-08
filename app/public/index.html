@@ -1,0 +1,265 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Facility Impact Map</title>
+
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+  />
+  <style>
+    html, body { height: 100%; margin: 0; }
+    #map { height: 100%; width: 100%; }
+    .legend {
+      background: white;
+      padding: 10px 12px;
+      font: 12px/1.4 system-ui, -apple-system, Segoe UI, Roboto, Arial;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,.12);
+      max-width: 320px;
+    }
+    .legend h3 { margin: 0 0 6px 0; font-size: 14px; }
+    .muted { color: #666; }
+    .pill {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 999px;
+      background: #f2f2f2;
+      margin-right: 6px;
+      margin-top: 6px;
+    }
+    .toplist { margin: 8px 0 0 0; padding-left: 18px; }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+    <div id="search" style="
+  position: absolute; top: 12px; left: 12px; z-index: 1000;
+  background: white; padding: 10px 12px; border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,.12);
+  font: 12px/1.4 system-ui, -apple-system, Segoe UI, Roboto, Arial;
+">
+  <div style="font-weight: 700; margin-bottom: 6px;">Find facility</div>
+  <input id="facilityInput" placeholder="e.g. SEA40" style="width: 180px; padding: 6px 8px;" />
+  <button id="goBtn" style="padding: 6px 10px; margin-left: 6px;">Go</button>
+  <label style="display:block; margin-top: 8px;">
+    <input type="checkbox" id="impactsOnly" />
+    show impacts only
+  </label>
+</div>
+
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""
+  ></script>
+
+  <script>
+    // Basic basemap centered on Seattle-ish by default; will auto-fit to data bounds.
+    const map = L.map('map', { zoomControl: true }).setView([47.61, -122.33], 10);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    function radiusFromAffected(n) {
+      // Conservative scaling so markers are readable.
+      // Feel free to tweak later.
+      if (!n || n <= 0) return 4;
+      if (n < 10) return 6;
+      if (n < 50) return 10;
+      if (n < 150) return 14;
+      if (n < 400) return 18;
+      return 22;
+    }
+
+    function colorFromAffected(n) {
+      // Simple buckets; readable and stable.
+      if (!n || n <= 0) return '#9e9e9e';
+      if (n < 10) return '#90caf9';
+      if (n < 50) return '#42a5f5';
+      if (n < 150) return '#1e88e5';
+      if (n < 400) return '#1565c0';
+      return '#0d47a1';
+    }
+
+    function copyCliCommand(facilityId) {
+  const cmd =
+    `python tools\\risk_assessment.py ` +
+    `--facility ${facilityId} ` +
+    `--title "Program Manager III" ` +
+    `--nearest 8 --radius_km 30`;
+
+  navigator.clipboard.writeText(cmd).then(() => {
+    alert(`Copied CLI command for ${facilityId}`);
+  }).catch(err => {
+    console.error(err);
+    alert('Failed to copy command to clipboard.');
+  });
+}
+
+
+    function popupHtml(p) {
+  const topTitles = (p.topTitles || []).slice(0, 5);
+  const titleList = topTitles
+    .map(t => `<li>${t.affected} — ${escapeHtml(t.title)}</li>`)
+    .join('');
+
+  return `
+    <div style="font: 13px/1.35 system-ui, -apple-system, Segoe UI, Roboto, Arial; max-width: 360px;">
+      <div style="font-weight: 700; font-size: 14px;">
+        ${escapeHtml(p.facilityId)}
+      </div>
+
+      <div class="muted">
+        totalAffected: <b>${p.totalAffected}</b>,
+        titles: <b>${p.jobTitleCount}</b>,
+        notices: <b>${p.noticeCount}</b>
+      </div>
+
+      <div style="margin-top: 8px;">
+        <button
+          onclick="copyCliCommand('${escapeHtml(p.facilityId)}')"
+          style="
+            padding: 6px 10px;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+            background: #f7f7f7;
+            cursor: pointer;
+          "
+        >
+          Copy CLI command
+        </button>
+      </div>
+
+      <div style="margin-top: 6px;">
+        <span class="pill">hasImpacts: ${p.hasImpacts ? 'true' : 'false'}</span>
+        <span class="pill">geoSource: ${escapeHtml(p.geoSource || '')}</span>
+      </div>
+
+      ${
+        topTitles.length
+          ? `<div style="margin-top: 8px; font-weight: 600;">Top titles</div>
+             <ol class="toplist">${titleList}</ol>`
+          : ''
+      }
+
+      ${
+        p.geoNotes
+          ? `<div class="muted" style="margin-top: 8px;">${escapeHtml(p.geoNotes)}</div>`
+          : ''
+      }
+    </div>
+  `;
+}
+
+
+    function escapeHtml(s) {
+      return String(s || '').replace(/[&<>"']/g, c => ({
+        '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+      }[c]));
+    }
+
+    // Legend control
+    const legend = L.control({ position: 'topright' });
+    legend.onAdd = function() {
+      const div = L.DomUtil.create('div', 'legend');
+      div.innerHTML = `
+        <h3>Facility Impact Map</h3>
+        <div class="muted">Circle size and color reflect totalAffected.</div>
+        <div style="margin-top: 8px;">
+          <div><span class="pill">0</span> gray</div>
+          <div><span class="pill">1–9</span> light blue</div>
+          <div><span class="pill">10–49</span> blue</div>
+          <div><span class="pill">50–149</span> darker</div>
+          <div><span class="pill">150–399</span> dark</div>
+          <div><span class="pill">400+</span> darkest</div>
+        </div>
+      `;
+      return div;
+    };
+    legend.addTo(map);
+
+    let geojsonLayer = null;
+let featuresById = new Map();
+
+function renderLayer(fc, impactsOnly=false) {
+  if (geojsonLayer) {
+    map.removeLayer(geojsonLayer);
+    geojsonLayer = null;
+  }
+
+  geojsonLayer = L.geoJSON(fc, {
+    filter: (feature) => {
+      if (!impactsOnly) return true;
+      const p = feature.properties || {};
+      return !!p.hasImpacts && Number(p.totalAffected || 0) > 0;
+    },
+    pointToLayer: (feature, latlng) => {
+      const p = feature.properties || {};
+      const n = Number(p.totalAffected || 0);
+      return L.circleMarker(latlng, {
+        radius: radiusFromAffected(n),
+        color: '#222',
+        weight: 1,
+        fillColor: colorFromAffected(n),
+        fillOpacity: 0.75
+      });
+    },
+    onEachFeature: (feature, layer) => {
+      const p = feature.properties || {};
+      layer.bindPopup(popupHtml(p));
+      if (p.facilityId) {
+        featuresById.set(String(p.facilityId).toUpperCase(), { feature, layer });
+      }
+    }
+  }).addTo(map);
+
+  const b = geojsonLayer.getBounds();
+  if (b.isValid()) map.fitBounds(b.pad(0.15));
+}
+
+fetch('./facilities.geojson')
+  .then(r => r.json())
+  .then(fc => {
+    window.__FACILITIES_FC__ = fc; // handy for debugging
+    renderLayer(fc, false);
+
+    const input = document.getElementById('facilityInput');
+    const goBtn = document.getElementById('goBtn');
+    const impactsOnly = document.getElementById('impactsOnly');
+
+    function go() {
+      const id = (input.value || '').trim().toUpperCase();
+      if (!id) return;
+      const hit = featuresById.get(id);
+      if (!hit) {
+        alert(`Facility '${id}' not found in map layer.`);
+        return;
+      }
+      const latlng = hit.layer.getLatLng();
+      map.setView(latlng, Math.max(map.getZoom(), 12));
+      hit.layer.openPopup();
+    }
+
+    goBtn.addEventListener('click', go);
+    input.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') go();
+    });
+
+    impactsOnly.addEventListener('change', () => {
+      featuresById = new Map();
+      renderLayer(fc, impactsOnly.checked);
+    });
+  })
+    .catch(err => {
+    console.error(err);
+    alert('Failed to load facilities.geojson. Check console for details.');
+  });
+</script>
+
