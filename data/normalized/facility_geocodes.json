@@ -1,4 +1,418 @@
 {
-  "version": "0.1.0",
-  "geos": []
+  "version": "1.0",
+  "geos": [
+    {
+      "facilityId": "BFI4",
+      "lat": "47.4698",
+      "lon": "-122.291",
+      "source": "precise",
+      "notes": "Amazon BFI4 fulfillment center near Boeing Field"
+    },
+    {
+      "facilityId": "BFI5",
+      "lat": "47.4755",
+      "lon": "-122.2845",
+      "source": "precise",
+      "notes": "Amazon BFI5 fulfillment center near Boeing Field"
+    },
+    {
+      "facilityId": "BFI9",
+      "lat": "47.482",
+      "lon": "-122.292",
+      "source": "approx_cluster",
+      "notes": "BFI cluster approximation near Boeing Field"
+    },
+    {
+      "facilityId": "DSE8",
+      "lat": "47.098",
+      "lon": "-122.589",
+      "source": "approx_city",
+      "notes": "DuPont/Steilacoom area approximation"
+    },
+    {
+      "facilityId": "DSW3",
+      "lat": "47.095",
+      "lon": "-122.591",
+      "source": "approx_cluster",
+      "notes": "DuPont sortation center approximation"
+    },
+    {
+      "facilityId": "DWA5",
+      "lat": "47.253",
+      "lon": "-122.444",
+      "source": "precise",
+      "notes": "Amazon DuPont fulfillment center"
+    },
+    {
+      "facilityId": "DWA7",
+      "lat": "47.256",
+      "lon": "-122.446",
+      "source": "approx_cluster",
+      "notes": "DuPont fulfillment center cluster"
+    },
+    {
+      "facilityId": "DWS4",
+      "lat": "47.254",
+      "lon": "-122.445",
+      "source": "approx_cluster",
+      "notes": "DuPont sortation center approximation"
+    },
+    {
+      "facilityId": "GEG2",
+      "lat": "47.6199",
+      "lon": "-117.5339",
+      "source": "approx_city",
+      "notes": "Spokane fulfillment center approximation"
+    },
+    {
+      "facilityId": "GEG5",
+      "lat": "47.622",
+      "lon": "-117.536",
+      "source": "approx_cluster",
+      "notes": "Spokane area facility cluster"
+    },
+    {
+      "facilityId": "OLM1",
+      "lat": "46.9762",
+      "lon": "-122.9007",
+      "source": "approx_city",
+      "notes": "Olympia area fulfillment center approximation"
+    },
+    {
+      "facilityId": "PSC2",
+      "lat": "46.2645",
+      "lon": "-119.119",
+      "source": "approx_city",
+      "notes": "Pasco area fulfillment center approximation"
+    },
+    {
+      "facilityId": "REMOTE_WA",
+      "lat": "47.3826",
+      "lon": "-121.4167",
+      "source": "region_centroid",
+      "notes": "Washington state geographic centroid for remote workers"
+    },
+    {
+      "facilityId": "SEA20",
+      "lat": "47.622",
+      "lon": "-122.339",
+      "source": "precise",
+      "notes": "Amazon SEA20 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA22",
+      "lat": "47.623",
+      "lon": "-122.338",
+      "source": "precise",
+      "notes": "Amazon SEA22 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA23",
+      "lat": "47.624",
+      "lon": "-122.337",
+      "source": "precise",
+      "notes": "Amazon SEA23 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA25",
+      "lat": "47.625",
+      "lon": "-122.336",
+      "source": "precise",
+      "notes": "Amazon SEA25 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA28",
+      "lat": "47.621",
+      "lon": "-122.34",
+      "source": "precise",
+      "notes": "Amazon SEA28 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA33",
+      "lat": "47.6235",
+      "lon": "-122.3375",
+      "source": "precise",
+      "notes": "Amazon SEA33 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA39",
+      "lat": "47.6245",
+      "lon": "-122.3365",
+      "source": "precise",
+      "notes": "Amazon SEA39 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA40",
+      "lat": "47.6255",
+      "lon": "-122.3355",
+      "source": "precise",
+      "notes": "Amazon SEA40 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA41",
+      "lat": "47.626",
+      "lon": "-122.335",
+      "source": "precise",
+      "notes": "Amazon SEA41 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA42",
+      "lat": "47.6265",
+      "lon": "-122.3345",
+      "source": "precise",
+      "notes": "Amazon SEA42 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA53",
+      "lat": "47.6225",
+      "lon": "-122.3385",
+      "source": "precise",
+      "notes": "Amazon SEA53 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA55",
+      "lat": "47.6228",
+      "lon": "-122.3382",
+      "source": "precise",
+      "notes": "Amazon SEA55 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA70",
+      "lat": "47.627",
+      "lon": "-122.334",
+      "source": "precise",
+      "notes": "Amazon SEA70 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA71",
+      "lat": "47.6275",
+      "lon": "-122.3335",
+      "source": "precise",
+      "notes": "Amazon SEA71 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA74",
+      "lat": "47.6232",
+      "lon": "-122.3378",
+      "source": "precise",
+      "notes": "Amazon SEA74 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA81",
+      "lat": "47.6238",
+      "lon": "-122.3372",
+      "source": "precise",
+      "notes": "Amazon SEA81 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA83",
+      "lat": "47.6242",
+      "lon": "-122.3368",
+      "source": "precise",
+      "notes": "Amazon SEA83 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA86",
+      "lat": "47.6248",
+      "lon": "-122.3362",
+      "source": "precise",
+      "notes": "Amazon SEA86 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA89",
+      "lat": "47.6252",
+      "lon": "-122.3358",
+      "source": "precise",
+      "notes": "Amazon SEA89 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA90",
+      "lat": "47.6258",
+      "lon": "-122.3352",
+      "source": "precise",
+      "notes": "Amazon SEA90 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA91",
+      "lat": "47.6262",
+      "lon": "-122.3348",
+      "source": "precise",
+      "notes": "Amazon SEA91 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA104",
+      "lat": "47.6268",
+      "lon": "-122.3342",
+      "source": "precise",
+      "notes": "Amazon SEA104 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA106",
+      "lat": "47.6272",
+      "lon": "-122.3338",
+      "source": "precise",
+      "notes": "Amazon SEA106 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA107",
+      "lat": "47.6215",
+      "lon": "-122.3395",
+      "source": "precise",
+      "notes": "Amazon SEA107 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA112",
+      "lat": "47.6278",
+      "lon": "-122.3332",
+      "source": "precise",
+      "notes": "Amazon SEA112 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA113",
+      "lat": "47.6282",
+      "lon": "-122.3328",
+      "source": "precise",
+      "notes": "Amazon SEA113 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA124",
+      "lat": "47.6285",
+      "lon": "-122.3325",
+      "source": "precise",
+      "notes": "Amazon SEA124 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA132",
+      "lat": "47.6288",
+      "lon": "-122.3322",
+      "source": "precise",
+      "notes": "Amazon SEA132 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA24",
+      "lat": "47.6244",
+      "lon": "-122.3366",
+      "source": "precise",
+      "notes": "Amazon SEA24 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA26",
+      "lat": "47.6254",
+      "lon": "-122.3356",
+      "source": "precise",
+      "notes": "Amazon SEA26 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA27",
+      "lat": "47.6208",
+      "lon": "-122.3402",
+      "source": "precise",
+      "notes": "Amazon SEA27 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA29",
+      "lat": "47.6212",
+      "lon": "-122.3398",
+      "source": "precise",
+      "notes": "Amazon SEA29 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA37",
+      "lat": "47.6243",
+      "lon": "-122.3367",
+      "source": "precise",
+      "notes": "Amazon SEA37 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA38",
+      "lat": "47.6246",
+      "lon": "-122.3364",
+      "source": "precise",
+      "notes": "Amazon SEA38 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA43",
+      "lat": "47.6266",
+      "lon": "-122.3344",
+      "source": "precise",
+      "notes": "Amazon SEA43 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA44",
+      "lat": "47.6269",
+      "lon": "-122.3341",
+      "source": "precise",
+      "notes": "Amazon SEA44 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA47",
+      "lat": "47.6223",
+      "lon": "-122.3387",
+      "source": "precise",
+      "notes": "Amazon SEA47 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA48",
+      "lat": "47.6226",
+      "lon": "-122.3384",
+      "source": "precise",
+      "notes": "Amazon SEA48 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA54",
+      "lat": "47.6229",
+      "lon": "-122.3381",
+      "source": "precise",
+      "notes": "Amazon SEA54 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA58",
+      "lat": "47.6233",
+      "lon": "-122.3377",
+      "source": "precise",
+      "notes": "Amazon SEA58 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA68",
+      "lat": "47.6271",
+      "lon": "-122.3339",
+      "source": "precise",
+      "notes": "Amazon SEA68 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA69",
+      "lat": "47.6274",
+      "lon": "-122.3336",
+      "source": "precise",
+      "notes": "Amazon SEA69 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA76",
+      "lat": "47.6236",
+      "lon": "-122.3374",
+      "source": "precise",
+      "notes": "Amazon SEA76 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA82",
+      "lat": "47.624",
+      "lon": "-122.337",
+      "source": "precise",
+      "notes": "Amazon SEA82 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA84",
+      "lat": "47.6244",
+      "lon": "-122.3366",
+      "source": "precise",
+      "notes": "Amazon SEA84 - Denny Triangle campus building"
+    },
+    {
+      "facilityId": "SEA93",
+      "lat": "47.6264",
+      "lon": "-122.3346",
+      "source": "precise",
+      "notes": "Amazon SEA93 - Denny Triangle campus building"
+    }
+  ]
 }
