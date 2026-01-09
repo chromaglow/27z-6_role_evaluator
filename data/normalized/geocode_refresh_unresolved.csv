@@ -1,0 +1,4 @@
+facilityId,reason,query
+DWA7,no geocode result,"3850 122nd Ave E, Puyallup, WA 98372"
+GEG5,"geocode error: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=City+Center+East%2C+Spokane%2C+WA+99201&format=json&limit=1 (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)""))","City Center East, Spokane, WA 99201"
+SEA93,no geocode result,"10885 NE 4th St 8th floor, Bellevue, WA 98004"

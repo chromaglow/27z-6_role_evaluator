@@ -59,8 +59,13 @@
   ></script>
 
   <script>
-    // Basic basemap centered on Seattle-ish by default; will auto-fit to data bounds.
-    const map = L.map('map', { zoomControl: true }).setView([47.61, -122.33], 10);
+  // Basic basemap centered on Seattle-ish by default; will auto-fit to data bounds.
+  const map = L.map('map', { zoomControl: true }).setView([47.61, -122.33], 10);
+
+  // Layer for always-visible facility ID labels
+  const labelLayer = L.layerGroup().addTo(map);
+
+
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
@@ -79,14 +84,14 @@
     }
 
     function colorFromAffected(n) {
-      // Simple buckets; readable and stable.
-      if (!n || n <= 0) return '#9e9e9e';
-      if (n < 10) return '#90caf9';
-      if (n < 50) return '#42a5f5';
-      if (n < 150) return '#1e88e5';
-      if (n < 400) return '#1565c0';
-      return '#0d47a1';
-    }
+    if (n <= 0)  return '#d9d9d9'; // no impact
+    if (n <= 5)  return '#a6cee3';
+    if (n <= 15) return '#1f78b4';
+    if (n <= 30) return '#ffb703';
+    if (n <= 60) return '#fb8500';
+    return '#d62828';
+}
+
 
     function copyCliCommand(facilityId) {
   const cmd =
@@ -167,22 +172,22 @@
 
     // Legend control
     const legend = L.control({ position: 'topright' });
-    legend.onAdd = function() {
-      const div = L.DomUtil.create('div', 'legend');
-      div.innerHTML = `
-        <h3>Facility Impact Map</h3>
-        <div class="muted">Circle size and color reflect totalAffected.</div>
-        <div style="margin-top: 8px;">
-          <div><span class="pill">0</span> gray</div>
-          <div><span class="pill">1–9</span> light blue</div>
-          <div><span class="pill">10–49</span> blue</div>
-          <div><span class="pill">50–149</span> darker</div>
-          <div><span class="pill">150–399</span> dark</div>
-          <div><span class="pill">400+</span> darkest</div>
-        </div>
-      `;
-      return div;
-    };
+    legend.onAdd = function (map) {
+  const div = L.DomUtil.create('div', 'info legend');
+
+  div.innerHTML = `
+    <strong>Affected Employees</strong><br>
+    <i style="background:#d9d9d9"></i> 0 (no impact)<br>
+    <i style="background:#a6cee3"></i> 1–5 (very low)<br>
+    <i style="background:#1f78b4"></i> 6–15 (low)<br>
+    <i style="background:#ffb703"></i> 16–30 (medium)<br>
+    <i style="background:#fb8500"></i> 31–60 (high)<br>
+    <i style="background:#d62828"></i> 60+ (very high)
+  `;
+
+  return div;
+};
+
     legend.addTo(map);
 
     let geojsonLayer = null;
@@ -194,31 +199,53 @@ function renderLayer(fc, impactsOnly=false) {
     geojsonLayer = null;
   }
 
-  geojsonLayer = L.geoJSON(fc, {
-    filter: (feature) => {
-      if (!impactsOnly) return true;
-      const p = feature.properties || {};
-      return !!p.hasImpacts && Number(p.totalAffected || 0) > 0;
-    },
-    pointToLayer: (feature, latlng) => {
-      const p = feature.properties || {};
-      const n = Number(p.totalAffected || 0);
-      return L.circleMarker(latlng, {
-        radius: radiusFromAffected(n),
-        color: '#222',
-        weight: 1,
-        fillColor: colorFromAffected(n),
-        fillOpacity: 0.75
-      });
-    },
-    onEachFeature: (feature, layer) => {
-      const p = feature.properties || {};
-      layer.bindPopup(popupHtml(p));
-      if (p.facilityId) {
-        featuresById.set(String(p.facilityId).toUpperCase(), { feature, layer });
-      }
+labelLayer.clearLayers();
+featuresById.clear();
+
+geojsonLayer = L.geoJSON(fc, {
+  filter: (feature) => {
+    if (!impactsOnly) return true;
+    const p = feature.properties || {};
+    return !!p.hasImpacts && Number(p.totalAffected || 0) > 0;
+  },
+
+  pointToLayer: (feature, latlng) => {
+  const p = feature.properties || {};
+
+  // Always-visible facility ID label
+  if (p.facilityId) {
+    L.marker(latlng, {
+      icon: L.divIcon({
+        className: 'facility-label',
+        html: String(p.facilityId),
+        iconSize: [0, 0]
+      }),
+      interactive: false
+    }).addTo(labelLayer);
+  }
+
+  const n = Number(p.totalAffected || 0);
+
+  return L.circleMarker(latlng, {
+    radius: radiusFromAffected(n),
+    color: n > 30 ? '#111' : '#444',
+    weight: 1,
+    fillColor: colorFromAffected(n),
+    fillOpacity: 0.8
+  });
+},
+
+
+
+  onEachFeature: (feature, layer) => {
+    const p = feature.properties || {};
+    layer.bindPopup(popupHtml(p));
+    if (p.facilityId) {
+      featuresById.set(String(p.facilityId).toUpperCase(), { feature, layer });
     }
-  }).addTo(map);
+  }
+}).addTo(map);
+
 
   const b = geojsonLayer.getBounds();
   if (b.isValid()) map.fitBounds(b.pad(0.15));

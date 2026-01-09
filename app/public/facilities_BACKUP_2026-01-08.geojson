@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.336515,
-          47.62295
+          -122.3355,
+          47.6255
         ]
       },
       "properties": {
@@ -16,9 +16,8 @@
         "jobTitleCount": 119,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA40 - Denny Triangle campus building | refreshed from address: 440 Terry Ave N, Seattle, WA 98109",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA40 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer II",
@@ -48,8 +47,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.338055,
-          47.615303
+          -122.335,
+          47.626
         ]
       },
       "properties": {
@@ -58,9 +57,8 @@
         "jobTitleCount": 85,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA41 - Denny Triangle campus building | refreshed from address: 2001 7th Ave, Seattle, WA 98121",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA41 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer II",
@@ -90,8 +88,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.333047,
-          47.616171
+          -122.3372,
+          47.6238
         ]
       },
       "properties": {
@@ -100,9 +98,8 @@
         "jobTitleCount": 63,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA81 - Denny Triangle campus building | refreshed from address: 1007 Stewart St, Seattle, WA 98101",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA81 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer II",
@@ -132,8 +129,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.335186,
-          47.621207
+          -122.334,
+          47.627
         ]
       },
       "properties": {
@@ -142,9 +139,8 @@
         "jobTitleCount": 51,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA70 - Denny Triangle campus building | refreshed from address: 300 Boren Ave N, Seattle, WA 98109",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA70 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer II",
@@ -174,8 +170,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.319086,
-          47.621896
+          -122.34,
+          47.621
         ]
       },
       "properties": {
@@ -184,9 +180,8 @@
         "jobTitleCount": 47,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA28 - Denny Triangle campus building | refreshed from address: 1047 E Harrison St, Seattle, WA 98102",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA28 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer II",
@@ -216,8 +211,49 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.338387,
-          47.614949
+          -121.4167,
+          47.3826
+        ]
+      },
+      "properties": {
+        "facilityId": "REMOTE_WA",
+        "totalAffected": 122,
+        "jobTitleCount": 63,
+        "noticeCount": 2,
+        "hasImpacts": true,
+        "geoSource": "region_centroid",
+        "geoNotes": "Washington state geographic centroid for remote workers",
+        "topTitles": [
+          {
+            "title": "Investigation Specialist II",
+            "affected": 14
+          },
+          {
+            "title": "Program Manager II",
+            "affected": 10
+          },
+          {
+            "title": "Software Dev Engineer II",
+            "affected": 7
+          },
+          {
+            "title": "Investigation Specialist I",
+            "affected": 5
+          },
+          {
+            "title": "Risk Specialist I",
+            "affected": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337,
+          47.624
         ]
       },
       "properties": {
@@ -226,9 +262,8 @@
         "jobTitleCount": 30,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA23 - Denny Triangle campus building | refreshed from address: 2021 7th Ave, Seattle, WA 98121",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA23 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Sourcing Recruiter II",
@@ -258,8 +293,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.339119,
-          47.623849
+          -122.3365,
+          47.6245
         ]
       },
       "properties": {
@@ -268,9 +303,8 @@
         "jobTitleCount": 21,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA39 - Denny Triangle campus building | refreshed from address: 500 9th Ave N, Seattle, WA 98109",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA39 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer II",
@@ -300,8 +334,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.196865,
-          47.61488
+          -122.3332,
+          47.6278
         ]
       },
       "properties": {
@@ -310,9 +344,8 @@
         "jobTitleCount": 38,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA112 - Denny Triangle campus building | refreshed from address: 555 108th Ave NE, Bellevue, WA 98004",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA112 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer II",
@@ -342,8 +375,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.335128,
-          47.621871
+          -122.3335,
+          47.6275
         ]
       },
       "properties": {
@@ -352,9 +385,8 @@
         "jobTitleCount": 23,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA71 - Denny Triangle campus building | refreshed from address: 399 Fairview Ave N, Seattle, WA 98109",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA71 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer II",
@@ -384,8 +416,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.338135,
-          47.61535
+          -122.339,
+          47.622
         ]
       },
       "properties": {
@@ -394,9 +426,8 @@
         "jobTitleCount": 26,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA20 - Denny Triangle campus building | refreshed from address: 2015 7th Ave, Seattle, WA 98121",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA20 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer II",
@@ -426,8 +457,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.339596,
-          47.620482
+          -122.3348,
+          47.6262
         ]
       },
       "properties": {
@@ -436,9 +467,8 @@
         "jobTitleCount": 20,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA91 - Denny Triangle campus building | refreshed from address: 234 9th Ave N, Seattle, WA 98109",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA91 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Financial Analyst II",
@@ -468,8 +498,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.335942,
-          47.615656
+          -122.3375,
+          47.6235
         ]
       },
       "properties": {
@@ -478,9 +508,8 @@
         "jobTitleCount": 15,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA33 - Denny Triangle campus building | refreshed from address: 1918 8th Ave, Seattle, WA 98101",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA33 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Tech Writer-Tech III",
@@ -510,8 +539,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.338076,
-          47.621449
+          -122.3368,
+          47.6242
         ]
       },
       "properties": {
@@ -520,9 +549,8 @@
         "jobTitleCount": 24,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA83 - Denny Triangle campus building | refreshed from address: 320 Westlake Ave N, Seattle, WA 98109",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA83 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer I",
@@ -552,8 +580,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.339345,
-          47.622181
+          -122.3385,
+          47.6225
         ]
       },
       "properties": {
@@ -562,9 +590,8 @@
         "jobTitleCount": 39,
         "noticeCount": 1,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA53 - Denny Triangle campus building | refreshed from address: 400 9th Ave N, Seattle, WA 98109",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA53 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Product Manager II",
@@ -594,8 +621,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.200717,
-          47.614247
+          -122.3322,
+          47.6288
         ]
       },
       "properties": {
@@ -604,9 +631,8 @@
         "jobTitleCount": 18,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA132 - Denny Triangle campus building | refreshed from address: 10400 NE 4th St, Bellevue, WA 98004",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA132 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer II",
@@ -636,8 +662,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.336499,
-          47.623284
+          -122.3356,
+          47.6254
         ]
       },
       "properties": {
@@ -646,9 +672,8 @@
         "jobTitleCount": 19,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA26 - Denny Triangle campus building | refreshed from address: 1048 Republican St, Seattle, WA 98109",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA26 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer II",
@@ -678,8 +703,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.339119,
-          47.624292
+          -122.3364,
+          47.6246
         ]
       },
       "properties": {
@@ -688,9 +713,8 @@
         "jobTitleCount": 21,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA38 - Denny Triangle campus building | refreshed from address: 515 Westlake Ave N, Seattle, WA 98109",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA38 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer II",
@@ -720,8 +744,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.336502,
-          47.621768
+          -122.3402,
+          47.6208
         ]
       },
       "properties": {
@@ -730,9 +754,8 @@
         "jobTitleCount": 27,
         "noticeCount": 1,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA27 - Denny Triangle campus building | refreshed from address: 345 Boren Ave N, Seattle, WA 98109",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA27 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Account Rep I",
@@ -762,8 +785,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.337549,
-          47.62145
+          -122.3362,
+          47.6248
         ]
       },
       "properties": {
@@ -772,9 +795,8 @@
         "jobTitleCount": 19,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA86 - Denny Triangle campus building | refreshed from address: 321 Terry Ave N, Seattle, WA 98109",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA86 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Business Developer III",
@@ -804,8 +826,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.200478,
-          47.619732
+          -122.3395,
+          47.6215
         ]
       },
       "properties": {
@@ -814,9 +836,8 @@
         "jobTitleCount": 21,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA107 - Denny Triangle campus building | refreshed from address: 10450 NE 10th St, Bellevue, WA 98004",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA107 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer II",
@@ -846,8 +867,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33569701372878,
-          47.62382454054054
+          -122.336,
+          47.625
         ]
       },
       "properties": {
@@ -856,9 +877,8 @@
         "jobTitleCount": 17,
         "noticeCount": 1,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA25 - Denny Triangle campus building | refreshed from address: 1048 Republican St, Seattle, WA 98109",
-        "geoQuality": "duplicate",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA25 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Program Manager III",
@@ -888,8 +908,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.334865,
-          47.623696
+          -122.3374,
+          47.6236
         ]
       },
       "properties": {
@@ -898,9 +918,8 @@
         "jobTitleCount": 15,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA76 - Denny Triangle campus building | refreshed from address: 501 Fairview Ave N, Seattle, WA 98109",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA76 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer I",
@@ -930,8 +949,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3365,
-          47.622298
+          -122.338,
+          47.623
         ]
       },
       "properties": {
@@ -940,9 +959,8 @@
         "jobTitleCount": 12,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA22 - Denny Triangle campus building | refreshed from address: 410 Terry Ave N, Seattle, WA 98109",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA22 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer I",
@@ -972,8 +990,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.336255,
-          47.620341
+          -122.3398,
+          47.6212
         ]
       },
       "properties": {
@@ -982,9 +1000,8 @@
         "jobTitleCount": 13,
         "noticeCount": 1,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA29 - Denny Triangle campus building | refreshed from address: 207 Boren Ave N, Seattle, WA 98109",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA29 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer I",
@@ -1014,8 +1031,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.340142,
-          47.621544
+          -122.3381,
+          47.6229
         ]
       },
       "properties": {
@@ -1024,9 +1041,8 @@
         "jobTitleCount": 13,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA54 - Denny Triangle campus building | refreshed from address: 325 9th Ave N, Seattle, WA 98109",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA54 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer I",
@@ -1056,8 +1072,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.338887,
-          47.615343
+          -122.3366,
+          47.6244
         ]
       },
       "properties": {
@@ -1066,9 +1082,8 @@
         "jobTitleCount": 9,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA24 - Denny Triangle campus building | refreshed from address: 2031 7th Ave, Seattle, WA 98121",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA24 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Risk Manager II",
@@ -1098,8 +1113,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.338072,
-          47.620128
+          -122.3367,
+          47.6243
         ]
       },
       "properties": {
@@ -1108,9 +1123,8 @@
         "jobTitleCount": 16,
         "noticeCount": 1,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA37 - Denny Triangle campus building | refreshed from address: 202 Westlake Ave N, Seattle, WA 98109",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA37 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Manager III, Software Dev",
@@ -1140,8 +1154,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.334353,
-          47.608817
+          -122.3345,
+          47.6265
         ]
       },
       "properties": {
@@ -1150,9 +1164,8 @@
         "jobTitleCount": 9,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA42 - Denny Triangle campus building | refreshed from address: 1301 5th Ave, Seattle, WA 98101",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA42 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Legal Counsel III",
@@ -1182,8 +1195,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33355123558752,
-          47.60935754054054
+          -122.3344,
+          47.6266
         ]
       },
       "properties": {
@@ -1192,9 +1205,8 @@
         "jobTitleCount": 12,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA43 - Denny Triangle campus building | refreshed from address: 1301 5th Ave, Seattle, WA 98101",
-        "geoQuality": "duplicate",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA43 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Principal, Product Mgmt - Tech",
@@ -1224,8 +1236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33854303064996,
-          47.62272154054054
+          -122.337,
+          47.624
         ]
       },
       "properties": {
@@ -1234,9 +1246,8 @@
         "jobTitleCount": 10,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA82 - Denny Triangle campus building | refreshed from address: 400 9th Ave N, Seattle, WA 98109",
-        "geoQuality": "duplicate",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA82 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Manager III, Program Mgmt",
@@ -1266,8 +1277,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.194926,
-          47.613457
+          -122.3346,
+          47.6264
         ]
       },
       "properties": {
@@ -1276,9 +1287,8 @@
         "jobTitleCount": 6,
         "noticeCount": 1,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA93 | VERIFIED_ADDRESS 10885 NE 4th St Bellevue WA 98004 | refreshed from address: 10885 NE 4th St, Bellevue, WA 98004",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA93 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Software Dev Engineer I",
@@ -1308,8 +1318,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33449,
-          47.616483
+          -122.3377,
+          47.6233
         ]
       },
       "properties": {
@@ -1318,9 +1328,8 @@
         "jobTitleCount": 7,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA58 - Denny Triangle campus building | refreshed from address: 1915 Terry Ave, Seattle, WA 98101",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA58 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Sourcing Recruiter III",
@@ -1350,8 +1359,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.199653,
-          47.619734
+          -122.3338,
+          47.6272
         ]
       },
       "properties": {
@@ -1360,9 +1369,8 @@
         "jobTitleCount": 3,
         "noticeCount": 1,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA106 - Denny Triangle campus building | refreshed from address: 10550 NE 10th St, Bellevue, WA 98004",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA106 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Sr Manager, Software Dev",
@@ -1384,8 +1392,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.367335,
-          47.625252
+          -122.3336,
+          47.6274
         ]
       },
       "properties": {
@@ -1394,9 +1402,8 @@
         "jobTitleCount": 4,
         "noticeCount": 1,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA69 - Denny Triangle campus building | refreshed from address: 635 Elliott Ave W, Seattle, WA 98119",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA69 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Creative MKTG III",
@@ -1422,8 +1429,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.331883,
-          47.616788
+          -122.3366,
+          47.6244
         ]
       },
       "properties": {
@@ -1432,9 +1439,8 @@
         "jobTitleCount": 2,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA84 - Denny Triangle campus building | refreshed from address: 1812 Boren Ave, Seattle, WA 98101",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA84 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Financial Analyst III",
@@ -1452,8 +1458,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33274947117506,
-          47.609898081081084
+          -122.3341,
+          47.6269
         ]
       },
       "properties": {
@@ -1462,9 +1468,8 @@
         "jobTitleCount": 4,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA44 - Denny Triangle campus building | refreshed from address: 1301 5th Ave, Seattle, WA 98101",
-        "geoQuality": "duplicate",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA44 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Director, Software Development",
@@ -1490,8 +1495,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.339888,
-          47.617559
+          -122.3384,
+          47.6226
         ]
       },
       "properties": {
@@ -1500,9 +1505,8 @@
         "jobTitleCount": 3,
         "noticeCount": 1,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA48 - Denny Triangle campus building | refreshed from address: 2205 8th Ave, Seattle, WA 98121",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA48 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Sr. Mgr, Secrty Indust Spclst",
@@ -1524,8 +1528,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.195812,
-          47.613281
+          -122.3342,
+          47.6268
         ]
       },
       "properties": {
@@ -1534,9 +1538,8 @@
         "jobTitleCount": 2,
         "noticeCount": 1,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA104 - Denny Triangle campus building | refreshed from address: 320 108th Ave NE, Bellevue, WA 98004",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA104 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Program Manager II",
@@ -1554,8 +1557,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.19606314262953,
-          47.61542054054054
+          -122.3325,
+          47.6285
         ]
       },
       "properties": {
@@ -1564,9 +1567,8 @@
         "jobTitleCount": 2,
         "noticeCount": 1,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA124 - Denny Triangle campus building | refreshed from address: 555 108th Ave NE, Bellevue, WA 98004",
-        "geoQuality": "duplicate",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA124 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "IT Support Eng I",
@@ -1584,8 +1586,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33194770676259,
-          47.610438621621626
+          -122.3387,
+          47.6223
         ]
       },
       "properties": {
@@ -1594,9 +1596,8 @@
         "jobTitleCount": 2,
         "noticeCount": 1,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA47 - Denny Triangle campus building | refreshed from address: 1301 5th Ave, Seattle, WA 98101",
-        "geoQuality": "duplicate",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA47 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "IT Support Eng II",
@@ -1614,8 +1615,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.341676,
-          47.615992
+          -122.3339,
+          47.6271
         ]
       },
       "properties": {
@@ -1624,9 +1625,8 @@
         "jobTitleCount": 2,
         "noticeCount": 2,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA68 - Denny Triangle campus building | refreshed from address: 2201 6th Ave, Seattle, WA 98121",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA68 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Technical Program Manager III",
@@ -1644,8 +1644,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33774106129991,
-          47.62326208108108
+          -122.3378,
+          47.6232
         ]
       },
       "properties": {
@@ -1654,9 +1654,8 @@
         "jobTitleCount": 2,
         "noticeCount": 1,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA74 - Denny Triangle campus building | refreshed from address: 400 9th Ave N, Seattle, WA 98109",
-        "geoQuality": "duplicate",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA74 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Hardware Dev Engr III",
@@ -1674,8 +1673,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.199694,
-          47.634302
+          -122.3328,
+          47.6282
         ]
       },
       "properties": {
@@ -1684,9 +1683,8 @@
         "jobTitleCount": 1,
         "noticeCount": 1,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA113 - Denny Triangle campus building | refreshed from address: 85 106th Ave NE, Bellevue, WA 98004",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA113 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Tech Writer-Tech II",
@@ -1700,8 +1698,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.343986,
-          47.616216
+          -122.3382,
+          47.6228
         ]
       },
       "properties": {
@@ -1710,9 +1708,8 @@
         "jobTitleCount": 1,
         "noticeCount": 1,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA55 - Denny Triangle campus building | refreshed from address: 2301 5th Ave, Seattle, WA 98121",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA55 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Technical Writer II",
@@ -1726,8 +1723,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.337947,
-          47.611264
+          -122.3358,
+          47.6252
         ]
       },
       "properties": {
@@ -1736,9 +1733,8 @@
         "jobTitleCount": 1,
         "noticeCount": 1,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA89 - Denny Triangle campus building | refreshed from address: 300 Pine St, Seattle, WA 98101",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA89 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Program Manager I",
@@ -1752,8 +1748,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.329545,
-          47.621398
+          -122.3352,
+          47.6258
         ]
       },
       "properties": {
@@ -1762,9 +1758,8 @@
         "jobTitleCount": 1,
         "noticeCount": 1,
         "hasImpacts": true,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon SEA90 - Denny Triangle campus building | refreshed from address: 325 Eastlake Ave E, Seattle, WA 98109",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon SEA90 - Denny Triangle campus building",
         "topTitles": [
           {
             "title": "Applied Scientist II",
@@ -1789,8 +1784,7 @@
         "noticeCount": 0,
         "hasImpacts": false,
         "geoSource": "precise",
-        "geoNotes": "Amazon BFI4 fulfillment center | APPROX_AREA Boeing Field anchor",
-        "geoQuality": "ok",
+        "geoNotes": "Amazon BFI4 fulfillment center near Boeing Field",
         "topTitles": []
       }
     },
@@ -1810,8 +1804,7 @@
         "noticeCount": 0,
         "hasImpacts": false,
         "geoSource": "precise",
-        "geoNotes": "Amazon BFI5 fulfillment center | APPROX_AREA Boeing Field anchor",
-        "geoQuality": "ok",
+        "geoNotes": "Amazon BFI5 fulfillment center near Boeing Field",
         "topTitles": []
       }
     },
@@ -1832,7 +1825,6 @@
         "hasImpacts": false,
         "geoSource": "approx_cluster",
         "geoNotes": "BFI cluster approximation near Boeing Field",
-        "geoQuality": "ok",
         "topTitles": []
       }
     },
@@ -1853,7 +1845,6 @@
         "hasImpacts": false,
         "geoSource": "approx_city",
         "geoNotes": "DuPont/Steilacoom area approximation",
-        "geoQuality": "ok",
         "topTitles": []
       }
     },
@@ -1874,7 +1865,6 @@
         "hasImpacts": false,
         "geoSource": "approx_cluster",
         "geoNotes": "DuPont sortation center approximation",
-        "geoQuality": "ok",
         "topTitles": []
       }
     },
@@ -1883,8 +1873,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9545,
-          38.8852
+          -122.444,
+          47.253
         ]
       },
       "properties": {
@@ -1893,9 +1883,8 @@
         "jobTitleCount": 0,
         "noticeCount": 0,
         "hasImpacts": false,
-        "geoSource": "OpenStreetMap Nominatim (refresh)",
-        "geoNotes": "Amazon DuPont fulfillment center | refreshed from address: City Center, DuPont, WA 98327",
-        "geoQuality": "ok",
+        "geoSource": "precise",
+        "geoNotes": "Amazon DuPont fulfillment center",
         "topTitles": []
       }
     },
@@ -1904,8 +1893,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.0,
-          47.0
+          -122.446,
+          47.256
         ]
       },
       "properties": {
@@ -1914,9 +1903,8 @@
         "jobTitleCount": 0,
         "noticeCount": 0,
         "hasImpacts": false,
-        "geoSource": "precise",
-        "geoNotes": "Puyallup anchor (centroid ok) for map accuracy",
-        "geoQuality": "ok",
+        "geoSource": "approx_cluster",
+        "geoNotes": "DuPont fulfillment center cluster",
         "topTitles": []
       }
     },
@@ -1937,7 +1925,6 @@
         "hasImpacts": false,
         "geoSource": "approx_cluster",
         "geoNotes": "DuPont sortation center approximation",
-        "geoQuality": "ok",
         "topTitles": []
       }
     },
@@ -1958,7 +1945,6 @@
         "hasImpacts": false,
         "geoSource": "approx_city",
         "geoNotes": "Spokane fulfillment center approximation",
-        "geoQuality": "ok",
         "topTitles": []
       }
     },
@@ -1967,8 +1953,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.0,
-          47.0
+          -117.536,
+          47.622
         ]
       },
       "properties": {
@@ -1977,9 +1963,8 @@
         "jobTitleCount": 0,
         "noticeCount": 0,
         "hasImpacts": false,
-        "geoSource": "precise",
-        "geoNotes": "Spokane anchor (centroid ok) for map accuracy",
-        "geoQuality": "ok",
+        "geoSource": "approx_cluster",
+        "geoNotes": "Spokane area facility cluster",
         "topTitles": []
       }
     },
@@ -2000,7 +1985,6 @@
         "hasImpacts": false,
         "geoSource": "approx_city",
         "geoNotes": "Olympia area fulfillment center approximation",
-        "geoQuality": "ok",
         "topTitles": []
       }
     },
@@ -2021,7 +2005,6 @@
         "hasImpacts": false,
         "geoSource": "approx_city",
         "geoNotes": "Pasco area fulfillment center approximation",
-        "geoQuality": "ok",
         "topTitles": []
       }
     }

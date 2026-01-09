@@ -1,0 +1,60 @@
+facilityId,hadAddressRow,latWasBlankFilled,lonWasBlankFilled,buildingName,streetAddress,city,state,zip
+BFI4,True,False,False,Fulfillment Center,North Boeing Field,Seattle,WA,98108
+BFI5,True,False,False,Fulfillment Center,South Boeing Field,Seattle,WA,98108
+BFI9,True,False,False,Fulfillment Center,20529 59th Ave E,DuPont,WA,98327
+DSE8,True,False,False,Delivery Station,7555 Airport Way SW,Bremerton,WA,98312
+DSW3,True,False,False,Sortation Center,12163 Bay Ridge Dr,Burlington,WA,98233
+DWA5,True,False,False,Fulfillment Center,City Center,DuPont,WA,98327
+DWA7,True,False,False,Sortation Center,3850 122nd Ave E,Puyallup,WA,98372
+DWS4,True,False,False,Delivery Station,315 Shuksan Way,Everett,WA,98203
+GEG2,True,False,False,Fulfillment Center,City Center,Spokane,WA,99201
+GEG5,True,False,False,Fulfillment Center,City Center East,Spokane,WA,99201
+OLM1,True,False,False,Fulfillment Center,City Center,Olympia,WA,98501
+PSC2,True,False,False,Fulfillment Center,City Center,Pasco,WA,99301
+REMOTE_WA,True,False,False,Remote Workers,Bainbridge Island,Bainbridge Island,WA,98110
+SEA20,True,False,False,Cricket,2015 7th Ave,Seattle,WA,98121
+SEA22,True,False,False,Invictus,410 Terry Ave N,Seattle,WA,98109
+SEA23,True,False,False,Wainwright,2021 7th Ave,Seattle,WA,98121
+SEA25,True,False,False,Obidos,1048 Republican St,Seattle,WA,98109
+SEA28,True,False,False,Ruby,1047 E Harrison St,Seattle,WA,98102
+SEA33,True,False,False,Blackfoot,1918 8th Ave,Seattle,WA,98101
+SEA39,True,False,False,Nessie,500 9th Ave N,Seattle,WA,98109
+SEA40,True,False,False,Doppler,440 Terry Ave N,Seattle,WA,98109
+SEA41,True,False,False,Day 1,2001 7th Ave,Seattle,WA,98121
+SEA42,True,False,False,Rainier Square,1301 5th Ave,Seattle,WA,98101
+SEA53,True,False,False,Brazil,400 9th Ave N,Seattle,WA,98109
+SEA55,True,False,False,Otter,2301 5th Ave,Seattle,WA,98121
+SEA70,True,False,False,Houdini South,300 Boren Ave N,Seattle,WA,98109
+SEA71,True,False,False,Houdini North,399 Fairview Ave N,Seattle,WA,98109
+SEA74,True,False,False,Unknown,400 9th Ave N,Seattle,WA,98109
+SEA81,True,False,False,Oscar,1007 Stewart St,Seattle,WA,98101
+SEA83,True,False,False,Triumph West,320 Westlake Ave N,Seattle,WA,98109
+SEA86,True,False,False,Triumph East,321 Terry Ave N,Seattle,WA,98109
+SEA89,True,False,False,Blueshift,300 Pine St,Seattle,WA,98101
+SEA90,True,False,False,Atlas,325 Eastlake Ave E,Seattle,WA,98109
+SEA91,True,False,False,Unicorn,234 9th Ave N,Seattle,WA,98109
+SEA104,True,False,False,Grace,320 108th Ave NE,Bellevue,WA,98004
+SEA106,True,False,False,Tahoe,10550 NE 10th St,Bellevue,WA,98004
+SEA107,True,False,False,Tahoe,10450 NE 10th St,Bellevue,WA,98004
+SEA112,True,False,False,Sonic,555 108th Ave NE,Bellevue,WA,98004
+SEA113,True,False,False,Unknown,85 106th Ave NE,Bellevue,WA,98004
+SEA124,True,False,False,Unknown,555 108th Ave NE,Bellevue,WA,98004
+SEA132,True,False,False,Unknown,10400 NE 4th St,Bellevue,WA,98004
+SEA24,True,False,False,Fiona,2031 7th Ave,Seattle,WA,98121
+SEA26,True,False,False,Rufus,1048 Republican St,Seattle,WA,98109
+SEA27,True,False,False,Dawson,345 Boren Ave N,Seattle,WA,98109
+SEA29,True,False,False,Arizona,207 Boren Ave N,Seattle,WA,98109
+SEA37,True,False,False,Roxanne,202 Westlake Ave N,Seattle,WA,98109
+SEA38,True,False,False,Bigfoot,515 Westlake Ave N,Seattle,WA,98109
+SEA43,True,False,False,Rainier Square,1301 5th Ave,Seattle,WA,98101
+SEA44,True,False,False,Rainier Square,1301 5th Ave,Seattle,WA,98101
+SEA47,True,False,False,Rainier Square,1301 5th Ave,Seattle,WA,98101
+SEA48,True,False,False,Nitro South,2205 8th Ave,Seattle,WA,98121
+SEA54,True,False,False,Apollo,325 9th Ave N,Seattle,WA,98109
+SEA58,True,False,False,Kumo,1915 Terry Ave,Seattle,WA,98101
+SEA68,True,False,False,Coral,2201 6th Ave,Seattle,WA,98121
+SEA69,True,False,False,Galaxy,635 Elliott Ave W,Seattle,WA,98119
+SEA76,True,False,False,Unknown,501 Fairview Ave N,Seattle,WA,98109
+SEA82,True,False,False,Everest,400 9th Ave N,Seattle,WA,98109
+SEA84,True,False,False,Lowflyinghawk,1812 Boren Ave,Seattle,WA,98101
+SEA93,True,False,False,maverick,400 9th Ave N,Bellevue,WA,98109

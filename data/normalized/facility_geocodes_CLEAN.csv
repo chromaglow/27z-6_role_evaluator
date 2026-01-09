@@ -1,0 +1,60 @@
+facilityId,lat,lon,source,notes,buildingName,streetAddress,city,state,zip
+BFI4,47.4698,-122.291,precise,Amazon BFI4 fulfillment center near Boeing Field,Fulfillment Center,North Boeing Field,Seattle,WA,98108
+BFI5,47.4755,-122.2845,precise,Amazon BFI5 fulfillment center near Boeing Field,Fulfillment Center,South Boeing Field,Seattle,WA,98108
+BFI9,47.482,-122.292,approx_cluster,BFI cluster approximation near Boeing Field,Fulfillment Center,20529 59th Ave E,DuPont,WA,98327
+DSE8,47.098,-122.589,approx_city,DuPont/Steilacoom area approximation,Delivery Station,7555 Airport Way SW,Bremerton,WA,98312
+DSW3,47.095,-122.591,approx_cluster,DuPont sortation center approximation,Sortation Center,12163 Bay Ridge Dr,Burlington,WA,98233
+DWA5,47.253,-122.444,precise,Amazon DuPont fulfillment center,Fulfillment Center,City Center,DuPont,WA,98327
+DWA7,47.256,-122.446,approx_cluster,DuPont fulfillment center cluster,Sortation Center,3850 122nd Ave E,Puyallup,WA,98372
+DWS4,47.254,-122.445,approx_cluster,DuPont sortation center approximation,Delivery Station,315 Shuksan Way,Everett,WA,98203
+GEG2,47.6199,-117.5339,approx_city,Spokane fulfillment center approximation,Fulfillment Center,City Center,Spokane,WA,99201
+GEG5,47.622,-117.536,approx_cluster,Spokane area facility cluster,Fulfillment Center,City Center East,Spokane,WA,99201
+OLM1,46.9762,-122.9007,approx_city,Olympia area fulfillment center approximation,Fulfillment Center,City Center,Olympia,WA,98501
+PSC2,46.2645,-119.119,approx_city,Pasco area fulfillment center approximation,Fulfillment Center,City Center,Pasco,WA,99301
+REMOTE_WA,47.3826,-121.4167,region_centroid,Washington state geographic centroid for remote workers,Remote Workers,Bainbridge Island,Bainbridge Island,WA,98110
+SEA20,47.622,-122.339,precise,Amazon SEA20 - Denny Triangle campus building,Cricket,2015 7th Ave,Seattle,WA,98121
+SEA22,47.623,-122.338,precise,Amazon SEA22 - Denny Triangle campus building,Invictus,410 Terry Ave N,Seattle,WA,98109
+SEA23,47.624,-122.337,precise,Amazon SEA23 - Denny Triangle campus building,Wainwright,2021 7th Ave,Seattle,WA,98121
+SEA25,47.625,-122.336,precise,Amazon SEA25 - Denny Triangle campus building,Obidos,1048 Republican St,Seattle,WA,98109
+SEA28,47.621,-122.34,precise,Amazon SEA28 - Denny Triangle campus building,Ruby,1047 E Harrison St,Seattle,WA,98102
+SEA33,47.6235,-122.3375,precise,Amazon SEA33 - Denny Triangle campus building,Blackfoot,1918 8th Ave,Seattle,WA,98101
+SEA39,47.6245,-122.3365,precise,Amazon SEA39 - Denny Triangle campus building,Nessie,500 9th Ave N,Seattle,WA,98109
+SEA40,47.6255,-122.3355,precise,Amazon SEA40 - Denny Triangle campus building,Doppler,440 Terry Ave N,Seattle,WA,98109
+SEA41,47.626,-122.335,precise,Amazon SEA41 - Denny Triangle campus building,Day 1,2001 7th Ave,Seattle,WA,98121
+SEA42,47.6265,-122.3345,precise,Amazon SEA42 - Denny Triangle campus building,Rainier Square,1301 5th Ave,Seattle,WA,98101
+SEA53,47.6225,-122.3385,precise,Amazon SEA53 - Denny Triangle campus building,Brazil,400 9th Ave N,Seattle,WA,98109
+SEA55,47.6228,-122.3382,precise,Amazon SEA55 - Denny Triangle campus building,Otter,2301 5th Ave,Seattle,WA,98121
+SEA70,47.627,-122.334,precise,Amazon SEA70 - Denny Triangle campus building,Houdini South,300 Boren Ave N,Seattle,WA,98109
+SEA71,47.6275,-122.3335,precise,Amazon SEA71 - Denny Triangle campus building,Houdini North,399 Fairview Ave N,Seattle,WA,98109
+SEA74,47.6232,-122.3378,precise,Amazon SEA74 - Denny Triangle campus building,Unknown,400 9th Ave N,Seattle,WA,98109
+SEA81,47.6238,-122.3372,precise,Amazon SEA81 - Denny Triangle campus building,Oscar,1007 Stewart St,Seattle,WA,98101
+SEA83,47.6242,-122.3368,precise,Amazon SEA83 - Denny Triangle campus building,Triumph West,320 Westlake Ave N,Seattle,WA,98109
+SEA86,47.6248,-122.3362,precise,Amazon SEA86 - Denny Triangle campus building,Triumph East,321 Terry Ave N,Seattle,WA,98109
+SEA89,47.6252,-122.3358,precise,Amazon SEA89 - Denny Triangle campus building,Blueshift,300 Pine St,Seattle,WA,98101
+SEA90,47.6258,-122.3352,precise,Amazon SEA90 - Denny Triangle campus building,Atlas,325 Eastlake Ave E,Seattle,WA,98109
+SEA91,47.6262,-122.3348,precise,Amazon SEA91 - Denny Triangle campus building,Unicorn,234 9th Ave N,Seattle,WA,98109
+SEA104,47.6268,-122.3342,precise,Amazon SEA104 - Denny Triangle campus building,Grace,320 108th Ave NE,Bellevue,WA,98004
+SEA106,47.6272,-122.3338,precise,Amazon SEA106 - Denny Triangle campus building,Tahoe,10550 NE 10th St,Bellevue,WA,98004
+SEA107,47.6215,-122.3395,precise,Amazon SEA107 - Denny Triangle campus building,Tahoe,10450 NE 10th St,Bellevue,WA,98004
+SEA112,47.6278,-122.3332,precise,Amazon SEA112 - Denny Triangle campus building,Sonic,555 108th Ave NE,Bellevue,WA,98004
+SEA113,47.6282,-122.3328,precise,Amazon SEA113 - Denny Triangle campus building,Unknown,85 106th Ave NE,Bellevue,WA,98004
+SEA124,47.6285,-122.3325,precise,Amazon SEA124 - Denny Triangle campus building,Unknown,555 108th Ave NE,Bellevue,WA,98004
+SEA132,47.6288,-122.3322,precise,Amazon SEA132 - Denny Triangle campus building,Unknown,10400 NE 4th St,Bellevue,WA,98004
+SEA24,47.6244,-122.3366,precise,Amazon SEA24 - Denny Triangle campus building,Fiona,2031 7th Ave,Seattle,WA,98121
+SEA26,47.6254,-122.3356,precise,Amazon SEA26 - Denny Triangle campus building,Rufus,1048 Republican St,Seattle,WA,98109
+SEA27,47.6208,-122.3402,precise,Amazon SEA27 - Denny Triangle campus building,Dawson,345 Boren Ave N,Seattle,WA,98109
+SEA29,47.6212,-122.3398,precise,Amazon SEA29 - Denny Triangle campus building,Arizona,207 Boren Ave N,Seattle,WA,98109
+SEA37,47.6243,-122.3367,precise,Amazon SEA37 - Denny Triangle campus building,Roxanne,202 Westlake Ave N,Seattle,WA,98109
+SEA38,47.6246,-122.3364,precise,Amazon SEA38 - Denny Triangle campus building,Bigfoot,515 Westlake Ave N,Seattle,WA,98109
+SEA43,47.6266,-122.3344,precise,Amazon SEA43 - Denny Triangle campus building,Rainier Square,1301 5th Ave,Seattle,WA,98101
+SEA44,47.6269,-122.3341,precise,Amazon SEA44 - Denny Triangle campus building,Rainier Square,1301 5th Ave,Seattle,WA,98101
+SEA47,47.6223,-122.3387,precise,Amazon SEA47 - Denny Triangle campus building,Rainier Square,1301 5th Ave,Seattle,WA,98101
+SEA48,47.6226,-122.3384,precise,Amazon SEA48 - Denny Triangle campus building,Nitro South,2205 8th Ave,Seattle,WA,98121
+SEA54,47.6229,-122.3381,precise,Amazon SEA54 - Denny Triangle campus building,Apollo,325 9th Ave N,Seattle,WA,98109
+SEA58,47.6233,-122.3377,precise,Amazon SEA58 - Denny Triangle campus building,Kumo,1915 Terry Ave,Seattle,WA,98101
+SEA68,47.6271,-122.3339,precise,Amazon SEA68 - Denny Triangle campus building,Coral,2201 6th Ave,Seattle,WA,98121
+SEA69,47.6274,-122.3336,precise,Amazon SEA69 - Denny Triangle campus building,Galaxy,635 Elliott Ave W,Seattle,WA,98119
+SEA76,47.6236,-122.3374,precise,Amazon SEA76 - Denny Triangle campus building,Unknown,501 Fairview Ave N,Seattle,WA,98109
+SEA82,47.624,-122.337,precise,Amazon SEA82 - Denny Triangle campus building,Everest,400 9th Ave N,Seattle,WA,98109
+SEA84,47.6244,-122.3366,precise,Amazon SEA84 - Denny Triangle campus building,Lowflyinghawk,1812 Boren Ave,Seattle,WA,98101
+SEA93,47.6264,-122.3346,precise,Amazon SEA93 - Bellevue office | VERIFIED_ADDRESS: 10885 NE 4th St 8th floor, Bellevue, WA 98004,maverick,10885 NE 4th St 8th floor,Bellevue
