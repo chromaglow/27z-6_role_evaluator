@@ -49,12 +49,19 @@ The project combines:
 
 ## 🚀 Quick Start
 
-### Prerequisites
+### 📘 For Non-Technical Users
+**New to coding?** Start here:
+- **[HOW TO USE THIS TOOL](HOW_TO_USE_THIS_TOOL.md)** - Complete step-by-step guide
+- **[QUICK START](QUICK_START.md)** - 5-minute quick reference
+
+### 👨‍💻 For Technical Users
+
+#### Prerequisites
 - Python 3.8 or higher
 - Git (for cloning)
 - Modern web browser (for map visualization)
 
-### Installation
+#### Installation
 
 ```bash
 # Clone the repository
