@@ -1,0 +1,32 @@
+# 27z-6 Role Evaluator - Python Dependencies
+# ============================================
+# 
+# This file lists all Python packages required to run the data pipeline,
+# CLI tools, and geocoding utilities.
+#
+# Installation:
+#   pip install -r requirements.txt
+#
+# For development (with testing and linting):
+#   pip install -r requirements-dev.txt
+
+# Core Dependencies
+# -----------------
+
+# PDF text extraction for parsing layoff notices
+pdfplumber>=0.10.0,<0.11.0
+
+# Geocoding utilities for facility location lookup
+geopy>=2.4.0,<3.0.0
+
+# Data validation and type checking (optional but recommended)
+# Uncomment if you want runtime type checking:
+# typeguard>=4.0.0,<5.0.0
+
+# Standard library enhancements
+# (These are built-in but listed for documentation)
+# - csv: CSV file handling
+# - json: JSON data processing
+# - argparse: CLI argument parsing
+# - pathlib: Modern path handling
+# - typing: Type hints support
