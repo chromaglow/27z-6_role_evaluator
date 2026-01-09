@@ -83,15 +83,28 @@ py tools\risk_assessment.py --help
 
 ### **Problem: "pip is not recognized"**
 
-**Solution:** Use Python module syntax
+**Cause:** pip is not in your system PATH (this is very common).
+
+**Solution 1 (Recommended):** Use Python module syntax
 ```cmd
 python -m pip install -r requirements.txt
 ```
 
-Or:
+**Solution 2:** If Solution 1 doesn't work, try:
 ```cmd
 py -m pip install -r requirements.txt
 ```
+
+**Solution 3:** Add pip to PATH (Advanced)
+1. Find Python location:
+   ```cmd
+   where python
+   ```
+2. Add the Scripts folder to your PATH:
+   - Example: `C:\Users\YourName\AppData\Local\Programs\Python\Python311\Scripts\`
+3. Restart Command Prompt
+
+**Pro Tip:** Always use `python -m pip` instead of just `pip` - it's more reliable!
 
 ---
 

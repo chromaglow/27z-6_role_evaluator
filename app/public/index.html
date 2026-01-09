@@ -23,6 +23,15 @@
       max-width: 320px;
     }
     .legend h3 { margin: 0 0 6px 0; font-size: 14px; }
+    .legend i {
+      display: inline-block;
+      width: 18px;
+      height: 18px;
+      margin-right: 8px;
+      vertical-align: middle;
+      border: 1px solid rgba(0,0,0,0.1);
+      border-radius: 3px;
+    }
     .muted { color: #666; }
     .pill {
       display: inline-block;
@@ -33,24 +42,262 @@
       margin-top: 6px;
     }
     .toplist { margin: 8px 0 0 0; padding-left: 18px; }
+    
+    /* Retro Loading Screen */
+    #loadingScreen {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: #000;
+      z-index: 9999;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Courier New', Courier, monospace;
+      color: #00ff00;
+      transition: opacity 0.5s ease-out;
+    }
+    #loadingScreen.fade-out {
+      opacity: 0;
+      pointer-events: none;
+    }
+    .loading-box {
+      border: 2px solid #00ff00;
+      padding: 30px 40px;
+      background: #000;
+      box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);
+      min-width: 500px;
+      text-align: center;
+    }
+    .loading-title {
+      font-size: 18px;
+      margin-bottom: 20px;
+      letter-spacing: 2px;
+    }
+    .loading-bar-container {
+      width: 100%;
+      height: 20px;
+      border: 1px solid #00ff00;
+      margin: 20px 0;
+      background: #001100;
+      position: relative;
+      overflow: hidden;
+    }
+    .loading-bar {
+      height: 100%;
+      background: #00ff00;
+      width: 0%;
+      transition: width 0.15s linear;
+      box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
+    }
+    .loading-message {
+      font-size: 14px;
+      min-height: 20px;
+      margin-top: 15px;
+      letter-spacing: 1px;
+      text-align: left;
+      padding-left: 10px;
+    }
+    .loading-message::before {
+      content: '> ';
+      color: #00ff00;
+    }
+    .cursor-blink {
+      animation: blink 1s infinite;
+    }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    
+    /* DOS-styled Control Panel */
+    #dosPanel {
+      position: absolute;
+      top: 12px;
+      left: 12px;
+      z-index: 1000;
+      background: #000;
+      border: 2px solid #00ff00;
+      padding: 15px;
+      font-family: 'Courier New', Courier, monospace;
+      color: #00ff00;
+      min-width: 320px;
+      box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);
+    }
+    .dos-header {
+      font-size: 14px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid #00ff00;
+      letter-spacing: 1px;
+    }
+    .dos-section {
+      margin: 15px 0;
+      padding: 10px 0;
+    }
+    .dos-section-title {
+      font-size: 12px;
+      font-weight: bold;
+      margin-bottom: 8px;
+      letter-spacing: 1px;
+    }
+    .dos-input {
+      background: #001100;
+      border: 1px solid #00ff00;
+      color: #00ff00;
+      padding: 6px 8px;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 12px;
+      width: 140px;
+    }
+    .dos-input:focus {
+      outline: none;
+      box-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
+    }
+    .dos-button {
+      background: #00ff00;
+      color: #000;
+      border: none;
+      padding: 6px 12px;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 11px;
+      font-weight: bold;
+      cursor: pointer;
+      margin-left: 6px;
+      letter-spacing: 1px;
+    }
+    .dos-button:hover {
+      background: #00cc00;
+      box-shadow: 0 0 10px rgba(0, 255, 0, 0.6);
+    }
+    .dos-button:active {
+      background: #009900;
+    }
+    .dos-checkbox-label {
+      display: block;
+      margin-top: 8px;
+      font-size: 11px;
+      cursor: pointer;
+    }
+    .dos-checkbox {
+      margin-right: 6px;
+      cursor: pointer;
+    }
+    .dos-divider {
+      border-top: 1px dashed #00ff00;
+      margin: 12px 0;
+      opacity: 0.5;
+    }
+    .dos-music-button {
+      background: #001100;
+      border: 1px solid #00ff00;
+      color: #00ff00;
+      padding: 8px 12px;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 11px;
+      font-weight: bold;
+      cursor: pointer;
+      width: 100%;
+      letter-spacing: 1px;
+      margin-bottom: 8px;
+    }
+    .dos-music-button:hover {
+      background: #002200;
+      box-shadow: 0 0 8px rgba(0, 255, 0, 0.4);
+    }
+    .dos-music-button.playing {
+      background: #00ff00;
+      color: #000;
+    }
+    .volume-control {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 11px;
+    }
+    .volume-slider {
+      flex: 1;
+      height: 4px;
+      background: #001100;
+      border: 1px solid #00ff00;
+      outline: none;
+      -webkit-appearance: none;
+    }
+    .volume-slider::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 12px;
+      height: 12px;
+      background: #00ff00;
+      cursor: pointer;
+      border: 1px solid #00ff00;
+    }
+    .volume-slider::-moz-range-thumb {
+      width: 12px;
+      height: 12px;
+      background: #00ff00;
+      cursor: pointer;
+      border: 1px solid #00ff00;
+    }
   </style>
 </head>
 <body>
+  <!-- Retro Loading Screen -->
+  <div id="loadingScreen">
+    <div class="loading-box">
+      <div class="loading-title">LOADING FACILITY IMPACT DATA...</div>
+      <div class="loading-bar-container">
+        <div class="loading-bar" id="loadingBar"></div>
+      </div>
+      <div class="loading-message" id="loadingMessage">
+        Initializing<span class="cursor-blink">_</span>
+      </div>
+      <div style="margin-top: 15px; font-size: 10px; opacity: 0.7; text-align: center;">
+        <span style="cursor: pointer;" id="skipLoading">[Press any key to skip]</span>
+      </div>
+    </div>
+  </div>
+
   <div id="map"></div>
-    <div id="search" style="
-  position: absolute; top: 12px; left: 12px; z-index: 1000;
-  background: white; padding: 10px 12px; border-radius: 8px;
-  box-shadow: 0 2px 10px rgba(0,0,0,.12);
-  font: 12px/1.4 system-ui, -apple-system, Segoe UI, Roboto, Arial;
-">
-  <div style="font-weight: 700; margin-bottom: 6px;">Find facility</div>
-  <input id="facilityInput" placeholder="e.g. SEA40" style="width: 180px; padding: 6px 8px;" />
-  <button id="goBtn" style="padding: 6px 10px; margin-left: 6px;">Go</button>
-  <label style="display:block; margin-top: 8px;">
-    <input type="checkbox" id="impactsOnly" />
-    show impacts only
-  </label>
-</div>
+  
+  <!-- DOS-styled Control Panel -->
+  <div id="dosPanel">
+    <div class="dos-header">NOSTROMO TERMINAL v1.0</div>
+    
+    <!-- Facility Search Section -->
+    <div class="dos-section">
+      <div class="dos-section-title">FACILITY SEARCH</div>
+      <div>
+        <span style="font-size: 12px;">&gt; </span>
+        <input id="facilityInput" class="dos-input" placeholder="SEA40" />
+        <button id="goBtn" class="dos-button">EXECUTE</button>
+      </div>
+      <label class="dos-checkbox-label">
+        <input type="checkbox" id="impactsOnly" class="dos-checkbox" />
+        Show impacts only
+      </label>
+    </div>
+    
+    <div class="dos-divider"></div>
+    
+    <!-- Ambiance Control Section -->
+    <div class="dos-section">
+      <div class="dos-section-title">AMBIANCE CONTROL</div>
+      <button id="musicToggle" class="dos-music-button">🔊 MUTE</button>
+      <div class="volume-control">
+        <span>VOL:</span>
+        <input type="range" id="volumeSlider" class="volume-slider" min="0" max="100" value="50" />
+        <span id="volumePercent">50%</span>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Hidden Audio Element -->
+  <audio id="ambianceAudio" loop>
+    <source src="Blade Runner Blues 7.mp3" type="audio/mpeg">
+  </audio>
 
   <script
     src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -59,234 +306,316 @@
   ></script>
 
   <script>
-  // Basic basemap centered on Seattle-ish by default; will auto-fit to data bounds.
-  const map = L.map('map', { zoomControl: true }).setView([47.61, -122.33], 10);
-
-  // Layer for always-visible facility ID labels
-  const labelLayer = L.layerGroup().addTo(map);
-
-
-
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      maxZoom: 19,
-      attribution: '&copy; OpenStreetMap contributors'
-    }).addTo(map);
-
-    function radiusFromAffected(n) {
-      // Conservative scaling so markers are readable.
-      // Feel free to tweak later.
-      if (!n || n <= 0) return 4;
-      if (n < 10) return 6;
-      if (n < 50) return 10;
-      if (n < 150) return 14;
-      if (n < 400) return 18;
-      return 22;
+  (function() {
+    var messages = [
+      'Boot Sequence Initiated',
+      'Mother 182',
+      'NOSTROMO',
+      '1809246(09)',
+      'Weyland-Yutani',
+      '"Building Better Worlds"',
+      'Would you like to know more?'
+    ];
+    
+    var loadingBar = document.getElementById('loadingBar');
+    var loadingMessage = document.getElementById('loadingMessage');
+    var loadingScreen = document.getElementById('loadingScreen');
+    var skipButton = document.getElementById('skipLoading');
+    
+    var currentMessage = 0;
+    var progress = 0;
+    var messageInterval = null;
+    var progressInterval = null;
+    var completed = false;
+    
+    function completeLoading() {
+      if (completed) return;
+      completed = true;
+      
+      if (messageInterval) clearInterval(messageInterval);
+      if (progressInterval) clearInterval(progressInterval);
+      
+      loadingScreen.classList.add('fade-out');
+      
+      setTimeout(function() {
+        if (loadingScreen && loadingScreen.parentNode) {
+          loadingScreen.parentNode.removeChild(loadingScreen);
+        }
+      }, 500);
     }
+    
+    messageInterval = setInterval(function() {
+      if (currentMessage < messages.length) {
+        loadingMessage.innerHTML = messages[currentMessage] + '<span class="cursor-blink">_</span>';
+        currentMessage++;
+      }
+    }, 1000);
+    
+    progressInterval = setInterval(function() {
+      progress += 1.4;
+      if (progress >= 100) {
+        progress = 100;
+        if (progressInterval) clearInterval(progressInterval);
+      }
+      loadingBar.style.width = progress + '%';
+    }, 100);
+    
+    document.addEventListener('keydown', completeLoading, { once: true });
+    
+    if (skipButton) {
+      skipButton.addEventListener('click', completeLoading, { once: true });
+    }
+    
+    loadingScreen.addEventListener('click', completeLoading, { once: true });
+    
+    setTimeout(completeLoading, 7000);
+  })();
+  
+  (function() {
+    var audio = document.getElementById('ambianceAudio');
+    var musicToggle = document.getElementById('musicToggle');
+    var volumeSlider = document.getElementById('volumeSlider');
+    var volumePercent = document.getElementById('volumePercent');
+    
+    var hasStarted = false;
+    var isMuted = false;
+    
+    audio.volume = 0.5;
+    audio.currentTime = 15;
+    
+    function startMusicOnFirstClick(e) {
+      if (e.target.id === 'musicToggle' || e.target.closest('#musicToggle')) {
+        return;
+      }
+      
+      if (!hasStarted) {
+        hasStarted = true;
+        audio.currentTime = 15;
+        audio.play().catch(function(err) {
+          console.error('Audio playback failed:', err);
+        });
+        musicToggle.textContent = '🔊 MUTE';
+        musicToggle.classList.add('playing');
+        
+        document.removeEventListener('click', startMusicOnFirstClick);
+      }
+    }
+    
+    document.addEventListener('click', startMusicOnFirstClick);
+    
+    musicToggle.addEventListener('click', function(e) {
+      e.stopPropagation();
+      
+      if (!hasStarted) {
+        hasStarted = true;
+        audio.currentTime = 15;
+        audio.play().catch(function(err) {
+          console.error('Audio playback failed:', err);
+        });
+        musicToggle.textContent = '🔊 MUTE';
+        musicToggle.classList.add('playing');
+        document.removeEventListener('click', startMusicOnFirstClick);
+        return;
+      }
+      
+      if (isMuted) {
+        audio.muted = false;
+        musicToggle.textContent = '🔊 MUTE';
+        musicToggle.classList.add('playing');
+        isMuted = false;
+      } else {
+        audio.muted = true;
+        musicToggle.textContent = '🔇 UNMUTE';
+        musicToggle.classList.remove('playing');
+        isMuted = true;
+      }
+    });
+    
+    audio.addEventListener('timeupdate', function() {
+      if (audio.currentTime < 15 && hasStarted) {
+        audio.currentTime = 15;
+      }
+    });
+    
+    volumeSlider.addEventListener('input', function(e) {
+      var volume = e.target.value / 100;
+      audio.volume = volume;
+      volumePercent.textContent = e.target.value + '%';
+    });
+  })();
+  
+  var map = L.map('map', { zoomControl: true }).setView([47.61, -122.33], 10);
+  var labelLayer = L.layerGroup().addTo(map);
 
-    function colorFromAffected(n) {
-    if (n <= 0)  return '#d9d9d9'; // no impact
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  function radiusFromAffected(n) {
+    if (!n || n <= 0) return 4;
+    if (n < 10) return 6;
+    if (n < 50) return 10;
+    if (n < 150) return 14;
+    if (n < 400) return 18;
+    return 22;
+  }
+
+  function colorFromAffected(n) {
+    if (n <= 0)  return '#d9d9d9';
     if (n <= 5)  return '#a6cee3';
     if (n <= 15) return '#1f78b4';
     if (n <= 30) return '#ffb703';
     if (n <= 60) return '#fb8500';
     return '#d62828';
-}
-
-
-    function copyCliCommand(facilityId) {
-  const cmd =
-    `python tools\\risk_assessment.py ` +
-    `--facility ${facilityId} ` +
-    `--title "Program Manager III" ` +
-    `--nearest 8 --radius_km 30`;
-
-  navigator.clipboard.writeText(cmd).then(() => {
-    alert(`Copied CLI command for ${facilityId}`);
-  }).catch(err => {
-    console.error(err);
-    alert('Failed to copy command to clipboard.');
-  });
-}
-
-
-    function popupHtml(p) {
-  const topTitles = (p.topTitles || []).slice(0, 5);
-  const titleList = topTitles
-    .map(t => `<li>${t.affected} — ${escapeHtml(t.title)}</li>`)
-    .join('');
-
-  return `
-    <div style="font: 13px/1.35 system-ui, -apple-system, Segoe UI, Roboto, Arial; max-width: 360px;">
-      <div style="font-weight: 700; font-size: 14px;">
-        ${escapeHtml(p.facilityId)}
-      </div>
-
-      <div class="muted">
-        totalAffected: <b>${p.totalAffected}</b>,
-        titles: <b>${p.jobTitleCount}</b>,
-        notices: <b>${p.noticeCount}</b>
-      </div>
-
-      <div style="margin-top: 8px;">
-        <button
-          onclick="copyCliCommand('${escapeHtml(p.facilityId)}')"
-          style="
-            padding: 6px 10px;
-            border-radius: 6px;
-            border: 1px solid #ccc;
-            background: #f7f7f7;
-            cursor: pointer;
-          "
-        >
-          Copy CLI command
-        </button>
-      </div>
-
-      <div style="margin-top: 6px;">
-        <span class="pill">hasImpacts: ${p.hasImpacts ? 'true' : 'false'}</span>
-        <span class="pill">geoSource: ${escapeHtml(p.geoSource || '')}</span>
-      </div>
-
-      ${
-        topTitles.length
-          ? `<div style="margin-top: 8px; font-weight: 600;">Top titles</div>
-             <ol class="toplist">${titleList}</ol>`
-          : ''
-      }
-
-      ${
-        p.geoNotes
-          ? `<div class="muted" style="margin-top: 8px;">${escapeHtml(p.geoNotes)}</div>`
-          : ''
-      }
-    </div>
-  `;
-}
-
-
-    function escapeHtml(s) {
-      return String(s || '').replace(/[&<>"']/g, c => ({
-        '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
-      }[c]));
-    }
-
-    // Legend control
-    const legend = L.control({ position: 'topright' });
-    legend.onAdd = function (map) {
-  const div = L.DomUtil.create('div', 'info legend');
-
-  div.innerHTML = `
-    <strong>Affected Employees</strong><br>
-    <i style="background:#d9d9d9"></i> 0 (no impact)<br>
-    <i style="background:#a6cee3"></i> 1–5 (very low)<br>
-    <i style="background:#1f78b4"></i> 6–15 (low)<br>
-    <i style="background:#ffb703"></i> 16–30 (medium)<br>
-    <i style="background:#fb8500"></i> 31–60 (high)<br>
-    <i style="background:#d62828"></i> 60+ (very high)
-  `;
-
-  return div;
-};
-
-    legend.addTo(map);
-
-    let geojsonLayer = null;
-let featuresById = new Map();
-
-function renderLayer(fc, impactsOnly=false) {
-  if (geojsonLayer) {
-    map.removeLayer(geojsonLayer);
-    geojsonLayer = null;
   }
 
-labelLayer.clearLayers();
-featuresById.clear();
+  function copyCliCommand(facilityId) {
+    var cmd =
+      'python tools\\\\risk_assessment.py ' +
+      '--facility ' + facilityId + ' ' +
+      '--title "Program Manager III" ' +
+      '--nearest 8 --radius_km 30';
 
-geojsonLayer = L.geoJSON(fc, {
-  filter: (feature) => {
-    if (!impactsOnly) return true;
-    const p = feature.properties || {};
-    return !!p.hasImpacts && Number(p.totalAffected || 0) > 0;
-  },
-
-  pointToLayer: (feature, latlng) => {
-  const p = feature.properties || {};
-
-  // Always-visible facility ID label
-  if (p.facilityId) {
-    L.marker(latlng, {
-      icon: L.divIcon({
-        className: 'facility-label',
-        html: String(p.facilityId),
-        iconSize: [0, 0]
-      }),
-      interactive: false
-    }).addTo(labelLayer);
-  }
-
-  const n = Number(p.totalAffected || 0);
-
-  return L.circleMarker(latlng, {
-    radius: radiusFromAffected(n),
-    color: n > 30 ? '#111' : '#444',
-    weight: 1,
-    fillColor: colorFromAffected(n),
-    fillOpacity: 0.8
-  });
-},
-
-
-
-  onEachFeature: (feature, layer) => {
-    const p = feature.properties || {};
-    layer.bindPopup(popupHtml(p));
-    if (p.facilityId) {
-      featuresById.set(String(p.facilityId).toUpperCase(), { feature, layer });
-    }
-  }
-}).addTo(map);
-
-
-  const b = geojsonLayer.getBounds();
-  if (b.isValid()) map.fitBounds(b.pad(0.15));
-}
-
-fetch('./facilities.geojson')
-  .then(r => r.json())
-  .then(fc => {
-    window.__FACILITIES_FC__ = fc; // handy for debugging
-    renderLayer(fc, false);
-
-    const input = document.getElementById('facilityInput');
-    const goBtn = document.getElementById('goBtn');
-    const impactsOnly = document.getElementById('impactsOnly');
-
-    function go() {
-      const id = (input.value || '').trim().toUpperCase();
-      if (!id) return;
-      const hit = featuresById.get(id);
-      if (!hit) {
-        alert(`Facility '${id}' not found in map layer.`);
-        return;
-      }
-      const latlng = hit.layer.getLatLng();
-      map.setView(latlng, Math.max(map.getZoom(), 12));
-      hit.layer.openPopup();
-    }
-
-    goBtn.addEventListener('click', go);
-    input.addEventListener('keydown', (e) => {
-      if (e.key === 'Enter') go();
+    navigator.clipboard.writeText(cmd).then(function() {
+      alert('Copied CLI command for ' + facilityId);
+    }).catch(function(err) {
+      console.error(err);
+      alert('Failed to copy command to clipboard.');
     });
+  }
 
-    impactsOnly.addEventListener('change', () => {
-      featuresById = new Map();
-      renderLayer(fc, impactsOnly.checked);
+  function popupHtml(p) {
+    var topTitles = (p.topTitles || []).slice(0, 5);
+    var titleList = topTitles
+      .map(function(t) { return '<li>' + t.affected + ' — ' + escapeHtml(t.title) + '</li>'; })
+      .join('');
+
+    return '<div style="font: 13px/1.35 system-ui, -apple-system, Segoe UI, Roboto, Arial; max-width: 360px;">' +
+      '<div style="font-weight: 700; font-size: 14px;">' + escapeHtml(p.facilityId) + '</div>' +
+      '<div class="muted">totalAffected: <b>' + p.totalAffected + '</b>, titles: <b>' + p.jobTitleCount + '</b>, notices: <b>' + p.noticeCount + '</b></div>' +
+      '<div style="margin-top: 8px;"><button onclick="copyCliCommand(\'' + escapeHtml(p.facilityId) + '\')" style="padding: 6px 10px; border-radius: 6px; border: 1px solid #ccc; background: #f7f7f7; cursor: pointer;">Copy CLI command</button></div>' +
+      '<div style="margin-top: 6px;"><span class="pill">hasImpacts: ' + (p.hasImpacts ? 'true' : 'false') + '</span><span class="pill">geoSource: ' + escapeHtml(p.geoSource || '') + '</span></div>' +
+      (topTitles.length ? '<div style="margin-top: 8px; font-weight: 600;">Top titles</div><ol class="toplist">' + titleList + '</ol>' : '') +
+      (p.geoNotes ? '<div class="muted" style="margin-top: 8px;">' + escapeHtml(p.geoNotes) + '</div>' : '') +
+      '</div>';
+  }
+
+  function escapeHtml(s) {
+    return String(s || '').replace(/[&<>"']/g, function(c) {
+      return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
     });
-  })
-    .catch(err => {
-    console.error(err);
-    alert('Failed to load facilities.geojson. Check console for details.');
-  });
-</script>
+  }
 
+  var legend = L.control({ position: 'topright' });
+  legend.onAdd = function (map) {
+    var div = L.DomUtil.create('div', 'info legend');
+    div.innerHTML =
+      '<strong>Affected Employees</strong><br>' +
+      '<i style="background:#d9d9d9"></i> 0 (no impact)<br>' +
+      '<i style="background:#a6cee3"></i> 1–5 (very low)<br>' +
+      '<i style="background:#1f78b4"></i> 6–15 (low)<br>' +
+      '<i style="background:#ffb703"></i> 16–30 (medium)<br>' +
+      '<i style="background:#fb8500"></i> 31–60 (high)<br>' +
+      '<i style="background:#d62828"></i> 60+ (very high)';
+    return div;
+  };
+  legend.addTo(map);
+
+  var geojsonLayer = null;
+  var featuresById = new Map();
+
+  function renderLayer(fc, impactsOnly) {
+    if (geojsonLayer) {
+      map.removeLayer(geojsonLayer);
+      geojsonLayer = null;
+    }
+
+    labelLayer.clearLayers();
+    featuresById.clear();
+
+    geojsonLayer = L.geoJSON(fc, {
+      filter: function(feature) {
+        if (!impactsOnly) return true;
+        var p = feature.properties || {};
+        return !!p.hasImpacts && Number(p.totalAffected || 0) > 0;
+      },
+
+      pointToLayer: function(feature, latlng) {
+        var p = feature.properties || {};
+
+        if (p.facilityId) {
+          L.marker(latlng, {
+            icon: L.divIcon({
+              className: 'facility-label',
+              html: String(p.facilityId),
+              iconSize: [0, 0]
+            }),
+            interactive: false
+          }).addTo(labelLayer);
+        }
+
+        var n = Number(p.totalAffected || 0);
+
+        return L.circleMarker(latlng, {
+          radius: radiusFromAffected(n),
+          color: n > 30 ? '#111' : '#444',
+          weight: 1,
+          fillColor: colorFromAffected(n),
+          fillOpacity: 0.8
+        });
+      },
+
+      onEachFeature: function(feature, layer) {
+        var p = feature.properties || {};
+        layer.bindPopup(popupHtml(p));
+        if (p.facilityId) {
+          featuresById.set(String(p.facilityId).toUpperCase(), { feature: feature, layer: layer });
+        }
+      }
+    }).addTo(map);
+
+    var b = geojsonLayer.getBounds();
+    if (b.isValid()) map.fitBounds(b.pad(0.15));
+  }
+
+  fetch('./facilities.geojson')
+    .then(function(r) { return r.json(); })
+    .then(function(fc) {
+      window.__FACILITIES_FC__ = fc;
+      renderLayer(fc, false);
+
+      var input = document.getElementById('facilityInput');
+      var goBtn = document.getElementById('goBtn');
+      var impactsOnly = document.getElementById('impactsOnly');
+
+      function go() {
+        var id = (input.value || '').trim().toUpperCase();
+        if (!id) return;
+        var hit = featuresById.get(id);
+        if (!hit) {
+          alert('Facility \'' + id + '\' not found in map layer.');
+          return;
+        }
+        var latlng = hit.layer.getLatLng();
+        map.setView(latlng, Math.max(map.getZoom(), 12));
+        hit.layer.openPopup();
+      }
+
+      goBtn.addEventListener('click', go);
+      input.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter') go();
+      });
+
+      impactsOnly.addEventListener('change', function() {
+        featuresById = new Map();
+        renderLayer(fc, impactsOnly.checked);
+      });
+    })
+    .catch(function(err) {
+      console.error(err);
+      alert('Failed to load facilities.geojson. Check console for details.');
+    });
+  </script>
+</body>
+</html>

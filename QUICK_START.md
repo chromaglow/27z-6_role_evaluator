@@ -25,7 +25,12 @@
 
 Type this and press Enter:
 ```
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
+```
+
+**If that doesn't work, try:**
+```
+py -m pip install -r requirements.txt
 ```
 
 Wait for it to finish (1-2 minutes).

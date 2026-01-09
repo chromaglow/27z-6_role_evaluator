@@ -100,7 +100,7 @@ A black Command Prompt window will open, already in the right folder!
 In the Command Prompt window, type this exactly and press **Enter**:
 
 ```
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 **What you'll see:**
@@ -108,8 +108,12 @@ pip install -r requirements.txt
 - This might take 1-2 minutes
 - When it's done, you'll see a new line where you can type
 
-**If you see an error:**
-- Try this instead: `python -m pip install -r requirements.txt`
+**⚠️ If you see "pip is not recognized":**
+- This is normal! Use the command above with `python -m pip` instead of just `pip`
+
+**If you see "python is not recognized":**
+- Try: `py -m pip install -r requirements.txt`
+- If that doesn't work, Python isn't installed (go back to Step 1)
 
 ---
 
