@@ -1,181 +1,166 @@
-# Layoff Notice Match Tool
+# Layoff Notice Analyzer
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 
-A deterministic, evidence-first tool for exploring how facilities and job titles relate to published layoff notices.
+I built this tool after getting anxious about layoffs at work. Wanted to see which facilities and job titles were actually mentioned in published WARN notices instead of relying on rumors.
 
-The project combines:
-- 🗺️ An interactive, client-rendered map for spatial exploration
-- 🔍 A reproducible Python CLI for facility- and role-specific risk analysis
-- 📊 A data pipeline for normalizing and validating WARN notice data
+**What it does:** Matches facilities and job titles against official layoff notices. Shows you the data, not predictions.
 
-> **Important:** This tool does **not** predict individual layoff likelihood.  
-> It only matches user-selected inputs to explicitly published notice data and shows the supporting evidence and nearby context.
+**What it doesn't do:** It won't tell you if YOU specifically are getting laid off. It just shows what's in the public notices.
 
 ---
 
-## 📑 Table of Contents
+## Quick Start
 
-- [Features](#-features)
-- [Quick Start](#-quick-start)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Documentation](#-documentation)
-- [Project Structure](#-project-structure)
-- [Development](#-development)
-- [Privacy & Safety](#-privacy--safety)
-- [License](#-license)
+**Not technical?** Check out [GETTING_STARTED.md](GETTING_STARTED.md) - I wrote it for my non-tech friends.
 
----
-
-## ✨ Features
-
-### What This Is
-- ✅ Evidence-first matching tool against official layoff notices
-- ✅ Deterministic, testable system (no ML, no prediction)
-- ✅ Client-rendered map for exploration + local CLI for analysis
-- ✅ Geographic proximity reasoning using published data
-
-### What This Is Not
-- ❌ Not a prediction model
-- ❌ Not a probability calculator
-- ❌ Not an HR system
-- ❌ Not a claim about any individual's likelihood of being laid off
-
----
-
-## 🚀 Quick Start
-
-### 📘 For Non-Technical Users
-**New to coding?** Start here:
-- **[HOW TO USE THIS TOOL](HOW_TO_USE_THIS_TOOL.md)** - Complete step-by-step guide
-- **[QUICK START](QUICK_START.md)** - 5-minute quick reference
-
-### 👨‍💻 For Technical Users
-
-#### Prerequisites
-- Python 3.8 or higher
-- Git (for cloning)
-- Modern web browser (for map visualization)
-
-#### Installation
+**Know Python?** Here's the fast version:
 
 ```bash
-# Clone the repository
-git clone https://github.com/chromaglow/27z-6_role_evaluator.git
-cd 27z-6_role_evaluator
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
+# Install
 pip install -r requirements.txt
-```
 
-For detailed installation instructions, see [INSTALL.md](INSTALL.md).
+# Run the map
+scripts\run_map.bat
+
+# Or check a specific facility
+python tools\risk_assessment.py --facility SEA40 --title "Program Manager"
+```
 
 ---
 
-## 💻 Usage
+## The Map
 
-### Interactive Map
+The interactive map shows all the facilities mentioned in layoff notices. Bigger circles = more people affected.
 
-**Option A (PowerShell):**
-```powershell
-powershell -ExecutionPolicy Bypass -File scripts\run_map.ps1
-```
+**Features:**
+- Click any facility to see details
+- Search for specific facility codes
+- Filter to show only impacted facilities
+- Retro terminal UI (because why not)
+- Background music auto-plays on first click (Blade Runner vibes)
 
-**Option B (Batch):**
-```cmd
+**Easter eggs:**
+- Loading screen quotes are from Alien and Starship Troopers
+- Press any key to skip the loading screen (I got impatient during testing)
+- The terminal is called NOSTROMO because of course it is
+
+To launch the map:
+```bash
 scripts\run_map.bat
 ```
 
 Then open your browser to `http://localhost:8000`
 
-The map is a static Leaflet application served locally. Facilities are labeled directly on the map and colored by impact severity.
+---
 
-### Command-Line Interface (CLI)
+## Command Line Tool
 
-**Direct usage:**
+If you want to dig deeper into a specific facility and job title:
+
 ```bash
 python tools\risk_assessment.py --facility SEA93 --title "Product Manager III"
 ```
 
-**Using wrapper script:**
-```powershell
-powershell -ExecutionPolicy Bypass -File scripts\risk.ps1 -Facility SEA93 -Title "Product Manager III"
-```
+This will show you:
+- Exact matches in the notices
+- Nearby facilities with similar impacts
+- The actual notice text (so you can verify it yourself)
 
-**With proximity options:**
-```bash
-python tools\risk_assessment.py --facility SEA93 --title "Product Manager III" --nearest 5 --radius_km 30
-```
-
-> 💡 **Tip:** The map includes a "Copy CLI" button in each facility popup that generates a ready-to-run command for deeper analysis.
+**Pro tip:** The map has a "Copy CLI" button in each facility popup that generates the command for you.
 
 ---
 
-## 📚 Documentation
+## How It Works
 
-Start here for detailed information:
+1. I grabbed the WARN notices (public layoff announcements)
+2. Parsed them to extract facility codes and job titles
+3. Geocoded the facilities so they can be mapped
+4. Built a map to visualize it all
+5. Added a CLI tool for detailed analysis
 
-| Document | Description |
-|----------|-------------|
-| [SPEC.md](docs/SPEC.md) | Source-of-truth product specification |
-| [DATA_SCHEMA.md](docs/DATA_SCHEMA.md) | Normalized data model and structure |
-| [SCORING.md](docs/SCORING.md) | Tiering and explainability rules |
-| [DECISIONS.md](docs/DECISIONS.md) | Architectural decisions and rationale |
-| [UI_WIREFRAME.md](docs/UI_WIREFRAME.md) | UI structure and design intent |
-| [INSTALL.md](INSTALL.md) | Detailed installation guide |
-| [CONTRIBUTING.md](CONTRIBUTING.md) | Development guidelines |
+Everything is deterministic - no ML, no predictions, just matching what you ask for against what's in the notices.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 27z-6_role_evaluator/
-├── app/                    # Static Leaflet map (HTML/JS) and generated GeoJSON
+├── app/                    # The map (HTML/JS)
 │   └── public/
-│       ├── index.html      # Map UI
+│       ├── index.html      # Map interface
 │       └── facilities.geojson
-├── data/                   # Source notices, normalized datasets, geocodes
-│   ├── raw/                # Original PDF notices
-│   ├── normalized/         # Canonical JSON datasets
-│   ├── exports/            # Generated CSV/GeoJSON exports
-│   └── facilities/         # Facility geocoding data
-├── docs/                   # Product specs, decisions, scoring rules
-├── scripts/                # One-command wrappers and build helpers
-│   ├── run_map.ps1         # Start map server
-│   ├── build_map_data.bat  # Regenerate map data
-│   └── risk.ps1            # CLI wrapper
-├── tools/                  # Python data pipelines and CLI
-│   ├── risk_assessment.py  # Main CLI tool
-│   ├── export_*.py         # Data export scripts
-│   └── geocode_*.py        # Geocoding utilities
-├── requirements.txt        # Production dependencies
-├── requirements-dev.txt    # Development dependencies
-├── setup.py                # Package installation config
-├── pyproject.toml          # Modern Python project config
-└── README.md               # This file
+├── data/                   # All the notice data
+│   ├── raw/                # Original PDFs
+│   ├── normalized/         # Cleaned up data
+│   └── exports/            # CSV files for analysis
+├── docs/                   # Detailed specs (if you're curious)
+├── scripts/                # Helper scripts to run things
+└── tools/                  # Python scripts for data processing
 ```
 
 ---
 
-## 🛠️ Development
+## Installation
 
-### Setting Up Development Environment
+**Prerequisites:**
+- Python 3.8 or higher
+- A web browser
+
+**Steps:**
+```bash
+# Clone or download this repo
+cd 27z-6_role_evaluator
+
+# Install dependencies
+pip install -r requirements.txt
+
+# That's it!
+```
+
+For more detailed instructions, see [INSTALL.md](INSTALL.md).
+
+---
+
+## Documentation
+
+If you want to dive deeper:
+
+| Document | What's in it |
+|----------|--------------|
+| [GETTING_STARTED.md](GETTING_STARTED.md) | Step-by-step for non-tech folks |
+| [INSTALL.md](INSTALL.md) | Detailed installation help |
+| [TROUBLESHOOTING.md](TROUBLESHOOTING.md) | Common issues and fixes |
+| [docs/SPEC.md](docs/SPEC.md) | Full technical specification |
+| [docs/DATA_SCHEMA.md](docs/DATA_SCHEMA.md) | How the data is structured |
+
+---
+
+## Known Issues
+
+- Geocoding sometimes gets confused by weird facility codes (working on it)
+- The map can be slow if you load all facilities at once
+- Volume slider looks a bit janky on Firefox
+
+---
+
+## Privacy & Safety
+
+- Everything runs locally on your machine
+- No data gets sent anywhere
+- No personal employee information is stored
+- All data comes from public WARN notices
+
+---
+
+## Development
+
+Want to contribute or modify something?
 
 ```bash
-# Install development dependencies
+# Install dev dependencies
 pip install -r requirements-dev.txt
-
-# Install pre-commit hooks (optional)
-pre-commit install
 
 # Run tests
 pytest
@@ -183,106 +168,43 @@ pytest
 # Format code
 black tools/
 
-# Type checking
-mypy tools/
-
-# Linting
-flake8 tools/
-```
-
-### Data Pipeline
-
-The project includes several data processing scripts:
-
-```bash
-# Build combined dataset from notices
-python tools/build_combined.py
-
-# Refresh facility geocodes
-python tools/geocode_refresh_from_addresses.py
-
-# Export facility rollup
-python tools/export_facility_rollup_from_impacts.py
-
-# Generate map GeoJSON
-python tools/export_facilities_geojson.py
-
-# Or use the all-in-one script
+# Rebuild the map data
 scripts\build_map_data.bat
 ```
 
-### Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ---
 
-## 🔒 Privacy & Safety
+## Tech Stack
 
-- **Client-only execution:** Map UI is client-rendered
-- **No data transmission:** No user input leaves the local machine
-- **No personal data:** No personal employee data is stored or displayed
-- **Evidence-based:** All outputs are derived from published notice data
-- **Deterministic logic:** All matching and scoring is inspectable and testable
-
----
-
-## 📊 Development Status
-
-**Current Version:** v1.0-internal (Initial viable prototype)
-
-**Current Focus:**
-- ✅ Data correctness and geocoding accuracy
-- ✅ Scoring and explainability validation
-- 🔄 Packaging and internal distribution workflows
-- 🔄 Testing and code quality improvements
+- **Map:** Leaflet.js (client-side, no server needed)
+- **Data processing:** Python with pandas
+- **PDF parsing:** pdfplumber
+- **Geocoding:** geopy + OpenStreetMap
 
 ---
 
-## 🤝 How It Works (High Level)
+## Why I Built This
 
-```mermaid
-graph LR
-    A[Layoff Notices] --> B[Normalize Data]
-    B --> C[Geocode Facilities]
-    C --> D[Generate Exports]
-    D --> E[Interactive Map]
-    D --> F[CLI Tool]
-    E --> G[User Exploration]
-    F --> H[Risk Assessment]
-```
+I was tired of hearing rumors and speculation about layoffs. Wanted to see the actual data from official sources. Figured others might find it useful too.
 
-1. Layoff notices are normalized into a canonical dataset
-2. Facilities are geocoded and rolled up by impact
-3. The map visualizes facilities, impact magnitude, and top affected roles
-4. Users can explore spatial clusters and copy a reproducible CLI command
-5. The CLI performs a deterministic match and explains the supporting evidence
-
-All logic is deterministic and inspectable.
+This tool doesn't predict anything - it just shows you what's already public. Think of it as a search engine for layoff notices.
 
 ---
 
-## 📄 License
+## License
 
-MIT License. See [LICENSE.txt](LICENSE.txt) for details.
-
----
-
-## 🙏 Acknowledgments
-
-- Built with [Leaflet](https://leafletjs.com/) for map visualization
-- Uses [pdfplumber](https://github.com/jsvine/pdfplumber) for PDF text extraction
-- Geocoding powered by [geopy](https://github.com/geopy/geopy) and OpenStreetMap Nominatim
+MIT License - do whatever you want with it. See [LICENSE.txt](LICENSE.txt).
 
 ---
 
-## 📞 Support
+## Questions?
 
-For questions or issues:
-1. Check the [documentation](docs/)
-2. Review [existing issues](https://github.com/chromaglow/27z-6_role_evaluator/issues)
-3. Open a new issue with detailed information
+1. Check [GETTING_STARTED.md](GETTING_STARTED.md) or [TROUBLESHOOTING.md](TROUBLESHOOTING.md)
+2. Look through the [docs/](docs/) folder
+3. Open an issue if something's broken
 
 ---
 
-**Made with ❤️ for evidence-based decision making**
+**Built out of anxiety, powered by public data** 🗺️

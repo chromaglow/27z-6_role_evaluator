@@ -15,7 +15,6 @@ Usage:
     python tools/risk_assessment.py --facility SEA40 --title "Program Manager III"
     python tools/risk_assessment.py --facility SEA93 --title "SDE II" --nearest 5 --radius_km 30
 
-Author: 27z-6 Role Evaluator Team
 Version: 1.0.0
 """
 
